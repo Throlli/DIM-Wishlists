@@ -1,0 +1,888 @@
+title:{WIP}Throlli's Wishlist up to Season of the Worthy
+description:{WIP}Notes on specific roles on all guns in Destiny 2
+
+/*
+The Weapons will be listed from newest to oldest.
+Exotics, Pinnacles and Ritual Weapons will be at the bottom to be able to access them more easily when they get changed.
+If you want to edit notes search for the weapon name it should bring you there.
+Also Future Warcult and Trials of the Nine Guns from Year 1 won't be included because I own none of them.
+
+The marked Rolls are the best possible Rolls on the respective weapon.
+Ranking is based on the current META. This includes Weapon Archetype and Frame.
+Ranking:
+Must have
+Really good
+Pretty good
+Decent
+Mediocre
+Bad
+
+{Roadmap} 
++ Structuring done
++ Exotic Weapons (Released prior to 14th March 2020) done
++ Heavy Grenade Launchers Updated
++ Pinnacles and Ritual Weapons need to be formated but done
+- Season 1-8 Weapons to do
+- Constantly adding more Roles
+- Exotic Armor might be added later
+- Might be adding notes on Seasonal Mod Slots for Armor
+- Finishing Sunshots Catalyst before adjusting the review (Mag increase with Shadowkeep helped it (Yeah it's Season of the Worthy by now and I haven't done the Catalyst yet))
+- Maybe getting the Revoker to review it (In case I'm in your Trials Team: I got Revoker just using Mountaintop instead ;D)
+*/
+
+	//Season 10 (of the Worthy)
+		//Rasputin
+			//Bunker Weapons
+				//Seventh Seraph Carbine
+	//Kinetic Precision Frame Auto Rifle, Any Barrel, High-Caliber Rounds, Fourth Time's the Charm, Rampage
+dimwishlist:item=1561006927&perks=1561002382,1354429876,3425386926#notes:(Throlli's Bunker) Really good for PvE due to Warmind Cells
+				//Seventh Seraph Officer Revolver
+	//Kinetic Precision Frame Hand Cannon, Full Bore, Accurized Rounds, Firmly Planted, Timed Payload
+dimwishlist:item=3037520408&perks=202670084,3142289711,280464955,1954620775#notes:(Throlli's Bunker) Decent for PvP
+	//Kinetic Precision Frame Hand Cannon, Any Barrel, Any Magazine, Ambitious Assassin, Feeding Frenzy
+dimwishlist:item=3037520408&perks=2010801679,2779035018#notes:(Throlli's Bunker) Really good for PvE due to Warmind Cells
+				//Seventh Seraph SI-2
+	//Void Lightweight Frame Sidearm, Any Barrel, Any Magazine, Demolitionist, Dragonfly
+dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:(Throlli's Bunker) Really good for PvE due to Warmind Cells
+				//Seventh Seraph SAW
+	//Arc High-Impact Frame Machine Gun, Any Barrel, High-Caliber Rounds, Field Prep, Vorpal Weapon
+dimwishlist:item=2582755344&perks=1561002382,2869569095,1546637391#notes:(Throlli's Bunker) Really good for PvE due to Warmind Cells
+				
+		//Trials
+			//The Scholar
+	//Kinetic High-Impact Frame Scout Rifle, Any Barrel, High-Caliber Rounds, Opening Shot, Celerity
+dimwishlist:item=2478792241&perks=1561002382,47981717,1264398905#notes:(Throlli's Trials) Really good when last living Fireteam member in PvP
+	//Kinetic High-Impact Frame Scout Rifle, Any Barrel, High-Caliber Rounds, Slideways, Celerity
+dimwishlist:item=2478792241&perks=1561002382,2039302152,1264398905#notes:(Throlli's Trials) Really good when last living Fireteam member in PvP
+			//Astral Horizon
+	//Kinetic Aggressive Frame Shotgun, Rifled Barrel, Accurized Rounds, Slideshot, Opening Shot
+dimwishlist:item=1697682876&perks=1332244541,3142289711,3161816588,47981717#notes:(Throlli's Trials) Must have for PvP
+	//Kinetic Aggressive Frame Shotgun, Full Choke, Accurized Rounds, Slideshot, Opening Shot
+dimwishlist:item=1697682876&perks=1047830412,3142289711,3161816588,47981717#notes:(Throlli's Trials) Must have for PvP
+	//Kinetic Aggressive Frame Shotgun, Rifled Barrel, Accurized Rounds, Quickdraw, Opening Shot
+dimwishlist:item=1697682876&perks=1332244541,3142289711,706527188,47981717#notes:(Throlli's Trials) Must have for PvP
+	//Kinetic Aggressive Frame Shotgun, Full Choke, Accurized Rounds, Quickdraw, Opening Shot
+dimwishlist:item=1697682876&perks=1047830412,3142289711,706527188,47981717#notes:(Throlli's Trials) Must have for PvP
+			//Eye of Sol
+	//Kinetic Adaptve Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Snapshot Sights, Vorpal Weapon
+dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,1546637391#notes:(Throlli's Trials) Must have for Super Shutdown in PvP
+	//Kinetic Adaptve Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Snapshot Sights, Celerity
+dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,1264398905#notes:(Throlli's Trials) Must have when last living Fireteam member in PvP
+	//Kinetic Adaptve Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Snapshot Sights, Opening Shot
+dimwishlist:item=3164743584&perks=1840239774,3142289711,957782887,47981717#notes:(Throlli's Trials) Must have for PvP
+			//The Summoner
+	//Solar Adaptive Frame Auto Rifle, Any Barrel, High-Caliber Rounds, Zen Moment, Celerity
+dimwishlist:item=1907698332&perks=1561002382,2387244414,1264398905#notes:(Throlli's Trials) Must have when last living Fireteam member in PvP
+			//Exile's Curse
+	//Arc High-Impact Frame Fusion Rifle, Any Barrel, Any Battery, No Distractions, Celerity
+dimwishlist:item=679281855&perks=2866798147,1264398905#notes:(Throlli's Trials) Pretty good when last living Fireteam member in PvP
+			//Tomorrow's Answer
+	//Void High-Impact Frame Rocket Launcher, Any Barrel, Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=958384347&perks=3796465595,2869569095,2284787283#notes:(Throlli's Trials) Mediocre for PvE
+
+		//World Gear
+			//Returning Dead Orbit Weapons
+				//Dire Promise
+	//Kinetic Lightweight Frame Hand Cannon, Crossfire HCS, High-Caliber Rounds, Opening Shot, Rangefinder
+dimwishlist:item=2742838701&perks=1926090090,1561002382,47981717,2846385770#notes:(Throlli's Dead Orbit) Must have for PvP
+	//Kinetic Lightweight Frame Hand Cannon, Sureshot HCS, High-Caliber Rounds, Opening Shot, Rangefinder
+dimwishlist:item=2742838701&perks=1926090091,1561002382,47981717,2846385770#notes:(Throlli's Dead Orbit) Must have for PvP
+				//Escape Velocity
+	//Kinetic Lightweight Frame Submachine Gun, IS 2 Classic, Flared Magwell, Zen Moment, Quickdraw
+dimwishlist:item=1786797708&perks=2209280307,3230963543,2387244414,706527188#notes:(Throlli's Dead Orbit) Decent
+				//Distant Tumulus
+	//Solar Rapid-Fire Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Dragonfly, Opening Shot
+dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,47981717#notes:(Throlli's Dead Orbit) Decent for PvP
+
+			//Returning New Monarchy Weapons
+				//Jian 7 Rifle
+	//Arc Adaptive Frame Pulse Rifle, SPO-26 Front, High-Caliber Rounds, Zen Moment, Rampage
+dimwishlist:item=1162247618&perks=3151536503,1561002382,2387244414,3425386926#notes:(Throlli's New Monarchy) Really good
+				//Interference VI
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Full Court
+dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:(Throlli's New Monarchy) Must have for PvE (Total Damage)
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Clown Cartridge, Full Court
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:(Throlli's New Monarchy) Must have for PvE (Sustained DPS)
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Swashbuckler
+dimwishlist:item=2257180473&perks=3301904089,2869569095,4082225868#notes:(Throlli's New Monarchy) Must have for PvE (Melee Kills (Total Damage))
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Grave Robber, Swashbuckler
+dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:(Throlli's New Monarchy) Must have for PvE (Melee Kills (Sustained DPS))
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Clown Cartridge, Demolitionist
+dimwishlist:item=2257180473&perks=3301904089,2284787283,3523296417#notes:(Throlli's New Monarchy) Must have for PvE (Two Mag DPS (Grenade))
+				//Honor's Edge
+	//Arc Adaptive Frame Sword, Any Blade, Any Guard, Energy Transfer, Flash Counter
+dimwishlist:item=2857348871&perks=2030760728,2244851822#notes:(Throlli's New Monarchy) Really good for Blocking
+	
+			//Returning Future Warcult Weapons
+				//True Prophecy
+	//Kinetic Aggressive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Rangefinder, Timed Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2846385770,1954620775#notes:(Throlli's Future Warcult) Mediocre for PvP 
+				//Enigma's Draw
+	//Kinetic Precision Frame Sidearm, Any Sight, High-Caliber Rounds, Any Trait, Any Trait
+dimwishlist:item=1723380073&perks=1561002382#notes:(Throlli's Future Warcult) Bad
+				//Timelines' Vertex
+	//Solar Adaptive Frame Fusion Rifle, Any Sight, Any Battery, Firmly Planted, Demolitionist
+dimwishlist:item=3055192515&perks=280464955,3523296417#notes:(Throlli's Future Warcult) Decent
+	
+			//Season Pass
+				//Seventh Seraph CQC-12
+	//Solar Lightweight Frame Shotgun, Any Barrel, Assault Mag, Any Trait, Trench Barrel
+dimwishlist:item=1821724780&perks=791862061,2360754333#notes:(Throlli's Worthy) Really good for PvE
+				//Seventh Seraph VY-7
+	//Arc Precision Frame Submachine Gun, Any Barrel, Any Magazine, Ambitious Assassin, Feeding Frenzy
+dimwishlist:item=766323545&perks=2010801679,2779035018#notes:(Throlli's Worthy) Really good for PvE due to Warmind Cells
+	//Arc Precision Frame Submachine Gun, Any Barrel, Any Magazine, Fourth Times the Charm, Dragonfly
+dimwishlist:item=766323545&perks=1354429876,2848615171#notes:(Throlli's Worthy) Really good for PvE due to Warmind Cells
+
+
+
+
+	//Season 9 (of Dawn)
+		//Sundial
+			//Mars Obelisk
+				//Martyr's Retribution
+	//Solar Wave Frame Grenade Launcher, Any Barrel, Implosion Rounds, Field Prep, Demolitionist
+dimwishlist:item=3850168899&perks=3492396210,2869569095,3523296417#notes:(Throlli's Sundial) Must have for PvE
+				//Line in the Sand
+	//Arc Precision Frame Linear Fusion Rifle, Any Barrel, Any Battery, Rapid Hit, Firing Line
+dimwishlist:item=946443267&perks=247725512,1771339417#notes:(Throlli's Sundial) Really good for PvE
+				//Bygones is under Season 4 Gambit
+			//EDZ Obelisk
+				//Gallant Charge
+	//Solar High-Impact Frame Fusion Rifle, Any Barrel, Any Battery, Demolitionist, Swashbuckler
+dimwishlist:item=1706206669&perks=3523296417,4082225868#notes:(Throlli's Sundial) Decent
+				//Infinite Paths 8
+	//Arc Lightweight Frame Pulse Rifle, Any Barrel, Any Magazine, Demolitionist, Dragonfly
+dimwishlist:item=3233390913&perks=3523296417,2848615171#notes:(Throlli's Sundial) Must have for PvE
+				//Last Perdition is under Season 6 Crucible
+			//Nessus Obelisk
+				//Patron of Lost Causes
+	//Kinetic Lightweight Frame Scout Rifle, Any Barrel, Any Magazine, Rapid Hit, Explosive Payload
+dimwishlist:item=2723241847&perks=247725512,3038247973#notes:(Throlli's Sundial) Really good
+				//Traveler's Judgement 5
+	//Arc Adaptive Frame Sidearm, Any Sight, High-Caliber Rounds, Any Trait, Disruption Break
+dimwishlist:item=4149758318&perks=1561002382,1683379515#notes:(Throlli's Sundial) Decent
+				//Jack Queen King 3
+	//Arc Lightweight Frame Hand Cannon, Any Sight, High-Caliber Rounds, Demolitionist, Dragonfly
+dimwishlist:item=410996590&perks=1561002382,3523296417,2848615171#notes:(Throlli's Timelost) Really good for PvE
+			//Tangled Shore Obelisk
+				//Steelfeather Repeater
+	//Kinetic Rapid-Fire Frame Auto Rifle, Any Barrel, High-Caliber Rounds, Feeding Frenzy, Swashbuckler
+dimwishlist:item=1251729046&perks=1561002382,2779035018,4082225868#notes:(Throlli's Sundial) Must have
+				//Breachlight
+	//Kinetic Aggressive Frame Sidearm, Any Barrel, Any Magazine, Demolitionist, Rampage
+dimwishlist:item=1289997971&perks=3523296417,3425386926#notes:(Throlli's Sundial) Pretty good
+	//Kinetic Aggressive Frame Sidearm, Any Barrel, Any Magazine, Outlaw, Multikill Clip
+dimwishlist:item=1289997971&perks=1168162263,2458213969#notes:(Throlli's Sundial) Pretty good
+				//Black Scorpion-4sr is under Season 4 Gunsmith
+			//Tower Obelisk
+				//Perfect Paradox
+	//Kinetic Rapid-Fire Frame Shotgun, Full Choke, Accurized Rounds, Slideshot, Rampage
+dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,3425386926#notes:(Throlli's Sundial) Really good for PvP
+	//Kinetic Rapid-Fire Frame Shotgun, Full Choke, Accurized Rounds, Slideshot, One-Two Punch
+dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,2679249093#notes:(Throlli's Sundial) Really good
+	//Kinetic Rapid-Fire Frame Shotgun, Full Choke, Accurized Rounds, Demolitionist, One-Two Punch
+dimwishlist:item=3393519051&perks=1047830412,3142289711,3523296417,2679249093#notes:(Throlli's Sundial) Really good
+	//Kinetic Rapid-Fire Frame Shotgun, Rifled Barrel, Accurized Rounds, Slideshot, Rampage
+dimwishlist:item=3393519051&perks=1332244541,3142289711,3161816588,3425386926#notes:(Throlli's Sundial) Really good for PvP
+	//Kinetic Rapid-Fire Frame Shotgun, Rifled Barrel, Accurized Rounds, Slideshot, One-Two Punch
+dimwishlist:item=3393519051&perks=1332244541,3142289711,3161816588,2679249093#notes:(Throlli's Sundial) Really good
+	//Kinetic Rapid-Fire Frame Shotgun, Rifled Barrel, Accurized Rounds, Demolitionist, One-Two Punch
+dimwishlist:item=3393519051&perks=1332244541,3142289711,3523296417,2679249093#notes:(Throlli's Sundial) Really good
+				//Trophy Hunter is under Season 9 Season Pass
+				//Pyroclastic Flow is under Season 9 Season Pass
+		
+		//World Gear
+			//The Old Fashioned
+	//Kinetic Adaptive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Slideshot, Explosive Payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,3038247973#notes:(Throlli's Engrams) Really good
+	//Kinetic Adaptive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Demolitionist, Explosive Payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3523296417,3038247973#notes:(Throlli's Engrams) Really good
+	//Kinetic Adaptive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Feeding Frenzy, Kill Clip
+dimwishlist:item=3569802112&perks=1926090091,3142289711,2779035018,1015611457#notes:(Throlli's Engrams) Really good
+			//Hawthorne's Field-Forged Shotgun
+	//Kinetic Lightweight Frame Shotgun, Rifled Barrel, Accurized Rounds, Firmly Planted, Opening Shot
+dimwishlist:item=1807343361&perks=1332244541,3142289711,280464955,47981717#notes:(Throlli's Engrams) Really good for PvP
+	//Kinetic Lightweight Frame Shotgun, Full Choke, Accurized Rounds, Firmly Planted, Opening Shot
+dimwishlist:item=1807343361&perks=1047830412,3142289711,280464955,47981717#notes:(Throlli's Engrams) Really good for PvP
+			//Uriel's Gift
+	//Arc Precision Frame Auto Rifle, Torch HS3, High-Caliber Rounds, Frimly Planted, Tap the Trigger
+dimwishlist:item=3863882743&perks=1628165636,1561002382,280464955,1890422124#notes:(Throlli's Engrams) Really good for PvP
+			//Elatha FR4
+	//Solar High-Impact Frame Fusion Rifle, Torch HS3, Any Battery, Firmly Planted, Demolitionist
+dimwishlist:item=4106983932&perks=1628165636,280464955,3523296417#notes:(Throlli's Engrams) Really good for PvP
+			//Last Hope
+	//Arc Omolon Adaptive Frame Sidearm, Any Sight, High-Caliber Rounds, Feeding Frenzy, Multikill Clip
+dimwishlist:item=3622137132&perks=1561002382,2779035018,2458213969#notes:(Throlli's Engrams) Must have for PvE
+			//Mos Epoch III
+	//Arc Aggressive Frame Rocket Launcher, Any Barrel, Impact Casing, Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=1529450902&perks=3796465595,3300816228,1275731761#notes:(Throlli's Engrams) Mediocre for PvE
+		
+		//Season Pass
+			//Trophy Hunter
+	//Void Aggressive Frame Sniper Rifle, Any Barrel, Appended Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=4166221755&perks=1087426260,3400784728,1546637391#notes:(Throlli's Dawn) Must have for PvE
+			//Pyroclastic Flow
+	//Solar Precision Frame Rocket Launcher, Any Barrel, Any Magazine, Ambitious Assassin, Cluster Bomb
+dimwishlist:item=1289324202&perks=2010801679,1275731761#notes:(Throlli's Dawn) Decent for PvE
+		
+		//The Dawning
+			//Cold Front
+	//Kinetic Aggressive Frame Submachine Gun, Any Barrel, Any Magazine, Zen Moment, Kill Clip
+dimwishlist:item=1506719573&perks=2387244414,1015611457#notes:(Throlli's Dawning) Pretty good
+	//Kinetic Aggressive Frame Submachine Gun, Any Barrel, Any Magazine, Zen Moment, Vorpal Weapon
+dimwishlist:item=1506719573&perks=2387244414,1546637391#notes:(Throlli's Dawning) Pretty good
+	//Kinetic Aggressive Frame Submachine Gun, Any Barrel, Any Magazine, Feeding Frenzy, Kill Clip
+dimwishlist:item=1506719573&perks=2779035018,1015611457#notes:(Throlli's Dawning) Pretty good
+	//Kinetic Aggressive Frame Submachine Gun, Any Barrel, Any Magazine, Feeding Frenzy, Vorpal Weapon
+dimwishlist:item=1506719573&perks=2779035018,1546637391#notes:(Throlli's Dawning) Pretty good
+
+
+
+
+	//Season 8 (of Undying)
+		//Planetary
+			//Moon
+				//Cryptoglyph
+					//Loud Lullaby
+	//Kinetic Aggressive Frame Hand Cannon, Any Barrel, Any Magazine, Outlaw, Multikill Clip
+dimwishlist:item=3924212056&perks=1168162263,2458213969#notes:(Throlli's Moon) Decent
+					//One Small Step
+	//Kinetic Rapid-Fire Frame Shotgun, Full Choke, Tactical Mag, Auto-Loading Holster, One-Two Punch
+dimwishlist:item=1016668089&perks=1047830412,106909392,3300816228,2679249093#notes:(Throlli's Moon) Pretty good
+					//Tranquility
+	//Kinetic Adaptive Frame Sniper Rifle, Any Barrel, Any Magazine, Field Prep, Firing Line
+dimwishlist:item=1645386487&perks=2869569095,1771339417#notes:(Throlli's Moon) Must have for PvE
+					//Arc Logic
+	//Arc Adaptive Frame Auto Rifle, Smallbore, Accurized Rounds, Moving Target, Rangefinder
+					//Dream Breaker
+	//Solar Adaptive Frame Fusion Rifle, Any Barrel, Any Battery, Firmly Planted, Tap the Trigger
+					//Every Waking Moment
+	//Void Precision Frame Submachine Gun, Any Barrel, High-Caliber Rounds, Outlaw, Disruption Break
+					//Love and Death
+	//Solar Rapid-Fire Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Full Court
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:(Throlli's Moon) Must have for PvE (Total Damage)
+					//A fine Memorial
+	//Arc Adaptive Frame Machine Gun, Any Barrel, High-Caliber Rounds, Quickdraw, Demolitionist
+					//Night Terror
+	//Arc Adaptive Frame Sword, Jagged Edge, Heavy Guard, Relentless Strikes, Whirlwind Blade
+				//Pit of Heresy
+					//Premonition
+	//Void High-Impact Frame Pulse Rifle, Any Barrel, Any Magazine, Outlaw, Dragonfly
+dimwishlist:item=208088207&perks=1168162263,2848615171#notes:(Throlli's Pit of Heresy) Really good for PvE
+				//Altar's of Sorrow
+					//Blasphemer
+	//Kinetic Precision Frame Shotgun, Hammer-Forged Rifling, High-Caliber Rounds, Quickdraw, Opening Shot
+dimwishlist:item=2782847179&perks=3250034553,1561002382,706527188,47981717#notes:(Throlli's Altars of Sorrow) Must have for PvP
+	//Kinetic Precision Frame Shotgun, Any Barrel, Assault Mag, Quickdraw, Opening Shot
+dimwishlist:item=2782847179&perks=791862061,706527188,47981717#notes:(Throlli's Altars of Sorrow) Must have for PvP
+	//Kinetic Precision Frame Shotgun, Any Barrel, Assault Mag, Quickdraw, Swashbuckler
+dimwishlist:item=2782847179&perks=791862061,706527188,4082225868#notes:(Throlli's Altars of Sorrow) Must have for PvP
+					//Apostate
+	//Arc Rapid-Fire Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Moving Target, Snapshot Sights
+dimwishlist:item=2164448701&perks=1840239774,3142289711,588594999,957782887#notes:(Throlli's Altars of Sorrow) Must have for PvP
+					//Heretic
+	//Arc Aggressive Frame Rocket Launcher, Impact Casing, Demolitionist, Cluster Bomb
+dimwishlist:item=3067821200&perks=3796465595,3523296417,1275731761#notes:(Throlli's Altars of Sorrow) Must have for PvE
+
+		//Garden of Salvation
+			//Accrued Redemption
+	//Kinetic Precision Frame Bow, Any String, Any Arrow, Archer's Tempo, Rampage
+			//Sacred Provenance
+	//Kinetic Aggressive Burst Pulse Rifle, Any Barrel, High-Caliber Rounds, Rapid Hit, Kill Clip
+			//Reckless Oracle
+	//Void Rapid-Fire Frame Auto Rifle, Any Barrel, High-Caliber Rounds, Outlaw, Swashbuckler
+			//Zealot's Reward
+	//Void Rapid-Fire Frame Fusion Rifle, Any Barrel, Any Battery, Feeding Frenzy, Rampage
+			//Ancient Gospel
+	//Solar Adaptive Frame Hand Cannon, Any Barrel, Accurized Rounds, Rapid Hit, Dragonfly
+			//Prophet of Doom
+	//Arc Precision Frame Shotgun, Rifled Barrel, Accurized Rounds, Feeding Frenzy, One-Two Punch
+	//Arc Precision Frame Shotgun, Full Choke, Accurized Rounds, Feeding Frenzy, One-Two Punch
+			//Omniscient Eye
+	//Solar Rapid-Fire Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, No Distractions, Snapshot Sights
+
+		//Vex Offensive
+			//Imperative
+			//Optative
+			//Adhortative
+	//Solar Adaptive Frame Pulse Rifle, Any Barrel, Any Magazine, Feeding Frenzy, Multikill Clip
+	//Solar Adaptive Frame Pulse Rifle, Any Barrel, High-Caliber Rounds, Feeding Frenzy, Rampage
+			//Subjunctive
+	//Arc Lightweight Frame Submachine Gun, Any Barrel, Any Magazine, Outlaw, Rampage
+
+		//Season Pass
+			//Pluperfect
+			//Temporal Clause
+
+		//Festival of the Lost
+			//BrayTech Werewolf
+	//Kinetic Precision Frame Auto Rifle, Hammer-Forged Rifling, Armor-Piercing Rounds, Zen Moment, Multikill Clip
+
+
+
+
+	//Season 7 (of Opulence)
+		//Crown of Sorrow
+			//Gahlran's Right Hand
+	//Kinetic High-Impact Frame Auto Rifle, Any Barrel, High-Caliber Rounds, Tap the Trigger, Multikill Clip
+			//Calusea Noblesse
+	//Void High-Impact Frame Auto Rifle, Any Barrel, Any Magazine, Disruption Break, Dragonfly
+			//Emperor's Courtesy
+	//Arc Lightweight Frame Shotgun, Rifled Barrel, Accurized Rounds, Grave Robber, One-Two Punch
+dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:(Throlli's Crown of Sorrow) Must have for PvE
+			//Bane of Sorrow
+	//Void High-Impact Frame Machine Gun, Corkscrew Rifling, High-Caliber Rounds, Outlaw, Dragonfly
+dimwishlist:item=1496419775&perks=4090651448,1561002382,1168162263,2848615171#notes:(Throlli's Crown of Sorrow) Must have for PvE
+
+		//Menagerie
+			//Austringer
+	//Kinetic Adaptive Frame Hand Cannon, Full Bore, Flared Magwell, Eye of the Storm, Rampage
+			//Imperial Decree
+	//Kinetic Aggressive Frame Shotgun, Full Choke, Accurized Rounds, Slideshot, Rampage
+	//Kinetic Aggressive Frame Shotgun, Rifled Barrel, Accurized Rounds, Slideshot, Rampage
+	//Kinetic Aggressive Frame Shotgun, Any Barrel, Assault Mag, Any Trait, Trench Barrel
+			//The Epicurean
+			//Drang (Baroque)
+			//Beloved
+			//CALUS Mini-Tool
+			//Fixed Odds
+		//Heroic
+			//Throne-Cleaver
+			//Goldtusk
+			//Death's Razor
+
+		//Iron Banner
+			//Gunnora's Axe
+	//Arc Precision Frame Shotgun, Any Barrel, Assault Mag, Quickdraw, Opening Shot
+	//Arc Precision Frame Shotgun, Any Barrel, Assault Mag, Quickdraw, Swashbuckler
+			//Shining Sphere
+
+
+
+
+	//Season 6 (of the Drifter)
+		//Gambit Prime
+			//Swords
+				//Night Watch
+	//Kinetic Lightweight Frame Scout Rifle, Any Barrel, Any Magazine, Rapid Hit, Rampage
+	//Kinetic Lightweight Frame Scout Rifle, Any Barrel, Any Magazine, Rapid Hit, Multikill Clip
+				//Lonesome
+	//Kinetic Precision Frame Sidearm, Any Barrel, Any Magazine, Rapid Hit, Multikill Clip
+				//Last Man Standing
+	//Solar Aggressive Frame Shotgun, Rifled Barrel, Assault Mag, Grave Robber, One-Two Punch
+	//Solar Aggressive Frame Shotgun, Any Barrel, Any Magazine, Any Trait, One-Two Punch
+				//Sole Survivor
+	//Arc Adaptive Frame Sniper, Any Barrel, Appended Mag, Triple Tap, Firing Line
+	//Arc Adaptive Frame Sniper, Any Barrel, Appended Mag, Fourth Time's the Charm, Firing Line
+			//Likeness of Oryx
+				//Spare Rations
+	//Kinetic Lightweight Frame Hand Cannon, Full Bore, High-Caliber Rounds, Rapid Hit, Kill Clip
+	//Kinetic Lightweight Frame Hand Cannon, Hammer-Forged Rifling, Appended Mag, Overflow, Explosive Payload
+				//Outlast
+	//Solar Rapid-Fire Frame Pulse Rifle, Any Barrel, Accurized Rounds, Feeding Frenzy, Kill Clip
+				//Bug-Out Bag
+		
+		//Reckoning
+			//Swords
+				//Just in case
+			//Likeness of Oryx
+				//Gnawing Hunger
+	//Void Adaptive Frame Auto Rifle, Any Barrel, Any Magazine, Tap the Trigger, Kill Clip
+				//Doomsday
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Full Court
+dimwishlist:item=736901634&perks=3301904089,2869569095,2888557110#notes:(Throlli's Reckoning) Must have for PvE (Total Damage)
+		
+		//Vanguard
+			//Service Revolver
+	//Kinetic Precision Frame Hand Cannon, Any Sight, High-Caliber Rounds, Rapid Hit, Rampage
+		
+		//Crucible
+			//Last Perdition
+	//Void Adaptive Frame Pulse Rifle, SPO-26 Front, Accurized Rounds, Moving Target, Kill Clip
+		
+		//Iron Banner
+			//The Wizened Rebuke
+	//Arc High-Impact Frame Fusion Rifle, Any Sight, Any Battery, Under Pressure, Tap the Trigger
+			//Orewing's Maul
+	//Void Lightweight Frame Grenade Launcher, Any Barrel, Spike Grenades, Quickdraw, Demolitionist
+
+
+
+
+	//Season 5 (of the Forge) {Black Armory}
+		//Scourge of the Past
+			//Threat Level
+	//Kinetic Rapid-Fire Frame Shotgun, Any Barrel, Any Magazine, Surrounded, Grave Robber
+			//Tempered Dynamo
+			//No Feelings
+	//Arc Precision Frame Scout Rifle, Rasmussen ISA, Any Magazine, Rapid Hit, Box Breathing
+			//Bellowing Giant
+
+		//Black Armory
+					//Bad News XF4354
+	//Kinetic Aggressive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Rangefinder, Timed Payload
+					//Baligant XU7743
+					//Show of Force XF4865
+					//Atalanta-D XG1992
+	//Kinetic Precision Frame Submachine Gun, SC Holo, High-Caliber Rounds, Zen Moment, Kill Clip
+dimwishlist:item=2422664927&perks=2054312700,1561002382,2387244414,1015611457#notes:(Throlli's Black Armory) Must have for PvP
+					//Dead Man Walking XX7463
+					//Galliard-42 XN7568
+					//Swift Ride XE8375
+					//Tango-45 XK5094
+					//Dead Man Walking XX7463
+					//Acantha-D XK8434
+	//Arc Rapid-Fire Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Ambitious Assassin
+dimwishlist:item=1757129747&perks=3301904089,2869569095,2010801679#notes:(Throlli's Black Armory) Pretty good for PvE (Preload with AA for DPS)
+					//Hoosegow XE5837
+			//Forges
+				//Völundr Forge
+					//The Ringing Nail
+	//Solar Precision Frame Auto Rifle, Rasmussen ISA, High-Caliber Rounds, Dragonfly, Rampage
+					//Hammerhead
+	//Void Adaptive Frame Machine Gun, Any Barrel, High-Caliber Rounds, Feeding Frenzy, Surrounded
+	//Void Adaptive Frame Machine Gun, Any Barrel, High-Caliber Rounds, Feeding Frenzy, Rampage
+	//Void Adaptive Frame Machine Gun, Hammer-Forged Rifling, Armor-Piercing Rounds, Feeding Frenzy, Rampage
+	//Void Adaptive Frame Machine Gun, Fluted Barrel, High-Caliber Rounds, Tap the Trigger, Rampage
+					//Stryker's Sure Hand
+	//Arc Adaptive Frame Sword, Jagged Edge, Heavy Guard, Any Trait, Surrounded
+	//Arc Adaptive Frame Sword, Jagged Edge, Any Guard, Relentless Strikes, Whirlwind Blade
+				//Gofannon Forge
+					//Kindled Orchid
+	//Void Adaptive Frame Hand Cannon, Corkscrew Rifling, Drop Mag, Kill Clip, Rampage
+	//Void Adaptive Frame Hand Cannon, Any Barrel, Drop Mag, Surrounded, Rampage
+	//Void Adaptive Frame Hand Cannon, Any Barrel, Drop Mag, Kill Clip, Explosive Payload
+					//Tatara Gaze
+	//Arc Aggressive Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Snapshot Sights, Kill Clip
+				//Izanami Forge
+					//The Spiteful Fang
+	//Kinetic Lightweight Frame Bow, Any String, Any Arrow, Archer's Tempo, Explosive Head
+					//Blast Furnace
+	//Kinetic Aggressive Burst Pulse Rifle, Rasmussen ISA, Any Magazine, Feeding Frenzy, Rampage
+	//Kinetic Aggressive Burst Pulse Rifle, Rasmussen ISA, Any Magazine, Feeding Frenzy, Kill Clip
+
+		//Vanguard
+			//Nightshade
+			//Persuader
+
+		//Crucible
+			//Does not Compute
+	//Kinetic High-Impact Frame Scout Rifle, Hitmark IS, Tactical Mag, Zen Moment, Rampage
+			//Wishbringer
+
+		//Iron Banner
+			//Crimil's Dagger
+	//Kinetic Aggressive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Rangefinder, Opening Shot
+			//The Hero's Burden
+	//Void Adaptive Frame Submachine Gun, SPO-26 Front, High-Caliber Rounds, Zen Moment, Kill Clip
+
+		//The Dawning
+			//Avalanche
+		
+		//Crimson Days
+			//The Vow
+
+
+
+
+	//Season 4 (of the Outlaw) {Forsaken}
+		//Planetary
+			//Dreaming City
+				//Tigerspite
+				//Waking Vigil
+	//Arc Lightweight Frame Hand Cannon, Sureshot HCS, High-Caliber Rounds, Opening Shot, Slideshot
+				//Vouchsafe
+				//Retold Tale
+dimwishlist:item=346136302&perks=1047830412,3142289711,706527188,3425386926#notes:(Throlli's Dreaming City) Must have for PvP
+dimwishlist:item=346136302&perks=1047830412,3142289711,706527188,3161816588#notes:(Throlli's Dreaming City) Must have for PvP
+dimwishlist:item=346136302&perks=1332244541,3142289711,706527188,3425386926#notes:(Throlli's Dreaming City) Must have for PvP
+dimwishlist:item=346136302&perks=1332244541,3142289711,706527188,3161816588#notes:(Throlli's Dreaming City) Must have for PvP
+				//Twilight Oath
+	//Kinetic Rapid-Fire Frame Sniper Rifle, Chambered Compensator, Steady Rounds, Snapshot Sights, Box Breathing
+				//Sleepless
+				//Abide the Return
+
+		//Last Wish
+			//Chattering Bone
+	//Kinetic Lightweight Frame Pulse Rifle, Any Barrel, High-Caliber Rounds, Outlaw, Rampage
+			//Transfiguration
+	//Kinetic High-Impact Frame Scout Rifle, Fluted Barrel, Tactical Mag, Rampage, Kill Clip
+			//The Supremacy
+	//Kinetic Rapid-Fire Frame Sniper Rifle, Fluted Barrel, High-Caliber Rounds, Snapshot Sights, Rampage
+			//Age-Old Bond
+	//Void High-Impact Frame Auto Rifle, Extended Barrel, Light Mag, Fourth Time's the Charm, Rampage
+			//Tyranny of Heaven
+			//Techeun Force
+			//Nation of Beasts
+			//Apex Predator
+
+		//Nightfall Exclusives
+			//Lake of Shadows
+				//The Militia's Birthright
+			//Warden of Nothing
+				//Warden's Law
+	//Kinetic Double Fire Hand Cannon, Any Barrel, Any Magazine, Rampage, Feeding Frenzy
+dimwishlist:item=233423981&perks=2779035018,3425386926#notes:(Throlli's Nightfall Exclusives) Really good
+			//The Corrupted
+				//Horror's Least
+			//The Hollowed Lair
+				//Mindbender's Ambition
+			//Insight Terminus
+				//The Long Goodbye
+
+		//Vanguard
+			//Nameless Midnight
+			//Toil and Trouble
+			//Long Shadow
+			//Main Ingredient
+			//The Last Dance
+			//Outrageous Fortune
+	//Solar Rapid-Fire Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Ambitious Assassin
+dimwishlist:item=4146702548&perks=3301904089,2869569095,2010801679#notes:(Throlli's Vanguard) Pretty good for PvE (Preload with AA for DPS)
+		
+		//Crucible
+			//Better Devils
+			//Hard Truths
+			//Anonymus Autumn
+			//Fate Cries Foul
+			//Play of the Game
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Ambitious Assassin
+dimwishlist:item=195440257&perks=3301904089,2869569095,2010801679#notes:(Throlli's Crucible) Pretty good for PvE (Preload with AA for DPS)
+			//Steel Sybil Z-14
+		
+		//Gambit
+			//Hazard of the Cast
+			//Bygones
+			//Parcel of Stardust
+			//Dreaded Venture
+	//Kinetic Aggressive Frame Sniper Rifle, Any Barrel, Appended Mag, Triple Tap, Rapid Hit
+			//Pillager
+	//Kinetic Lightweight Frame Submachine Gun, Any Barrel, High-Caliber Rounds, Outlaw, Rampage
+			//Trust
+	//Solar Precision Frame Hand Cannon, Any Barrel, Drop Mag, Dragonfly, Rampage
+			//Distant Relation
+			//Bad Omens
+		
+		//Iron Banner
+			//Talons of the Eagle
+	//Kinetic High-Impact Frame Scout Rifle, Any Barrel, Any Magazine, Zen Moment, Rampage
+			//Bite of the Fox
+	//Kinetic Aggressive Frame Sniper Rifle, Fluted Barrel, Accurized Rounds, Snapshot Sights, Moving Target
+			//Claws of the Wolf
+	//Void Rapid-Fire Frame Pulse Rifle, Any Barrel, High-Caliber Rounds, Outlaw, Kill Clip
+			//Breath of the Dragon
+	//Arc Lightweight Frame Submachine Gun, Any Barrel, High-Caliber Rounds, Slideways, Rampage
+	//Arc Lightweight Frame Submachine Gun, Any Barrel, Ricochet Rounds, Slideways, Rampage
+			//Swarm of the Raven
+	//Void Rapid-Fire Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Ambitious Assassin
+dimwishlist:item=1972985595&perks=3301904089,2869569095,2010801679#notes:(Throlli's Iron Banner) Pretty good for PvE (Preload with AA for DPS)
+			//Roar of the Bear
+		
+		//World Gear
+				//No Turning Back
+				//Duke Mk. 44
+	//Kinetic Aggressive Frame Hand Cannon, Sureshot HCS, Rapid Hit, High-Caliber Rounds, Rampage
+				//Ten Paces
+	//Kinetic Adaptive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Quickdraw, Rampage
+				//Go Figure
+				//Wrong Side of Right
+				//Dust Rock Blues
+	//Kinetic Precision Frame Shotgun, Rifled Barrel, Accurized Rounds, Slideshot, Rampage
+	//Kinetic Precision Frame Shotgun, Full Choke, Accurized Rounds, Slideshot, Rampage
+				//Smuggler's Word
+				//Trackless Waste
+				//Misfit
+				//Arsenic Bite
+				//Subtle Calamity
+				//Thin Line
+				//Right Side of Wrong
+				//The Cut and Run
+				//Badlander
+				//Death by Scorn
+				//Translation Theory
+				//Vestian Dynasty
+				//Bad Reputation
+				//Edge Transit
+	//Void Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Ambitious Assassin
+dimwishlist:item=218335759&perks=3301904089,2869569095,2010801679#notes:(Throlli's Engrams) Pretty good for PvE (Preload with AA for DPS)
+				//Terran Wind
+	//Solar Rapid-Fire Frame Grenade Launcher, Countermass, Remote Detonation, Quickdraw, Rampage
+dimwishlist:item=301362380&perks=3809316345,3999527219,706527188,3425386926#notes:(Throlli's Engrams) Bad
+				//Through Fire and Flood
+	//Arc Adaptive Frame Grenade Launcher, Any Barrel, Spike Grenades, Field Prep, Ambitious Assassin
+dimwishlist:item=301362381&perks=3301904089,2869569095,2010801679#notes:(Throlli's Engrams) Pretty good for PvE (Preload with AA for DPS)
+				//Crooked Fang-4fr
+	//Void Precision Frame Linear Fusion Rifle, Any Barrel, Any Battery, Moving Target, Rampage
+dimwishlist:item=3419149443&perks=588594999,3425386926#notes:(Throlli's Gunsmith) Bad
+				//Zenobia-D
+	//Arc Häkke Precision Frame Rocket Launcher, Any Barrel, Impact Casing, Field Prep, Cluster Bomb 
+			//Gunsmith exclusive
+				//Halfdan-D
+	//Kinetic High-Impact Frame Auto Rifle, SC Holo, Accurized Rounds, Tap the Trigger, Kill Clip
+				//Pribina-D
+	//Kinetic Aggressive Frame Hand Cannon, Sureshot HCS, Accurized Rounds, Rangefinder, Opening Shot
+				//Eystein-D
+	//Kinetic High-Impact Frame, LD Watchdog, High-Caliber Rounds, Rangefinder, Kill Clip
+dimwishlist:item=3199662972&perks=1313805251,1561002382,2846385770,1015611457#notes:(Throlli's Gunsmith) Must have for PvP
+				//Antiope-D
+	//Kinetic Precision Frame Submachine Gun, SC Holo, High-Caliber Rounds, Zen Moment, Kill Clip
+dimwishlist:item=2561659919&perks=2054312700,1561002382,2387244414,1015611457#notes:(Throlli's Gunsmith) Must have for PvP
+				//Valakadyn
+	//Solar Rapid-Fire Frame Auto Rifle, Any Barrel, High-Caliber Rounds, Under Pressure, Kill Clip
+				//Erentil FR4
+	//Void High-Impact Frame Fusion Rifle, Flash HS5, Particle Repeater, Under Pressure, High-Impact Reserves
+				//Proelium FR3
+	//Solar Rapid-Fire Frame Fusion Rifle, Flash HS5, Any Battery, Under Pressure, High-Impact Reserves
+				//Black Scorpion-4sr
+	//Arc VEIST Rapid-Fire Scout Rifle, Any Barrel, Any Magazine, Zen Moment, Opening Shot
+				//Good Bone Structure
+	//Arc Precision Frame Shotgun, Any Barrel, Assault Mag, Quickdraw, Opening Shot
+				//Elegy-49
+	//Void Adaptive Frame Sniper Rifle, SSO-08 Sniper, Accurized Rounds, Snapshot Sights, Moving Target
+
+		//Festival of the Lost
+			//Horror Story
+	//Kinetic Precision Frame Auto Rifle, Red Dot Micro, Flared Magwell, Zen Moment, Rampage
+
+
+
+
+	//Season 3 (of the Warmind) {Warmind}
+
+
+
+
+	//Season 2 {Curse of Osiris}
+
+
+
+
+	//Season 1 (of the Red War) {Destiny 2}
+
+
+
+
+	//Pinnacle Weapons
+		//Vanguard
+			//Loaded Question
+dimwishlist:item=580961571&perks=2405638015,1483536627,3300816228,1427256713#notes:(Throlli's Pinnacles) Must have for PvE
+			//Oxygen SR2
+dimwishlist:item=3907337522&perks=1392496348,3142289711,3865257976,1941225610#notes:(Throlli's Pinnacles) Pretty good for PvE
+			//Wendigo GL3
+	//Arc Adaptive Frame Grenade Launcher, Smart Drift Control, Blinding Grenades, Auto-Loading Holster, Explosive Light
+dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#notes:(Throlli's Pinnacles) Must have for PvE (Overall Best with Explosive Light)
+		//Crucible
+			//Redrix's Claymore and Broadsword
+dimwishlist:item=191996029&perks=3661387068,3124871000,3047969693#notes:(Throlli's Pinnacles) Outclassed by the Broadsword
+dimwishlist:item=191996029&perks=4090651448,3124871000,3047969693#notes:(Throlli's Pinnacles) Outclassed by the Broadsword
+dimwishlist:item=191996029&perks=1392496348,3124871000,3047969693#notes:(Throlli's Pinnacles) Outclassed by the Broadsword
+dimwishlist:item=1161276682&perks=839105230,1561002382,1168162263,3047969693#notes:(Throlli's Pinnacles) Must have for PvP
+dimwishlist:item=1161276682&perks=1840239774,1561002382,1168162263,3047969693#notes:(Throlli's Pinnacles) Must have for PvP
+dimwishlist:item=1161276682&perks=202670084,1561002382,1168162263,3047969693#notes:(Throlli's Pinnacles) Must have for PvP
+			//Luna's  Howl and Not Forgotten
+dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289#notes:(Throlli's Pinnacles) Must have for PvP
+dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289#notes:(Throlli's Pinnacles) Must have for PvP
+			//The Mountaintop
+dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#notes:(Throlli's Pinnacles) Must have
+			//The Recluse
+dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624#notes:(Throlli's Pinnacles) Must have
+			//Revoker
+dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835#notes:(Throlli's Pinnacles) Not owned seems to be a "Must have" though
+		//Gambit
+			//Breakneck
+dimwishlist:item=324382200&perks=1392496348,2420895100,3425386926,95528736#notes:(Throlli's Pinnacles) Mediocre for PvE
+			//21% Delirium
+dimwishlist:item=1600633250&perks=1392496348,2420895100,3643424744,2782457288#notes:(Throlli's Pinnacles) Must have for PvE
+			//Hush
+dimwishlist:item=1584643826&perks=1784898267,3827198035,47981717,3414324643#notes:(Throlli's Pinnacles) Decent
+
+
+	//Ritual Weapons
+		//Vanguard
+			//Edgewise
+dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417#notes:(Throlli's Ritual Weapons) Must have for PvE
+			//Buzzard
+dimwishlist:item=805677041&perks=1467527085,1431678320,1168162263,4082225868#notes:(Throlli's Ritual Weapons) Pretty good for PvE
+		//Crucible
+			//Randy's Throwing Knife
+dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,1015611457#notes:(Throlli's Ritual Weapons) Must have
+			//Komodo-4FR
+	//Solar Precision Frame Linear Fusion Rifle, Polygonal Rifling, Accelerated Coils, No Distractions, Eye of the Storm
+dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,699525795#notes:(Throlli`s Ritual Weapons) Decent
+		//Iron Banner
+			//Point of the Stag
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795#notes:(Throlli's Ritual Weapons) Not available yet
+		//Gambit
+			//Exit Strategy
+dimwishlist:item=4227181568&perks=839105230,1885400500,4071163871,4082225868#notes:(Throlli's Ritual Weapons) Pretty good for PvE
+			//Python
+dimwishlist:item=838556752&perks=1482024992,2420895100,3643424744,2679249093#notes:(Throlli's Ritual Weapons) Must have for PvE
+
+
+
+	
+	//Exotic Weapons
+		//1. Season of the Red War (Destiny 2)
+			//Graviton Lance
+dimwishlist:item=3628991658&perks=3905543891,3250034553,3142289711,320534106,4259401308#notes:(Throlli's Red War) Really good Catalyst: Must have
+			//Riskrunner
+dimwishlist:item=3089417789&perks=2516532331,839105230,2420895100,1530804125,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Sunshot
+dimwishlist:item=2907129557&perks=4045839491,3661387068,3142289711,4115637021,3917450714#notes:(Throlli's Red War) Not great Catalyst: I do not have it
+			//Coldheart
+dimwishlist:item=1345867571&perks=1036269296,1467527085,2680121939,2482418662,990298390#notes:(Throlli's Red War) Must have Catalyst: Decent
+			//Mida Multi Tool
+dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390#notes:(Throlli's EDZ) Really good Catalyst: Mediocre
+				//Mida Mini Tool
+dimwishlist:item=3089417788&perks=1458010786,1840239774,1431678320,2179934441#notes:(Throlli's EDZ) Outclassed by the CALUS Mini-Tool
+			//Rat King
+dimwishlist:item=2362471601&perks=2121086290,1482024992,106909392,861489047,3326204863#notes:(Throlli's Titan) Decent Catalyst: Must have
+			//Sturm
+dimwishlist:item=2907129556&perks=507151084,1467527085,2420895100,2238035098,3438534621#notes:(Throlli's Nessus) Mediocre Catalyst: Must have
+				//Drang
+dimwishlist:item=2362471600&perks=1294026524,1482024992,3425386926,2590365289#notes:(Throlli's Nessus) Outclassed by Drang (Baroque)
+			//Sweet Business
+dimwishlist:item=1345867570&perks=3755070117,1392496348,1968497646,1853177948,3465198467#notes:(Throll's Red War) Must have Catalyst: Really good
+			//Vigilance Wing
+dimwishlist:item=3628991659&perks=2307143135,4090651448,1431678320,4146729347,3465198467#notes:(Throlli's Red War) Must have for PvP Catalyst: Decent
+			//Hard Light
+dimwishlist:item=4124984448&perks=3610814281,1392496348,1431678320,2620589274,3465198467#notes:(Throlli's Red War) Must have Catalyst: Decent
+			//Merciless
+dimwishlist:item=4190156464&perks=656200654,3661387068,2420895100,2333607307,4259401308#notes:(Throlli's Red War) Decent Catalyst: Pretty good
+			//Fighting Lion
+dimwishlist:item=3549153978&perks=425960662,3809316345,3492396210,2003108620,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Skyburner's Oath
+dimwishlist:item=4255268456&perks=2741975068,1467527085,2420895100,176919422,1067908860#notes:(Throlli's Red War) Decent Catalyst: Decent
+			//The Prospector
+dimwishlist:item=3549153979&perks=2977709078,1478423395,1771897777,4267945040,990298390#notes:(Throlli's Red War) Must have for PvE Catalyst: Must have
+			//The Wardcliff Coil
+dimwishlist:item=1508896098&perks=2473404935,1478423395,2420895100,1178686995,3465198467#notes:(Throlli's Red War) Must have Catalyst: Must have
+			//Tractor Cannon
+dimwishlist:item=3580904581&perks=1210807262,1467527085,3868766766,25692695,3465198467#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//D.A.R.C.I.
+dimwishlist:item=3141979346&perks=938999636,1467527085,2420895100,939227542,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Legend of Acrius
+dimwishlist:item=3580904580&perks=372430833,202670084,3142289711,1650852150,4259401308#notes:(Throlli's Leviathan) Must have Catalyst: Must have
+
+		//2. (Curse of Osiris)
+			//Crimson
+dimwishlist:item=3437746471&perks=1030990989,1482024992,3142289711,2383960413,1012699414#notes:(Throlli's Curse of Osiris) Must have for PvP Catalyst: Must have
+			//The Jade Rabbit
+dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414#notes:(Throlli's Curse of Osiris) Mediocre for PvP Catalyst: Decent
+			//Telesto
+dimwishlist:item=2208405142&perks=1927916065,2969185026,3970637031,862848869#notes:(Throlli's Curse of Osiris) Game breaking Catalyst: Pretty good
+			//Prometheus Lens
+dimwishlist:item=19024058&perks=571267712,3661387068,2969185026,3470828242,3465198467#notes:(Throlli's Curse of Osiris) Pretty good Catalyst: Decent
+			//The Colony
+dimwishlist:item=3899270607&perks=3913463509,1441682018,2822142346,2019952880,3465198467#notes:(Throlli's Curse of Osiris) Decent for PvP Catalyst: Mediocre
+
+		//3. Season of the Warmind (Warmind)
+			//Worldline Zero
+dimwishlist:item=1864563948&perks=3642491337,938542991,2363751990,354401740,2590710093#notes:(Throlli's Mars) Mediocre Catalyst: Must have
+			//Sleeper Simulant
+dimwishlist:item=4036115577&perks=3884127242,1392496348,3230963543,588594999,3465198467#notes:(Throlli's Mars) Mediocre Catalyst: Must have
+			//SUROS Regime
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,1378047685,990298390#notes:(Throlli's Warmind) Must have Catalyst: Must have
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,4012962526,990298390#notes:(Throlli's Warmind) Must have Catalyst: Must have
+			//The Huckleberry
+dimwishlist:item=2286143274&perks=630329983,1840239774,1885400500,3551326236,1067908860#notes:(Throlli's Warmind) Must have for PvE Catalyst: Must have
+			//Polaris Lance
+dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308#notes:(Throlli's Mars) Really good in PvP Catalyst: Pretty good
+				//BrayTech RWP Mk.II
+dimwishlist:item=717150101&perks=1019291327,1482024992,106909392,2387244414,3400784728#notes:(Throlli's Mars) Really good in PvP
+			//Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308#notes:(Throlli's Io) Must have Catalyst: Must have
+
+		//4. Season of the Outlaw (Forsaken)
+			//Borealis (Red War on PS4)
+dimwishlist:item=3141979347&perks=3081173348,4090651448,2420895100,501717180,990298390#notes:(Throlli's PS4 Exclusives) Must have for PvE Catalyst: Really good
+			//Ace of Spades
+dimwishlist:item=347366834&perks=647617635,4090651448,1561002382,1561789734,3326204863#notes:(Throlli's Gunsmith) Must have Catalyst: Mediocre
+			//The Chaperone
+dimwishlist:item=3413860062&perks=1394384862,3250034553,3142289711,1658733671,990298390#notes:(Throlli's Shipwright) Really good for PvP
+			//Malfeasance
+dimwishlist:item=204878059&perks=1791592647,4090651448,2420895100,2130042297,1012699414#notes:(Throlli's Drifter) Really good for PvP
+			//Cerberus+1
+dimwishlist:item=1541131350&perks=3208839961,1332244541,1840239774,202670084,1289604610#notes:(Throlli's Forsaken) Decent Catalyst: Must have
+			//Trinity Ghoul
+dimwishlist:item=814876685&perks=1573888036,3371775011,16392701,200829441#notes:(Throlli's Forsaken) Decent
+			//The Queenbreaker
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+			//Two-Tailed Fox
+dimwishlist:item=2694576561&perks=3649430342,1844523823,2822142346,777637181,3465198467#notes:(Throlli's Forsaken) Pretty good
+			//Black Talon
+dimwishlist:item=3766045777&perks=4072668471,938542991,2349202967,2590710093#notes:(Throlli's Forsaken) Must have Catalyst: Must have
+			//Lord of Wolves
+dimwishlist:item=3413860063&perks=481338655,3661387068,2420895100,299272945,3465198467#notes:(Throlli's Forsaken) Really good Catalyst: Really good
+			//One Thousand Voices
+dimwishlist:item=2069224589&perks=1657056865,1467527085,1687452232,3504197951,4259401308#notes:(Throlli's Last Wish) Really good
+			//Wish Ender
+dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#notes:(Throlli's Shattered Throne) Mediocre
+			//Thunderlord
+dimwishlist:item=3325463374&perks=4148158229,1392496348,1968497646,1419069769,2779035018#notes:(Throlli's Cosmodrome) Decent
+
+		//5. Season of the Forge (Black Armory)
+			//Anarchy
+dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467#notes:(Throlli's Scourge of the Past) Must have
+			//Le Monarque
+dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887#notes:(Throlli's Black Armory) Mediocre
+			//Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,2866798147,3465198467#notes:(Throlli's Black Armory) Must have Catalyst: Must have
+			//Jötunn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869#notes:(Throlli's Black Armory) Must have
+			//The Last Word
+dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714#notes:(Throlli's Drifter) Decent
+
+		//6. Season of the Drifter
+			//Thorn
+dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714#notes:(Throlli's EDZ) Must have for PvP
+			//Arbalest
+dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467#notes:(Throlli's Revelry) Decent
+			//Outbreak Perfected
+dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954#notes:(Throlli's EDZ) Pretty good Catalyst: Must have
+
+		//7. Season of Opulence (Opulence)
+			//Tarrabah
+dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503,990298390#notes:(Throlli's Crown of Sorrow) Pretty good
+			//Truth
+dimwishlist:item=1201830623&perks=2491817779,1478423395,2822142346,2911329003,3465198467#notes:(Throlli's Menagerie) Must have for Gambit and PvP
+			//Lumina
+dimwishlist:item=3512014804&perks=2144092201,3661387068,3142289711,743139589,862848869#notes:(Throlli's EDZ) Must have Catalyst: Must have
+				//Rose
+dimwishlist:item=2429822976&perks=2189829540,2467967826,2635532173,1528281896,2078097559#notes:(Throlli's EDZ) Really good for PvP
+			//Bad Juju
+dimwishlist:item=2816212794&perks=4004944400,3250034553,3177308360,1866048759,1067908860#notes:(Throlli's Triumph Hall) Really good Catalyst: Must have
+
+		//8. Season of the Undying (Shadowkeep)
+			//Wavesplitter (Forsaken on PS4)
+dimwishlist:item=1852863732&perks=459441288,1392496348,2680121939,2306441428,4259401308#notes:(Throlli's PS4 Exclusives) Decent
+			//Eriana's Vow
+dimwishlist:item=3524313097&perks=3174300811,1467527085,3142289711,1687327062,862848869#notes:(Throlli's Undying) Pretty good Catalyst: Really good
+			//Deathbringer
+dimwishlist:item=2232171099&perks=411799453,1478423395,2985827016,3333994164,3465198467#notes:(Throlli's Moon) Pretty good
+			//Monte Carlo
+dimwishlist:item=4068264807&perks=1484442054,1840239774,1561002382,2814973067,3465198467#notes:(Throlli's Undying) Must have
+			//Divinity
+dimwishlist:item=4103414242&perks=1797707170,1392496348,3868766766,1185480639,3465198467#notes:(Throlli's Garden of Salvation) Must have for PvE
+			//Leviathan's Breath
+dimwishlist:item=2591746970&perks=1699724249,265542500,3429800428,2399646028#notes:(Throlli's Gunsmith) Mediocre for PvP
+			//Xenophage
+dimwishlist:item=1395261499&perks=2261491232,202670084,1561002382,2846385770,3465198467#notes:(Throlli's Moon) Really good
+
+		//9. Season of Dawn
+			//Symmetry
+dimwishlist:item=4017959782&perks=4185339856,3250034553,3868766766,127335543,3465198467#notes:(Throlli's Dawn) Decent Catalyst: Mediocre
+			//Devil's Ruin
+dimwishlist:item=3824106094&perks=334466122,1467527085,2969185026,1059301209,3438534621#notes:(Throlli's Dawn) Decent
+			//Bastion
+dimwishlist:item=2415517654&perks=1186480754,3250034553,1687452232,4190643473,3465198467#notes:(Throlli's Dawn) Really good for PvP
+
+		//10. Season of the Worthy
+			//Tommy's Matchbook
+dimwishlist:item=776191470&perks=961505134,3250034553,2420895100,3772485195,990298390#notes:(Throlli's Worthy) Really good Catalyst: Must have
+			//The Fourth Horseman
+dimwishlist:item=1665952087&perks=2223914385,839105230,791862061,407549716,4259401308#notes:(Throlli's Vanguard) Likely released next Tuesday as of writing
