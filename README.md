@@ -1,4 +1,4 @@
-I am posting my DIM Wishlists here.
+I am posting my DIM Wishlists here from now on
 
 How do I use DIM Wishlists?
 
