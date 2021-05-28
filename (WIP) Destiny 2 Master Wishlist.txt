@@ -1,5 +1,5 @@
 title:{WIP} Throlli's PVE Wishlist for Vault of Glass
-description:{WIP} Notes on specific roles on guns from Vault of Glass for PVE on Mouse and Keyboard. Always remember Godrolls are subjective use whatever you want
+description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
 
 
 /*
