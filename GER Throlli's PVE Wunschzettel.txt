@@ -12,27 +12,27 @@ This section is mostly finished
 
 //Fatebringer
 dimwishlist:item=2171478765&perks=3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
-dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
-dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:(Throlli's Gläserne Kammer) Muss für PVE (+ Disruptions Handfeuerwaffe)
-dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE (+ Disruptions Handfeuerwaffe, - Suboptimale Perk Synergie)
+dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
+dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (+ Disruptions Handfeuerwaffe)
+dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (+ Disruptions Handfeuerwaffe, - Suboptimale Perk Synergie)
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
 //Fatebringer (Timelost)
 dimwishlist:item=1216319404&perks=3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
-dimwishlist:item=1216319404&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
-dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:(Throlli's Gläserne Kammer) Muss für PVE (+ Disruptions Handfeuerwaffe)
-dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE (+ Disruptions Handfeuerwaffe, - Suboptimale Perk Synergie)
+dimwishlist:item=1216319404&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
+dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (+ Disruptions Handfeuerwaffe)
+dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (+ Disruptions Handfeuerwaffe, - Suboptimale Perk Synergie)
 dimwishlist:item=1216319404&perks=2726471870,3824105627#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
  
 //Praedyth's Revenge
-dimwishlist:item=3653573172&perks=106909392,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
-dimwishlist:item=3653573172&perks=2420895100,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
-dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
-dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=3653573172&perks=106909392,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=3653573172&perks=2420895100,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
 //Praedyth's Revenge (Timelost)
-dimwishlist:item=1987769101&perks=106909392,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
-dimwishlist:item=1987769101&perks=2420895100,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
-dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
-dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=1987769101&perks=106909392,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=1987769101&perks=2420895100,3418782618,4104185692#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
+dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE (- Rückspulgeschosse funktionieren nicht mit Göttlichkeit)
  
 //Vision of Confluence
  
@@ -52,36 +52,36 @@ dimwishlist:item=631439337&perks=791862061,3418782618,1546637391#notes:(Throlli'
 dimwishlist:item=631439337&perks=791862061,3300816228,1546637391#notes:(Throlli's Gläserne Kammer) Ziemlich gut für PVE
  
 //Hezen Vengeance
-dimwishlist:item=4050645223&perks=3796465595,3300816228,1546637391#notes:(Throlli's Gläserne Kammer) Muss für PVE
-dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=4050645223&perks=3796465595,3300816228,1546637391#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
+dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=4050645223&perks=3796465595,3300816228,1275731761#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
-dimwishlist:item=4050645223&perks=3796465595,3643424744,1546637391#notes:(Throlli's Gläserne Kammer) Muss für PVE
-dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=4050645223&perks=3796465595,3643424744,1546637391#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
+dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=4050645223&perks=3796465595,3643424744,1275731761#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
 //Hezen Vengeance (Timelost)
-dimwishlist:item=1921159786&perks=3796465595,3300816228,1546637391#notes:(Throlli's Gläserne Kammer) Muss für PVE
-dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=1921159786&perks=3796465595,3300816228,1546637391#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
+dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=1921159786&perks=3796465595,3300816228,1275731761#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
-dimwishlist:item=1921159786&perks=3796465595,3643424744,1546637391#notes:(Throlli's Gläserne Kammer) Muss für PVE
-dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=1921159786&perks=3796465595,3643424744,1546637391#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
+dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=1921159786&perks=3796465595,3643424744,1275731761#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
  
 //Corrective Measure
 dimwishlist:item=471518543&perks=2779035018,4049631843#notes:(Throlli's Gläserne Kammer) Ziemlich gut für PVE
-dimwishlist:item=471518543&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=471518543&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=471518543&perks=1820235745,4049631843#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
-dimwishlist:item=471518543&perks=1820235745,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=471518543&perks=1820235745,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=471518543&perks=3523296417,11612903#notes:(Throlli's Gläserne Kammer) Gute Perk Synergie für Granaten Builds
 dimwishlist:item=471518543&perks=3523296417,4049631843#notes:(Throlli's Gläserne Kammer) Ziemlich gut für PVE
-dimwishlist:item=471518543&perks=3523296417,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=471518543&perks=3523296417,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 //Corrective Measure (Timelost)
 dimwishlist:item=3796510434&perks=2779035018,4049631843#notes:(Throlli's Gläserne Kammer) Ziemlich gut für PVE
-dimwishlist:item=3796510434&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=3796510434&perks=3418782618,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=3796510434&perks=1820235745,4049631843#notes:(Throlli's Gläserne Kammer) Richtig gut für PVE
-dimwishlist:item=3796510434&perks=1820235745,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=3796510434&perks=1820235745,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
 dimwishlist:item=3796510434&perks=3523296417,11612903#notes:(Throlli's Gläserne Kammer) Gute Perk Synergie für Granaten Builds
 dimwishlist:item=3796510434&perks=3523296417,4049631843#notes:(Throlli's Gläserne Kammer) Ziemlich gut für PVE
-dimwishlist:item=3796510434&perks=3523296417,3824105627#notes:(Throlli's Gläserne Kammer) Muss für PVE
+dimwishlist:item=3796510434&perks=3523296417,3824105627#notes:(Throlli's Gläserne Kammer) Ein Muss für PVE
  
 //Vex Mythoclast
 dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390#notes:(Throlli's Gläserne Kammer) Mittelmäßig {Katalysator: Ziemlich gut} (Keines von beiden getestet weil ich Vex-Mythoclast noch nicht habe)
