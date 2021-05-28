@@ -188,3 +188,101 @@ dimwishlist:item=4020742303&perks=2679249093#notes:(Throlli's Garden of Salvatio
 
 //Divinity
 dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467#notes:(Throlli's Garden of Salvation) Must have for PVE
+
+
+/*
+Nightfall and Grandmaster Weapons
+This section is mostly finished
+*/
+
+//Hung Jury
+dimwishlist:item=4281371574&perks=247725512,3038247973#notes:(Throlli’s Nightfall) Must have for PVE (+ Disruption Scout)
+dimwishlist:item=4281371574&perks=247725512,4049631843#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=4281371574&perks=247725512,3824105627#notes:(Throlli’s Nightfall) Pretty good for PVE (- Suboptimal Perk Synergy)
+dimwishlist:item=4281371574&perks=1820235745,3824105627#notes:(Throlli’s Nightfall) Must have for PVE
+//Hung Jury (Adept)
+dimwishlist:item=681067419&perks=247725512,3038247973#notes:(Throlli’s Grandmasters) Must have for PVE (+ Disruption Scout)
+dimwishlist:item=681067419&perks=247725512,4049631843#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=681067419&perks=247725512,3824105627#notes:(Throlli’s Grandmasters) Pretty good for PVE (- Suboptimal Perk Synergy)
+dimwishlist:item=681067419&perks=1820235745,3824105627#notes:(Throlli’s Grandmasters) Must have for PVE
+
+//Palindrome
+dimwishlist:item=432476743&perks=3643424744,4049631843#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=432476743&perks=3643424744,3425386926#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=432476743&perks=1168162263,4049631843#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=432476743&perks=1168162263,3425386926#notes:(Throlli’s Nightfall) Must have for PVE
+//Palindrome (Adept)
+dimwishlist:item=1481892490&perks=3643424744,4049631843#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=1481892490&perks=3643424744,3425386926#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=1481892490&perks=1168162263,4049631843#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=1481892490&perks=1168162263,3425386926#notes:(Throlli’s Grandmasters) Must have for PVE
+
+//Shadow Price
+dimwishlist:item=2633186522&perks=3643424744,4049631843#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=2633186522&perks=3643424744,3108830275#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2633186522&perks=3643424744,2848615171#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=2633186522&perks=1354429876,4049631843#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2633186522&perks=1354429876,3108830275#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2633186522&perks=1354429876,2848615171#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2633186522&perks=2779035018,4049631843#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2633186522&perks=2779035018,3108830275#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2633186522&perks=2779035018,2848615171#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Shadow Price (Adept)
+dimwishlist:item=2147010335&perks=3643424744,4049631843#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=2147010335&perks=3643424744,3108830275#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=2147010335&perks=3643424744,2848615171#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=2147010335&perks=1354429876,4049631843#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=2147010335&perks=1354429876,3108830275#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=2147010335&perks=1354429876,2848615171#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=2147010335&perks=2779035018,4049631843#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=2147010335&perks=2779035018,3108830275#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=2147010335&perks=2779035018,2848615171#notes:(Throlli’s Grandmasters) Pretty good for PVE
+
+//PLUG ONE.1
+dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=1289000550&perks=4252909580,1427256713#notes:(Throlli’s Nightfall) Decent for PVE (- Fireteam needs to be dead, + Insane Perk Synergy)
+//PLUG ONE.1 (Adept)
+dimwishlist:item=534775659&perks=2779035018,1427256713#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=534775659&perks=4252909580,1427256713#notes:(Throlli’s Grandmasters) Decent for PVE (- Fireteam needs to be dead, + Insane Perk Synergy)
+
+//Uzume RR4
+dimwishlist:item=2065081837&perks=1087426260,3400784728,1546637391#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=2065081837&perks=106909392,3400784728,1546637391#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=2065081837&perks=2420895100,3400784728,1546637391#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=2065081837&perks=1087426260,3400784728,2213355989#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2065081837&perks=106909392,3400784728,2213355989#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2065081837&perks=2420895100,3400784728,2213355989#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2065081837&perks=2420895100,3400784728,2213355989#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2065081837&perks=106909392,2284787283,1546637391#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2065081837&perks=2420895100,2284787283,1546637391#notes:(Throlli’s Nightfall) Pretty good for PVE
+dimwishlist:item=2065081837&perks=1087426260,4252909580,1546637391#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=2065081837&perks=106909392,4252909580,1546637391#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=2065081837&perks=2420895100,4252909580,1546637391#notes:(Throlli’s Nightfall) Really good for PVE
+//Uzume RR4 (Adept)
+dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=852228780&perks=106909392,3400784728,1546637391#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=852228780&perks=2420895100,3400784728,1546637391#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=852228780&perks=1087426260,3400784728,2213355989#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=852228780&perks=106909392,3400784728,2213355989#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=852228780&perks=2420895100,3400784728,2213355989#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=852228780&perks=2420895100,3400784728,2213355989#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=852228780&perks=106909392,2284787283,1546637391#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=852228780&perks=2420895100,2284787283,1546637391#notes:(Throlli’s Grandmasters) Pretty good for PVE
+dimwishlist:item=852228780&perks=1087426260,4252909580,1546637391#notes:(Throlli’s Grandmasters) Really good for PVE
+dimwishlist:item=852228780&perks=106909392,4252909580,1546637391#notes:(Throlli’s Grandmasters) Really good for PVE
+dimwishlist:item=852228780&perks=2420895100,4252909580,1546637391#notes:(Throlli’s Grandmasters) Really good for PVE
+
+//THE SWARM
+dimwishlist:item=47772649&perks=1168162263,4049631843#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=47772649&perks=1168162263,2848615171#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=47772649&perks=1168162263,1546637391#notes:(Throlli’s Nightfall) Must have for PVE
+dimwishlist:item=47772649&perks=3436462433,4049631843#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=47772649&perks=3436462433,2848615171#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=47772649&perks=3436462433,1546637391#notes:(Throlli’s Nightfall) Really good for PVE
+//THE SWARM (Adept)
+dimwishlist:item=3836861464&perks=1168162263,4049631843#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=3836861464&perks=1168162263,2848615171#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=3836861464&perks=1168162263,1546637391#notes:(Throlli’s Grandmasters) Must have for PVE
+dimwishlist:item=3836861464&perks=3436462433,4049631843#notes:(Throlli’s Grandmasters) Really good for PVE
+dimwishlist:item=3836861464&perks=3436462433,2848615171#notes:(Throlli’s Grandmasters) Really good for PVE
+dimwishlist:item=3836861464&perks=3436462433,1546637391#notes:(Throlli’s Grandmasters) Really good for PVE
