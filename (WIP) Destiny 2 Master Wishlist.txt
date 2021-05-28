@@ -1,11 +1,12 @@
 title:{WIP} Throlli's PVE Wishlist for Vault of Glass
 description:{WIP} Notes on specific roles on guns from Vault of Glass for PVE on Mouse and Keyboard. Always remember Godrolls are subjective use whatever you want
- 
+
+
 /*
 Vault of Glass Raid Weapons
 This section is mostly finished
 */
- 
+
 //Fatebringer
 dimwishlist:item=2171478765&perks=3418782618,4104185692#notes:(Throlli's Vault of Glass) Really good for PVE
 dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:(Throlli's Vault of Glass) Must have for PVE
@@ -81,3 +82,109 @@ dimwishlist:item=3796510434&perks=3523296417,3824105627#notes:(Throlli's Vault o
  
 //Vex Mythoclast
 dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390#notes:(Throlli's Vault of Glass) Mediocre {Catalyst: Pretty Good} (Neither tested as I haven't gotten lucky)
+
+
+/*
+Deep Stone Crypt Raid Weapons
+This section is mostly finished
+*/
+
+//Succession
+dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+
+//Heritage
+dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) Really good for PVE
+
+//Trustee
+dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+dimwishlist:item=1392919471&perks=3436462433,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+
+//Posterity
+dimwishlist:item=3281285075&perks=247725512,3523296417#notes:(Throlli's Deep Stone Crypt) Really good for PVE
+dimwishlist:item=3281285075&perks=247725512,3108830275#notes:(Throlli's Deep Stone Crypt) Really good for PVE
+dimwishlist:item=3281285075&perks=247725512,3425386926#notes:(Throlli's Deep Stone Crypt) Really good for PVE
+dimwishlist:item=3281285075&perks=247725512,4049631843#notes:(Throlli's Deep Stone Crypt) Really good for PVE
+
+//Commemoration
+dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+
+//Bequest
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli's Deep Stone Crypt) Situationally good in PVE
+
+//Eyes of Tomorrow
+dimwishlist:item=2399110176&perks=3798852852,2985827016,1281243303,4259401308#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+
+
+/*
+Last Wish Raid Weapons
+This section is mostly finished
+*/
+
+//The Supremacy
+dimwishlist:item=686951703&perks=1087426260,3400784728#notes:(Throlli's Last Wish) Must have for PVE (- Outclassed by Praedyth's Revenge unless used with Divinity)
+dimwishlist:item=686951703&perks=2420895100,3400784728#notes:(Throlli's Last Wish) Must have for PVE (- Outclassed by Praedyth's Revenge unless used with Divinity)
+
+//Transfiguration
+dimwishlist:item=3799980700&perks=3425386926,1015611457#notes:(Throlli's Last Wish) Really good for PVE
+
+//Chattering Bone
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:(Throlli's Last Wish) Pretty good for PVE
+dimwishlist:item=568515759&perks=4267945040,3425386926#notes:(Throlli's Last Wish) Really good for PVE
+dimwishlist:item=568515759&perks=1168162263,3425386926#notes:(Throlli's Last Wish) Really good for PVE
+
+//Nation of Beasts
+dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171#notes:(Throlli's Last Wish) Really good for PVE
+dimwishlist:item=654370424&perks=2010801679,3038247973#notes:(Throlli's Last Wish) Really good for PVE (+ Disruption Hand Cannon)
+dimwishlist:item=654370424&perks=1168162263,3425386926#notes:(Throlli's Last Wish) Really good for PVE
+
+//Tyranny of Heaven
+dimwishlist:item=2721249463&perks=201365942,3425386926#notes:(Throlli's Last Wish) Pretty good for PVE
+dimwishlist:item=2721249463&perks=201365942,3365897133#notes:(Throlli's Last Wish) Pretty good for PVE
+
+//Age-Old Bond
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:(Throlli's Last Wish) Must have for PVE
+dimwishlist:item=601592879&perks=3400784728,2848615171#notes:(Throlli's Last Wish) Pretty good for PVE
+dimwishlist:item=601592879&perks=3400784728,2213355989#notes:(Throlli's Last Wish) Pretty good for PVE
+
+//Techeun Force
+
+//Apex Predator
+dimwishlist:item=2545083870&perks=3796465595,3977735242,3300816228#notes:(Throlli's Last Wish) Decent for PVE
+
+//One Thousand Voices
+dimwishlist:item=2069224589&perks=1467527085,1687452232,3504197951,4259401308#notes:(Throlli's Last Wish) Must have for PVE
+
+
+/*
+Garden of Salvation Raid Weapons
+This section is mostly finished
+*/
+
+//Accrued Redemption
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+dimwishlist:item=4095896073&perks=201365942,3425386926#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+dimwishlist:item=4095896073&perks=201365942,3365897133#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+
+//Sacred Provenance
+dimwishlist:item=2408405461&perks=247725512,1015611457#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+
+//Ancient Gospel
+dimwishlist:item=48643186&perks=247725512,2848615171#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+
+//Reckless Oracle
+dimwishlist:item=3385326721&perks=1168162263,3523296417#notes:(Throlli's Garden of Salvation) Decent for PVE
+
+//Omniscient Eye
+
+//Prophet of Doom
+dimwishlist:item=4020742303&perks=2679249093#notes:(Throlli's Garden of Salvation) Decent for PVE
+
+//Zealot's Reward
+
+//Divinity
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467#notes:(Throlli's Garden of Salvation) Must have for PVE
