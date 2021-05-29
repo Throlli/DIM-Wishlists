@@ -2,7 +2,7 @@ Wunschlisten für [DIM (Destiny Item Manager)](https://app.destinyitemmanager.co
 
 [For the English Version click here](https://github.com/Throlli/DIM-Wishlists/blob/master/)
 
-Wie benutze ich DIM Wunschzettel?
+Wie benutze ich DIM Wunschlisten?
 
 Zuerst musst du in deine DIM Einstellungen und bis zu "Wunschliste" herunterscrollen. Nun kannst du entweder eine Wunschliste herunterladen und sie per drag and drop hinzufügen oder, wie ich empfehlen würde, DIM die Liste direkt von GitHub beziehen lassen. Dies erlaubt es dir die Wunschliste mit einem Click automatisch zu updaten und erlaubt es dir sehr einfach mehrere Listen gleichzeitig zu laden.
 Sobald du die gewünschten Wunschlisten geladen hast musst du nur noch is:wishlist in die Suchzeile eingeben und es sollten alle Waffen, die auf den Wunschlisten sind, hervorgehoben werden.
