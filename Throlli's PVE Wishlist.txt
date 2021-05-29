@@ -220,6 +220,45 @@ dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:(Throll
 
 
 /*
+Dreaming City / Shattered Throne
+*/
+
+//Sleepless
+dimwishlist:item=3740842661&perks=3796465595,3300816228,1546637391#notes:(Throlli’s Dreaming City) Really good for PVE
+dimwishlist:item=3740842661&perks=3796465595,2869569095,1546637391#notes:(Throlli’s Dreaming City) Really good for PVE
+
+//Vouchsafe
+dimwishlist:item=3242168339&perks=247725512,2848615171#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=3242168339&perks=247725512,3038247973#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=3242168339&perks=247725512,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=3242168339&perks=1354429876,2848615171#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=3242168339&perks=1354429876,3038247973#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=3242168339&perks=1354429876,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
+
+//Retold Tale
+dimwishlist:item=346136302&perks=791862061,25606670,2679249093#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=346136302&perks=791862061,25606670,3708227201#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=346136302&perks=791862061,25606670,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
+
+//Waking Vigil
+dimwishlist:item=334171687&perks=247725512,2848615171#notes:(Throlli’s Dreaming City) Pretty good for PVE
+dimwishlist:item=334171687&perks=247725512,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
+
+
+/*
+Pit of Heresy / Altars of Sorrow
+*/
+
+//Premonition
+dimwishlist:item=208088207&perks=2779035018,3425386926#notes:(Throlli’s Pit of Heresy) Pretty good for PVE
+
+//Blasphemer
+dimwishlist:item=2782847179&perks=791862061,1354429876#notes:(Throlli’s Pit of Heresy) Really good for PVE
+
+//Apostate
+
+
+/*
 Nightfall and Grandmaster Weapons
 This section is mostly finished
 */
@@ -654,6 +693,20 @@ dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:(Throll
 dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli’s World Drops) Situationally good for PVE
 dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,818211479#notes:(Throlli’s World Drops) Situationally good for PVE
 
+//Outrageous Fortune
+dimwishlist:item=4146702548&perks=3301904089,2869569095#notes:(Throlli’s World Loot) Pretty good for PVE
+dimwishlist:item=4146702548&perks=3301904089,3300816228#notes:(Throlli’s World Loot) Pretty good for PVE
+
+//Long Shadow
+dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+dimwishlist:item=3745990145&perks=106909392,247725512,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+dimwishlist:item=3745990145&perks=1087426260,2869569095,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+dimwishlist:item=3745990145&perks=106909392,2869569095,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+dimwishlist:item=3745990145&perks=2420895100,2869569095,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+
+//The Last Dance
+
 
 /*
 Trials Weapons
@@ -765,9 +818,14 @@ dimwishlist:item=3473290087&perks=2420895100,3400784728,2213355989#notes:(Throll
 //Stars in Shadow
 dimwishlist:item=2050789284&perks=2779035018,2848615171#notes:(Throlli’s Crucible) Pretty good for PVE
 
+//Steel Sybil Z-14
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli’s Crucible) Really good for PVE
+
 //Retrofuturist
 dimwishlist:item=1402766122&perks=791862061,25606670,2360754333#notes:(Throlli’s Crucible) Decent for PVE
 
+//Last Perdition
+dimwishlist:item=188882152&perks=1168162263,3425386926#notes:(Throlli’s Crucible) Decent for PVE
 
 //Empty Vessel
 dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
@@ -798,10 +856,11 @@ dimwishlist:item=2891672170&perks=791862061,3300816228,2679249093#notes:(Throlli
 dimwishlist:item=2891672170&perks=791862061,3300816228,2360754333#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
 dimwishlist:item=2891672170&perks=791862061,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
 
-
 //Eternal Blazon
 dimwishlist:item=3514096004&perks=3643424744,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
 dimwishlist:item=3514096004&perks=247725512,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+
+//Main Ingredient
 
 //Borrowed Time
 dimwishlist:item=875848769&perks=1354429876,4104185692#notes:(Throlli’s Gambit) Must have for PVE
@@ -833,6 +892,20 @@ dimwishlist:item=3565520715&perks=3301904089,2869569095,3523296417#notes:(Throll
 dimwishlist:item=3565520715&perks=3301904089,2869569095,2396489472#notes:(Throlli’s Gambit) Pretty good for PVE
 dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417#notes:(Throlli’s Gambit) Pretty good for PVE
 dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472#notes:(Throlli’s Gambit) Pretty good for PVE
+
+//Night Watch
+
+//Gnawing Hunger
+dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926#notes:(Throlli’s Reckoning) Must have for PVE
+dimwishlist:item=821154603&perks=1820235745,3425386926#notes:(Throlli’s Recaster) Pretty good for PVE
+dimwishlist:item=821154603&perks=1820235745,3523296417#notes:(Throlli’s Recaster) Pretty good for PVE
+
+//Bad Omens
+dimwishlist:item=991314988&perks=3300816228,1275731761#notes:(Throlli’s Menagerie) Really good for PVE
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761#notes:(Throlli’s Drifter) Pretty good for PVE
+
+//Lonesome
+dimwishlist:item=2199171672&perks=247725512,2458213969#notes:(Throlli’s Gambit Prime) Decent for PVE
 
 
 /*
@@ -870,6 +943,23 @@ dimwishlist:item=1641430382&perks=247725512,4049631843#notes:(Throlli’s Iron B
 //The Forward Path
 
 //The Fool's Remedy
+
+//Shining Sphere
+dimwishlist:item=136525518&perks=3796465595,2869569095,3977735242#notes:(Throlli’s Iron Banner) Decent for PVE
+dimwishlist:item=136525518&perks=3796465595,2869569095,3523296417#notes:(Throlli’s Iron Banner) Decent for PVE
+dimwishlist:item=136525518&perks=3796465595,2869569095,2010801679#notes:(Throlli’s Iron Banner) Decent for PVE
+dimwishlist:item=136525518&perks=3796465595,3300816228,3977735242#notes:(Throlli’s Iron Banner) Decent for PVE
+dimwishlist:item=136525518&perks=3796465595,3300816228,3523296417#notes:(Throlli’s Iron Banner) Decent for PVE
+
+//Swarm of the Raven
+dimwishlist:item=1972985595&perks=3301904089,2869569095#notes:(Throlli’s Iron Banner) Pretty good for PVE
+dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:(Throlli’s Iron Banner) Pretty good for PVE
+
+//Orewing’s Maul
+dimwishlist:item=2108920981&perks=3032599245,3300816228#notes:(Throlli’s Iron Banner) Decent for PVE
+dimwishlist:item=2108920981&perks=3032599245,3523296417#notes:(Throlli’s Iron Banner) Decent for PVE
+
+//Talons of the Eagle
 
 
 /*
@@ -912,9 +1002,34 @@ dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391#no
 //Adored
 dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391#notes:(Throlli’s Rituals) Decent for PVE
 
+//Point of the Stag
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:(Throlli’s Iron Banner Rituals) Pretty good for PVE
+
 
 /*
 Dawning
 */
 
 //Glacioclasm
+
+//Cold Front
+dimwishlist:item=1506719573&perks=1820235745,4049631843#notes:(Throlli’s Dawning) Pretty good for PVE
+dimwishlist:item=1506719573&perks=1820235745,3425386926#notes:(Throlli’s Dawning) Pretty good for PVE
+dimwishlist:item=1506719573&perks=3436462433,3425386926#notes:(Throlli’s Dawning) Pretty good for PVE
+dimwishlist:item=1506719573&perks=3436462433,4049631843#notes:(Throlli’s Dawning) Pretty good for PVE
+
+//Avalanche
+dimwishlist:item=66875353&perks=1168162263,2848615171#notes:(Throlli’s Dawning) Pretty good for PVE
+dimwishlist:item=66875353&perks=1168162263,1546637391#notes:(Throlli’s Dawning) Pretty good for PVE
+dimwishlist:item=66875353&perks=3300816228,1546637391#notes:(Throlli’s Dawning) Pretty good for PVE
+
+
+/*
+Festival of the Lost
+*/
+
+//Horror Story
+dimwishlist:item=3829285960&perks=1820235745,3523296417#notes:(Throlli’s Festival of the Lost) Decent for PVE
+
+//Braytech Werewolf
+dimwishlist:item=528834068&perks=1354429876,1546637391#notes:(Throlli’s Festival of the Lost) Pretty good for PVE
