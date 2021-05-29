@@ -333,6 +333,72 @@ dimwishlist:item=2434225986&perks=2869569095,3425386926#notes:(Throlli’s Splic
 //Cryosthesia 77k
 dimwishlist:item=603721696&perks=603721696,3868766766,1385518514,862848869#notes:(Throlli's Splicer) Must have for farming Stasis final blows Catalyst: Really good
 
+
+/*
+Battlegrounds and Season of the Chosen Season Pass Weapons
+This section is mostly finished
+*/
+
+//Extraordinary Rendition
+dimwishlist:item=1097616550&perks=1820235745,4104185692#notes:(Throlli’s Battlegrounds) Must have for PVE
+dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:(Throlli’s Battlegrounds) Must have for PVE
+dimwishlist:item=1097616550&perks=1820235745,4049631843#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=1097616550&perks=1820235745,3425386926#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=1097616550&perks=3643424744,4049631843#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=1097616550&perks=3643424744,3425386926#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=1097616550&perks=1168162263,2458213969#notes:(Throlli’s Battlegrounds) Really good for PVE
+
+//Imperial Needle
+dimwishlist:item=3460122497&perks=951095735,3592538738#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+dimwishlist:item=3460122497&perks=201365942,3592538738#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+dimwishlist:item=3460122497&perks=201365942,4104185692#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+dimwishlist:item=3460122497&perks=951095735,4104185692#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+
+//Brass Attacks
+dimwishlist:item=2121785039&perks=2779035018,4049631843#notes:(Throlli’s Chosen) Pretty good for PVE
+dimwishlist:item=2121785039&perks=2779035018,3425386926#notes:(Throlli’s Chosen) Pretty good for PVE
+dimwishlist:item=2121785039&perks=2779035018,2848615171#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=2121785039&perks=2779035018,4104185692#notes:(Throlli’s Chosen) Pretty good for PVE
+dimwishlist:item=2121785039&perks=247725512,4049631843#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=2121785039&perks=247725512,3425386926#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=2121785039&perks=247725512,2848615171#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=2121785039&perks=247725512,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+
+//Far Future
+dimwishlist:item=893527433&perks=1087426260,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=893527433&perks=106909392,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=893527433&perks=2420895100,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+
+//Threaded Needle
+dimwishlist:item=3075224551&perks=2284787283,1546637391#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=3075224551&perks=2284787283,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=3075224551&perks=247725512,1546637391#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=3075224551&perks=247725512,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=3075224551&perks=3300816228,1546637391#notes:(Throlli’s Chosen) Really good for PVE
+dimwishlist:item=3075224551&perks=3300816228,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+
+//Code Duello
+dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942#notes:(Throlli’s Battlegrounds) Must have for PVE
+dimwishlist:item=2496242052&perks=3796465595,2869569095,1275731761#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=2496242052&perks=3796465595,2869569095,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942#notes:(Throlli’s Battlegrounds) Must have for PVE
+dimwishlist:item=2496242052&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Battlegrounds) Really good for PVE
+dimwishlist:item=2496242052&perks=3796465595,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+
+//Ticuu’s Divination
+dimwishlist:item=3260753130&perks=1196733167,3827198035,3298446480#notes:(Throlli’s Chosen) Must have for PVE {Catalyst: Must have}
+
+//Dead Man’s Tale
+dimwishlist:item=3654674561&perks=1546637391#notes:(Throlli’s Presage) Really good for PVE {Catalyst: Must have}
+dimwishlist:item=3654674561&perks=1354429876#notes:(Throlli’s Presage) Really good for PVE {Catalyst: Must have}
+dimwishlist:item=3654674561&perks=1820235745#notes:(Throlli’s Presage) Really good for PVE {Catalyst: Must have}
+
+
+/*
+Recaster Weapons
+Weapons prior to Chosen missing
+*/
+
 //Crown-Splitter
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:(Throlli’s Recaster) Must have for PVE
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3708227201#notes:(Throlli’s Recaster) Situationally good in PVE
