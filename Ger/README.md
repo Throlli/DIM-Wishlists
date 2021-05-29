@@ -1,6 +1,6 @@
 Wunschlisten für [DIM (Destiny Item Manager)](https://app.destinyitemmanager.com/4611686018468280319/d2/inventory)
 
-[For the English Version click here](https://github.com/Throlli/DIM-Wishlists/blob/master/)
+[For the English Version click here](https://github.com/Throlli/DIM-Wishlists)
 
 Wie benutze ich DIM Wunschlisten?
 
