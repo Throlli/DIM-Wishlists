@@ -1,4 +1,6 @@
-I am posting my DIM Wishlists here from now on
+Wishlists for [DIM (Destiny Item Manager)](https://app.destinyitemmanager.com/4611686018468280319/d2/inventory)
+
+[Zur deutschen Übersetzung geht es hier](https://github.com/Throlli/DIM-Wishlists/blob/master/Ger/)
 
 How do I use DIM Wishlists?
 
@@ -23,6 +25,6 @@ https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%2
 
 My Wishlist and choosy_voltron
 
-If you want to use my Master Wishlist whilst also using the choosy_voltron Wishlist (voltron with some added Rolls if I remember correctly) copy the following URLs and paste them into your DIM.
+If you want to use my Master Wishlist whilst also using the choosy_voltron Wishlist (voltron with some Rolls to shard if I remember correctly) copy the following URLs and paste them into your DIM.
 
 https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%20Wishlist.txt | https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/choosy_voltron.txt
