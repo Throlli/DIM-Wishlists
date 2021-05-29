@@ -342,6 +342,10 @@ dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3708227201#no
 //Eternity’s Edge
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201#notes:(Throlli’s Recaster) Situationally good in PVE
 
+//Cartesian Coordinate
+
+//Tarantula
+
 
 /*
 Trials Weapons
@@ -417,3 +421,157 @@ dimwishlist:item=1366917989&perks=3796465595,3300816228,1275731761#notes:(Throll
 dimwishlist:item=1313528549&perks=3666208348,269888150,1749209109,2396489472#notes:(Throlli’s Trials) DID SOMEBODY ORDER PIZZA HUT?
 //Sola’s Scar (Adept)
 dimwishlist:item=3847137620&perks=3666208348,269888150,1749209109,2396489472#notes:(Throlli’s Flawless) DID SOMEBODY ORDER PIZZA HUT?
+
+/*
+Playlist Weapons
+Just current Season
+*/
+
+//Survivor’s Epitaph
+dimwishlist:item=310708513&perks=2010801679,4104185692#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=310708513&perks=1820235745,4104185692#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=310708513&perks=247725512,3592538738#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=310708513&perks=247725512,2458213969#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=310708513&perks=247725512,4049631843#notes:(Throlli’s Crucible) Pretty good for PVE
+
+//The Keening
+dimwishlist:item=409551876&perks=1820235745,2848615171#notes:(Throlli’s Crucible) Decent for PVE
+dimwishlist:item=409551876&perks=247725512,2458213969#notes:(Throlli’s Crucible) Decent for PVE
+dimwishlist:item=409551876&perks=247725512,4049631843#notes:(Throlli’s Crucible) Decent for PVE
+
+//Frozen Orbit
+dimwishlist:item=3473290087&perks=1087426260,2284787283,1546637391#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=3473290087&perks=106909392,2284787283,1546637391#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=3473290087&perks=2420895100,2284787283,1546637391#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=3473290087&perks=1087426260,3300816228,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+dimwishlist:item=3473290087&perks=106909392,3300816228,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+dimwishlist:item=3473290087&perks=2420895100,3300816228,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+dimwishlist:item=3473290087&perks=106909392,3400784728,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+dimwishlist:item=3473290087&perks=2420895100,3400784728,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+dimwishlist:item=3473290087&perks=1087426260,3400784728,2213355989#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=3473290087&perks=106909392,3400784728,2213355989#notes:(Throlli’s Crucible) Pretty good for PVE
+dimwishlist:item=3473290087&perks=2420895100,3400784728,2213355989#notes:(Throlli’s Crucible) Pretty good for PVE
+
+//Retrofuturist
+dimwishlist:item=1402766122&perks=791862061,25606670,2360754333#notes:(Throlli’s Crucible) Decent for PVE
+
+
+//Empty Vessel
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+dimwishlist:item=4255586669&perks=3301904089,2010801679,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+
+//The Third Axiom
+dimwishlist:item=4156253727&perks=2779035018,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=4156253727&perks=2779035018,2458213969#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=4156253727&perks=2779035018,2848615171#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=4156253727&perks=2779035018,3425386926#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=4156253727&perks=1820235745,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=4156253727&perks=1820235745,2848615171#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=4156253727&perks=1820235745,3425386926#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+
+//Royal Entry
+dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942#notes:(Throlli’s Vanguard Strikes) Absolute must have for PVE
+dimwishlist:item=2448907086&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+dimwishlist:item=2448907086&perks=3796465595,2869569095,1275731761#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+dimwishlist:item=2448907086&perks=3796465595,2869569095,2284787283#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+dimwishlist:item=2448907086&perks=3796465595,951095735,1275731761#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
+dimwishlist:item=2448907086&perks=3796465595,951095735,2284787283#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+
+//Eternal Blazon
+dimwishlist:item=3514096004&perks=3643424744,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+dimwishlist:item=3514096004&perks=247725512,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+
+//Borrowed Time
+dimwishlist:item=875848769&perks=1354429876,4104185692#notes:(Throlli’s Gambit) Must have for PVE
+dimwishlist:item=875848769&perks=3643424744,4104185692#notes:(Throlli’s Gambit) Must have for PVE
+dimwishlist:item=875848769&perks=3643424744,2848615171#notes:(Throlli’s Gambit) Pretty good for PVE
+dimwishlist:item=875848769&perks=3643424744,4049631843#notes:(Throlli’s Gambit) Pretty good for PVE
+dimwishlist:item=875848769&perks=3643424744,3425386926#notes:(Throlli’s Gambit) Pretty good for PVE
+dimwishlist:item=875848769&perks=2779035018,2848615171#notes:(Throlli’s Gambit) Must have for PVE
+dimwishlist:item=875848769&perks=2779035018,4104185692#notes:(Throlli’s Gambit) Pretty good for PVE
+dimwishlist:item=875848769&perks=2779035018,4049631843#notes:(Throlli’s Gambit) Pretty good for PVE
+dimwishlist:item=875848769&perks=2779035018,3425386926#notes:(Throlli’s Gambit) Pretty good for PVE
+dimwishlist:item=875848769&perks=4071163871,3708227201#notes:(Throlli’s Gambit) Really good for PVE
+
+//Trinary System
+
+//Bottom Dollar
+dimwishlist:item=1046651176&perks=1354429876,3425386926#notes:(Throlli’s Gambit) Really good for PVE
+dimwishlist:item=1046651176&perks=1354429876,2848615171#notes:(Throlli’s Gambit) Really good for PVE
+dimwishlist:item=1046651176&perks=1354429876,3038247973#notes:(Throlli’s Gambit) Really good for PVE (+ Disruption Hand Cannon)
+dimwishlist:item=1046651176&perks=1820235745,2848615171#notes:(Throlli’s Gambit) Really good for PVE
+dimwishlist:item=1046651176&perks=247725512,2458213969#notes:(Throlli’s Gambit) Really good for PVE
+dimwishlist:item=1046651176&perks=247725512,3425386926#notes:(Throlli’s Gambit) Really good for PVE
+dimwishlist:item=1046651176&perks=247725512,2848615171#notes:(Throlli’s Gambit) Really good for PVE
+dimwishlist:item=1046651176&perks=247725512,3038247973#notes:(Throlli’s Gambit) Must have for PVE (+ Disruption Hand Cannon)
+dimwishlist:item=1046651176&perks=1168162263,2458213969#notes:(Throlli’s Gambit) Really good for PVE
+
+
+/*
+Iron Banner
+Need to add older Rolls
+*/
+
+//Riiswalker
+
+//Finite Impactor
+dimwishlist:item=3813153080&perks=1570042021,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
+
+//Occluded Finality
+dimwishlist:item=852551895&perks=2420895100,3300816228,1546637391#notes:(Throlli’s Iron Banner) Really good for PVE (- Hubble space telescope)
+dimwishlist:item=852551895&perks=1087426260,3300816228,1546637391#notes:(Throlli’s Iron Banner) Really good for PVE (- Hubble space telescope)
+
+//Archon’s Thunder
+dimwishlist:item=1967303408&perks=2869569095,3425386926#notes:(Throlli’s Iron Banner) Pretty good for PVE
+dimwishlist:item=1967303408&perks=3436462433,3425386926#notes:(Throlli’s Iron Banner) Pretty good for PVE
+
+//The Time-Worn Spire
+dimwishlist:item=3593598010&perks=2779035018,3425386926#notes:(Throlli’s Iron Banner) Pretty good for PVE
+dimwishlist:item=3593598010&perks=2779035018,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
+dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:(Throlli’s Iron Banner) Pretty good for PVE
+dimwishlist:item=3593598010&perks=1820235745,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
+
+//Multimach CCX
+dimwishlist:item=3717177717&perks=1820235745,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
+
+
+/*
+Future War Cult
+I think I don’t regret never pledging to them
+*/
+
+//The Number
+
+//Pleiades Corrector
+
+//The Deicide
+dimwishlist:item=217140611&perks=25606670,2679249093#notes:(Throlli’s FWC) Mediocre for PVE
+dimwishlist:item=217140611&perks=25606670,1546637391#notes:(Throlli’s FWC) Mediocre for PVE
+
+//The Vision
+dimwishlist:item=2414141462&perks=2010801679,4049631843#notes:(Throlli’s FWC) Pretty good for PVE
+
+//Stochastic Variable
+dimwishlist:item=2272470786&perks=2779035018,2848615171#notes:(Throlli’s FWC) Mediocre for PVE
+
+//Memory Interdict
+dimwishlist:item=3165547384&perks=3301904089,2284787283,2396489472#notes:(Throlli’s FWC) Mediocre for PVE
+dimwishlist:item=3165547384&perks=3301904089,3300816228,2396489472#notes:(Throlli’s FWC) Mediocre for PVE
+dimwishlist:item=3165547384&perks=3301904089,951095735,2396489472#notes:(Throlli’s FWC) Mediocre for PVE
+
+
+/*
+Pinnacle and Ritual Weapons
+Weapons prior to Chosen missing
+*/
+
+//Null Composure
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713#notes:(Throlli’s Rituals) Mediocre for PVE
+
+//Salvager’s Salvo
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472#notes:(Throlli’s Rituals) Must have for PVE
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391#notes:(Throlli’s Rituals) Must have for PVE
