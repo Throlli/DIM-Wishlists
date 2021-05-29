@@ -549,6 +549,50 @@ dimwishlist:item=1363238943&perks=3250034553,3868766766,798520364,3465198467#not
 
 
 /*
+Seraph Towers and Worthy Weapons
+Io Gang
+*/
+
+//Seventh Seraph Carbine
+dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:(Throlli’s EDZ Bunker) Must have for PVE
+
+//Seventh Seraph Officer Revolver
+dimwishlist:item=3037520408&perks=1354429876,1954620775#notes:(Throlli’s Moon Bunker) Really good for PVE (+ Disruption Hand Cannon)
+
+//Seventh Seraph CQC-12
+dimwishlist:item=1821724780&perks=791862061,3300816228,1546637391#notes:(Throlli’s Worthy) Really good for PVE
+dimwishlist:item=1821724780&perks=791862061,3300816228,2360754333#notes:(Throlli’s Worthy) Really good for PVE
+
+//Seventh Seraph SI-2
+dimwishlist:item=3937866388&perks=3523296417,1546637391#notes:(Throlli’s Worthy) Really good for PVE
+dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:(Throlli’s Worthy) Really good for PVE
+
+//Seventh Seraph VY-7
+dimwishlist:item=766323545&perks=2010801679,2779035018#notes:(Throlli’s Worthy) Must have for PVE
+dimwishlist:item=766323545&perks=1354429876,2848615171#notes:(Throlli’s Worthy) Must have for PVE
+dimwishlist:item=766323545&perks=1354429876,1546637391#notes:(Throlli’s Worthy) Must have for PVE
+
+//Seventh Seraph SAW
+dimwishlist:item=2582755344&perks=3300816228,1546637391#notes:(Throlli’s Worthy) Really good for PVE
+dimwishlist:item=2582755344&perks=3300816228,1771339417#notes:(Throlli’s Worthy) Really good for PVE
+dimwishlist:item=2582755344&perks=2869569095,1546637391#notes:(Throlli’s Worthy) Really good for PVE
+dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:(Throlli’s Worthy) Really good for PVE
+
+//Felwinter's Lie
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391#notes:(Throlli’s 9 Million Seraph Towers) Pretty good for PVE
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391#notes:(Throlli’s 9 Million Seraph Towers) Pretty good for PVE
+
+//Tommy’s Matchbook
+dimwishlist:item=776191470&perks=3250034553,2420895100,3772485195,990298390#notes:(Throlli’s Worthy) Mediocre {Catalyst: Must have}
+
+//The Fourth Horseman
+dimwishlist:item=1665952087&perks=839105230,791862061,407549716,4259401308#notes:(Throlli’s Worthy) Must have {Catalyst: Must have}
+
+//Heir Apparent
+dimwishlist:item=2084878005&perks=4090651448,1087426260,1185273366,3438534621#notes:(Throlli’s Guardian Games) Must have {Catalyst: Must have}
+
+
+/*
 World Drops
 Weapons prior to Chosen missing
 */
@@ -572,6 +616,43 @@ dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417#notes:(Throll
 
 //Nature of the Beast
 dimwishlist:item=1835747805&perks=1820235745,2848615171#notes:(Throlli’s World Drops) Pretty good for PVE
+
+//Dire Promise
+dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:(Throlli’s World Drops) Pretty good for PVE
+
+//True Prophecy
+dimwishlist:item=2742838700&perks=3643424744,1954620775#notes:(Throlli’s World Drops) Really good for PVE (+ Disruption Hand Cannon)
+dimwishlist:item=2742838700&perks=3643424744,3038247973#notes:(Throlli’s World Drops) Really good for PVE (+ Disruption Hand Cannon)
+
+//Enigma's Draw
+
+//Escape Velocity
+dimwishlist:item=1786797708&perks=3643424744,1546637391#notes:(Throlli’s World Drops) Really good for PVE
+dimwishlist:item=1786797708&perks=4071163871,3708227201#notes:(Throlli’s World Drops) Pretty good for PVE
+
+//Timelines' Vertex
+
+//Jian 7 Rifle
+dimwishlist:item=1162247618&perks=1683379515,3425386926#notes:(Throlli’s World Drops) Decent for PVE
+dimwishlist:item=1162247618&perks=1683379515,1168162263#notes:(Throlli’s World Drops) Decent for PVE
+dimwishlist:item=1162247618&perks=1683379515,2848615171#notes:(Throlli’s World Drops) Decent for PVE
+
+//Distant Tumulus
+dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417#notes:(Throlli’s World Drops) Must have for PVE
+dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:(Throlli’s World Drops) Must have for PVE
+dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417#notes:(Throlli’s World Drops) Must have for PVE
+
+//Interference VI
+dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:(Throlli’s World Drops) Really good for PVE
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:(Throlli’s World Drops) Really good for PVE
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:(Throlli’s World Drops) Really good for PVE
+dimwishlist:item=2257180473&perks=3301904089,2869569095,3523296417#notes:(Throlli’s World Drops) Really good for PVE
+dimwishlist:item=2257180473&perks=3301904089,3300816228,3523296417#notes:(Throlli’s World Drops) Really good for PVE
+dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:(Throlli’s World Drops) Situationally good for PVE
+
+//Honor's Edge
+dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli’s World Drops) Situationally good for PVE
+dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,818211479#notes:(Throlli’s World Drops) Situationally good for PVE
 
 
 /*
