@@ -520,6 +520,9 @@ dimwishlist:item=2222560548&perks=1820235745,3708227201#notes:(Throlli’s Conta
 dimwishlist:item=2222560548&perks=1820235745,1546637391#notes:(Throlli’s Contact) Must have for PVE
 dimwishlist:item=2222560548&perks=1359896290,1546637391#notes:(Throlli’s Contact) Really good for PVE (+ Anti-Barrier Submachine Gun)
 
+//First In, Last Out
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:(Throlli’s Contact) Must have for PVE
+
 //Berenger’s Memory
 dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:(Throlli’s Contact) Pretty good for PVE
 dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228#notes:(Throlli’s Contact) Pretty good for PVE
@@ -546,7 +549,7 @@ dimwishlist:item=1363238943&perks=3250034553,3868766766,798520364,3465198467#not
 
 
 /*
-Recaster Weapons
+World Drops
 Weapons prior to Chosen missing
 */
 
@@ -562,6 +565,13 @@ dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201#no
 //Cartesian Coordinate
 
 //Tarantula
+
+//Truthteller
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:(Throlli’s World Drops) Pretty good for PVE
+dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417#notes:(Throlli’s World Drops) Must have for PVE
+
+//Nature of the Beast
+dimwishlist:item=1835747805&perks=1820235745,2848615171#notes:(Throlli’s World Drops) Pretty good for PVE
 
 
 /*
@@ -775,6 +785,10 @@ dimwishlist:item=3717177717&perks=1820235745,4049631843#notes:(Throlli’s Iron 
 
 //The Guiding Sight
 dimwishlist:item=1641430382&perks=247725512,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
+
+//The Forward Path
+
+//The Fool's Remedy
 
 
 /*
