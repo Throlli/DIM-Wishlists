@@ -1,4 +1,4 @@
-title:{WIP} Throlli's PVE Wunschzettel
+title:{WIP} Throlli's PVE Wunschliste
 description:{WIP} Kommentare zu spezifischen Waffen für PVE mit Maus und Tastatur
 
 /*
