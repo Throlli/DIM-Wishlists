@@ -1,0 +1,2097 @@
+title:{WIP} Throlli's Wishlist for Patch 2.9.2.1
+description:{WIP} Notes on specific roles on guns in Destiny 2
+
+/*
+The Weapons will be listed based on when they are Sunset.
+Exotics are at the Bottom as they are as of now not hit by Sunsetting.
+If you want to edit notes search for the weapon name it should bring you there.
+Also Future Warcult and Trials of the Nine Guns from Year 1 won't be included because I own none of them.
+
+The marked Rolls are the best possible Rolls on the respective weapon if it comes to me.
+Ranking is based on the current META. This includes Weapon Archetype and Frame.
+Ranking:
+- Must have
+- Really good
+- Pretty good
+- Decent
+- Mediocre
+
+A use might be listed as Well:
+- PvE
+- PvP
+- Disruption
+- Anti Barrier
+- Unstoppable
+- DPS
+- Warmind Cells
+
+{Roadmap} 
+- Legendary Weapons Season 9 and forward
+- Legendary Weapons Season 8 and before
+- Exotic Weapons
+*/
+
+
+//Auto Rifles
+	//Iron Banner
+	
+		//The Forward Path
+//Dynamic Sway Reduction, Iron Gaze
+dimwishlist:item=1690783811&perks=1359896290,4152709778#notes:{1360} (Throlli's Iron Banner) Unique and decent for PVP
+	
+	//Last Wish
+	
+		//Age-Old Bond
+//Curated
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:{1360} (Throlli's Last Wish) Must have for PVE
+	
+	//Garden of Salvation
+	
+		//Reckless Oracle
+//Mulligan, Triple Tap
+dimwishlist:item=3385326721&perks=3513791699,3400784728#notes:{1360} (Throlli's Garden of Salvation) Pretty good for Anti Barrier
+
+	//Season 11 (of Arrivals)
+
+		//False Promises 
+//High-Caliber Rounds, Dynamic Sway Reduction, Eye of the Storm
+dimwishlist:item=3143732432&perks=1561002382,1359896290,699525795#notes:{1360} (Throlli's Prismatic Recaster) Mediocre for PVP
+
+		//BrayTech Werewolf
+//High-Caliber Rounds, Mulligan, Vorpal Weapon
+dimwishlist:item=528834068&perks=1561002382,3513791699,1546637391#notes:{1360} (Throlli's Arrivals) Must have for Anti Barrier
+//Armor-Piercing Rounds, Mulligan, Vorpal Weapon
+dimwishlist:item=528834068&perks=1968497646,3513791699,1546637391#notes:{1360} (Throlli's Arrivals) Must have for Anti Barrier
+//High-Caliber Rounds, Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=528834068&perks=1561002382,1354429876,1546637391#notes:{1360} (Throlli's Arrivals) Must have for Anti Barrier
+	
+		//Horror Story
+//Outlaw, Demolitionist
+dimwishlist:item=3829285960&perks=1168162263,3523296417#notes:{1360} (Throlli's Arrivals) Mediocre for PVE
+	
+		//Gnawing Hunger
+//Curated
+dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926#notes:{1360} (Throlli's Reckoning) Must have for PVE
+//Zen Moment, Multikill Clip
+dimwishlist:item=821154603&perks=2387244414,2458213969#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Zen Moment, Rampage
+dimwishlist:item=821154603&perks=2387244414,3425386926#notes:{1360} (Throlli's Recaster) Really good for both PVP and PVE
+//Tap the Trigger, Kill Clip
+dimwishlist:item=821154603&perks=1890422124,1015611457#notes:{1360} (Throlli's Recaster) Really good for PVP
+	
+
+	//Season 10 (of the Worthy)
+
+		//Seventh Seraph Carbine
+//High-Caliber Rounds, Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=1561006927&perks=1561002382,1354429876,1546637391#notes:{1310} (Throlli's EDZ Bunker) Must have for Anti Barrier and Warmind Cells
+//High-Caliber Rounds, Fourth Time's the Charm, Rampage
+dimwishlist:item=1561006927&perks=1561002382,1354429876,3425386926#notes:{1310} (Throlli's EDZ Bunker) Must have for Anti Barrier and Warmind Cells
+
+		//The Summoner
+//Overflow, Rampage
+dimwishlist:item=1907698332&perks=3643424744,3425386926#notes:{1310} (Throlli's Trials) Really god for PVE
+
+
+	//Season 9 (of Dawn)
+	
+		//Steelfeather Repeater
+//High-Caliber Rounds, Feeding Frenzy, Swashbuckler
+dimwishlist:item=1251729046&perks=1561002382,2779035018,4082225868#notes:{1260} (Throlli's Sundial) Really good for both PVE and PVP
+//High-Caliber Rounds, Feeding Frenzy, Surrounded
+dimwishlist:item=1251729046&perks=1561002382,2779035018,3708227201#notes:{1260} (Throlli's Sundial) Really good for PVE
+//High-Caliber Rounds, Feeding Frenzy, Multikill Clip
+dimwishlist:item=1251729046&perks=1561002382,2779035018,2458213969#notes:{1260} (Throlli's Sundial) Really good for PVE
+	
+		//Uriel's Gift
+//Flash HS5, High-Caliber Rounds, Dynamic Sway Reduction, Kill Clip
+dimwishlist:item=3863882743&perks=1628165637,1561002382,1359896290,1015611457#notes:{1260} (Throlli's Rahool) Decent for PVP
+
+
+	//Season 8 (of the Undying)
+
+		//Pluperfect
+//Slideways, Rampage
+dimwishlist:item=1952163498&perks=2039302152,3425386926#notes:{1060} (Throlli's Undying) Decent
+
+	//Shadowkeep
+
+		//Arc Logic
+//Overflow, Rampage
+dimwishlist:item=2723909519&perks=3643424744,3425386926#notes:{1060} (Throlli's Moon) Really good for PVE
+
+	//Season 7 (of Opulence
+
+		//Gahlran's Right Hand
+//High-Caliber Rounds, Dynamic Sway Reduction, Multikill Clip
+dimwishlist:item=1286686760&perks=1561002382,1359896290,2458213969#notes:{1060} (Throlli's Crown of Sorrow) Decent for PVP
+
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge)
+
+		//Breakneck
+//Polygonal Rifling, Extended Mag, Rampage, Onslaught
+dimwishlist:item=324382200&perks=1392496348,2420895100,3425386926,95528736#notes:{1060} (Throlli's Pinnacle Gambit) Decent for PVE
+
+		//Galliard-42 XN7568
+//SPO-26 Front, High-Caliber Rounds, Dynamic Sway Reduction, Kill Clip
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1359896290,1015611457#notes:{1060} (Throlli's Forge) Really good for PVP
+//SPO-26 Front, High-Caliber Rounds, Dynamic Sway Reduction, Rampage
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1359896290,3425386926#notes:{1060} (Throlli's Forge) Really good for PVP
+
+		//The Ringing Nail
+//Curated
+//Rasmussen ISA, High-Caliber Rounds, Dragonfly, Rampage
+dimwishlist:item=93253474&perks=1096957638,1561002382,2848615171,3425386926#notes:{1060} (Throlli's Forge) Pretty good for PVE
+
+	//Season 4 (of the Outlaw)
+
+		//Tigerspite
+//High-Caliber Rounds, Dynamic Sway Reduction, Kill Clip
+dimwishlist.item=640114618&perks=1561002382,1359896290,1015611457#notes:{1060} (Throlli's Dreaming City) Decent for PVE
+
+	//Forsaken
+
+		//Ether Doctor
+		//Halfdan-D
+//SC Holo, Dynamic Sway Reduction, Rampage
+
+		//Hazard of the Cast
+		//Misfit
+		//Valakadyn
+
+	//Warmind
+	//Red War
+
+
+//Bows
+	//Iron Banner
+	
+		//Point of the Stag
+//Archer's Tempo, Eye of the Storm
+dimwishlist:item=3434944005&perks=2801223209,1500996326,1500996326,699525795#notes:{1260} (Throlli's Ritual Iron Banner) Decent for PVP
+//Archer's Tempo, Vorpal Weapon
+dimwishlist:item=3434944005&perks=2801223209,1500996326,1500996326,1546637391#notes:{1260} (Throlli's Ritual Iron Banner) Decent for Supers and Champions
+
+
+	//Last Wish
+	
+		//Tyranny of Heaven
+//Archer's Tempo, Rampage
+dimwishlist:item=2721249463&perks=201365942,3425386926#notes:{1360} (Throlli's Last Wish) Decent
+//Archer's Tempo, Explosive Head
+dimwishlist:item=2721249463&perks=201365942,3365897133#notes:{1360} (Throlli's Last Wish) Decent
+
+
+	//Garden of Salvation
+
+		//Accrued Redemption
+//Archer's Tempo, Rapid Hit
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:{1360} (Throlli's Garden of Salvation) Decent
+
+	//Season 11 (of Arrivals)
+
+		//Whispering Slab
+//Archer's Tempo, Vorpal Weapon
+dimwishlist:item=211938782&perks=201365942,1546637391#notes:{1360} (Throlli's Recaster) Decent
+
+		//Arsenic Bite-4B
+
+	//Season 10 (of the Worthy)
+	//Season 9 (of Dawn)
+	//Season 8 (of the Undying)
+	//Shadowkeep
+	//Season 7 (of Opulence)
+
+		//Hush
+//Natural String, Straight Fletching, Opening Shot, Archer's Gambit
+dimwishlist:item=1584643826&perks=1784898267,3827198035,47981717,3414324643#notes:{1060} (Throlli's Pinnacle Gambit) Really good
+
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge
+
+		//The Spiteful Fang
+//Archer's Tempo, Explosive Head
+dimwishlist:item=421573768&perks=201365942,3365897133#notes:{1060} (Throlli's Forge) Decent
+//Archer's Tempo, Rampage
+dimwishlist:item=421573768&perks=201365942,3425386926#notes:{1060} (Throlli's Forge) Decent (required for Niobe)
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//No Turning Back
+
+		//Subtle Calamity
+//Dragonfly, Archer's Tempo
+dimwishlist:item=3410721600&perks=2848615171,201365942#notes:{1060} (Throlli's Forsaken) Mediocre for PVE
+
+	//Warmind
+	//Red War
+
+
+//Hand Cannons
+	//Iron Banner
+
+		//Crimil's Dagger
+//Outlaw, Kill Clip
+dimwishlist:item=4292849692&perks=1168162263,1015611457#notes:{1360} (Throlli's Iron Banner) Decent for PVP
+
+	//Last Wish
+
+		//Nation of Beasts
+//Curated
+dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171#notes:{1360} (Throlli's Last Wish) Must have for PVE
+
+	//Garden of Salvation
+
+		//Ancient Gospel
+//Rapid Hit, Dragonfly
+dimwishlist:item=48643186&perks=247725512,2848615171#notes:{1360} (Throlli's Garden of Salvation) Really good for PVP
+
+	//Season 11 (of Arrivals)
+
+		//IKELOS_HC_v1.0.2
+//Seraph Rounds, Slideways, Eye of the Storm
+dimwishlist:item=1200824700&perks=1140096971,2039302152,699525795#notes:{1360} (Throlli's Prophecy) Decent for PVP
+//Triple Tap, Vorpal Weapon
+dimwishlist:item=1200824700&perks=3400784728,1546637391#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+		//Nature of the Beast
+
+	//Season 10 (of the Worthy)
+
+		//Seventh Seraph Officer Revolver
+//Fourth Time's the Charm, Timed Payload
+dimwishlist:item=3037520408&perks=1354429876,1954620775#notes:{1310} (Throlli's Io Bunker) Must have for Disruption and Warmind Cells
+
+		//Dire Promises
+//Fastdraw HCS, High-Caliber Rounds, Opening Shot, Rangefinder
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770#notes:{1310} (Throlli's Worthy) Must have for PVP
+//Fastdraw HCS, High-Caliber Rounds, Opening Shot, Swashbuckler
+dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,4082225868#notes:{1310} (Throlli's Worthy) Must have for PVP
+//Steadyhand HCS, High-Caliber Rounds, Opening Shot, Rangefinder
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,2846385770#notes:{1310} (Throlli's Worthy) Must have for PVP
+//Steadyhand HCS, High-Caliber Rounds, Opening Shot, Swashbuckler
+dimwishlist:item=2742838701&perks=1926090095,1561002382,47981717,4082225868#notes:{1310} (Throlli's Worthy) Must have for PVP
+//Steadyhand HCS, High-Caliber Rounds, Snapshot Sights, Rangefinder
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,2846385770#notes:{1310} (Throlli's Worthy) Must have for PVP
+//Steadyhand HCS, High-Caliber Rounds, Snapshot Sights, Swashbuckler
+dimwishlist:item=2742838701&perks=1926090095,1561002382,957782887,4082225868#notes:{1310} (Throlli's Worthy) Must have for PVP
+
+		//True Prophecy
+
+	//Season 9 (of Dawn)
+
+		//The Old Fashioned
+//Sureshot HCS, Accurized Rounds, Slideshot, Snapshot Sights
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,957782887#notes:{1260} (Throlli's Dawn) Really good for PVP
+//Sureshot HCS, Accurized Rounds, Demolitionist, Snapshot Sights
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3523296417,957782887#notes:{1260} (Throlli's Dawn) Really good for PVP
+//Sureshot HCS, Accurized Rounds, Quickdraw, Snapshot Sights
+dimwishlist:item=3569802112&perks=1926090091,3142289711,706527188,957782887#notes:{1260} (Throlli's Dawn) Really good for PVP
+//Sureshot HCS, Accurized Rounds, Slideshot, Explosive Payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3161816588,3038247973#notes:{1260} (Throlli's Dawn) Really good for PVP
+//Sureshot HCS, Accurized Rounds, Demolitionist, Explosive Payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,3523296417,3038247973#notes:{1260} (Throlli's Dawn) Really good for PVP
+//Sureshot HCS, Accurized Rounds, Quickdraw, Explosive Payload
+dimwishlist:item=3569802112&perks=1926090091,3142289711,706527188,3038247973#notes:{1260} (Throlli's Dawn) Really good for PVP
+
+		//Jack Queen King 3
+//High-Caliber Rounds, Demolitionist, Dragonfly
+dimwishlist:item=410996590&perks=1561002382,3523296417,2848615171#notes:{1260} (Throlli's Nessus Obelisk) Really good for PVE
+//High-Caliber Rounds, Demolitionist, Rampage
+dimwishlist:item=410996590&perks=1561002382,3523296417,3425386926#notes:{1260} (Throlli's Nessus Obelisk) Really good
+
+	//Season 8 (of the Undying)
+
+		//Optative
+//Rapid Hit, Kill Clip
+dimwishlist:item=2138599001&perks=247725512,1015611457#notes:{1060} (Throlli's Vex Offensive) Really good for PVP
+
+	//Shadowkeep
+
+		//Loud Lullaby
+//Outlaw, Demolitionist
+dimwishlist:item=3924212056&perks=1168162263,3523296417#notes:{1060} (Throlli's Moon) Decent for PVE
+
+	//Season 7 (of Opulence)
+
+		//Austringer
+//Eye of the Storm, Rampage
+dimwishlist:item=2429822977&perks=699525795,3425386926#notes:{1060} (Throlli's Menagerie) Pretty good
+//Accurized Rounds, Outlaw, Rampage
+dimwishlist:item=2429822977&perks=3142289711,1168162263,3425386926#notes:{1060} (Throlli's Menagerie) Pretty good
+
+	//Season 6 (of the Drifter)
+
+		//Service Revolver
+//High-Caliber Rounds, Rapid Hit, Rampage
+dimwishlist:item=834081972&perks=1561002382,247725512,3425386926#notes:{1060} (Throlli's Vanguard) Pretty good
+
+		//Spare Rations
+//Curated
+dimwishlist:item=3116356268&perks=3250034553,1087426260,3643424744,3038247973#notes:{1060} (Throlli's Drifter) Pretty good
+//High-Caliber Rounds, Rapid Hit, Multikill Clip
+dimwishlist:item=3116356268&perks=1561002382,247725512,2458213969#notes:{1060} (Throlli's Drifter) Pretty good
+//High-Caliber Rounds, Rapid Hit, Kill Clip
+dimwishlist:item=3116356268&perks=1561002382,247725512,1015611457#notes:{1060} (Throlli's Drifter) Really good for PVP
+//High-Caliber Rounds, Rapid Hit, Slideshot
+dimwishlist:item=3116356268&perks=1561002382,247725512,957782887#notes:{1060} (Throlli's Drifter) Really good for PVP
+//High-Caliber Rounds, Snapshot Sights, Slideshot
+dimwishlist:item=3116356268&perks=1561002382,957782887,957782887#notes:{1060} (Throlli's Drifter) Really good for PVP
+
+	//Season 5 (of the Forge)
+
+		//Bad News XF4354
+//Snapshot Sights, Explosive Payload
+dimwishlist:item=2824241403&perks=957782887,3038247973#notes:{1060} (Throlli's Forge) Pretty good for PVP
+//Snapshot Sights, Timed Payload
+dimwishlist:item=2824241403&perks=957782887,1954620775#notes:{1060} (Throlli's Forge) Pretty good for PVP
+//Outlaw, Kill Clip
+dimwishlist:item=2824241403&perks=1168162263,1015611457#notes:{1060} (Throlli's Forge) Pretty good for PVP
+
+		//Kindled Orchid
+//Curated
+//Drop Mag, Kill Clip, Rampage
+dimwishlist:item=2575506895&perks=4134353779,1015611457,3425386926#notes:{1060} (Throlli's Forge) Really good
+//Drop Mag, Surrounded, Rampage
+dimwishlist:item=2575506895&perks=4134353779,3708227201,3425386926#notes:{1060} (Throlli's Forge) Really good
+//Drop Mag, Kill Clip, Explosive Payload
+dimwishlist:item=2575506895&perks=4134353779,1015611457,3038247973#notes:{1060} (Throlli's Forge) Really good
+
+	//Season 4 (of the Outlaw)
+
+		//Waking Vigil
+//High-Caliber Rounds, Opening Shot, Slideshot
+dimwishlist:item=334171687&perks=1561002382,47981717,3161816588#notes:{1060} (Throlli's Dreaming City / Menagerie) Pretty good for PVP
+//Ricochet Rounds, Opening Shot, Slideshot
+dimwishlist:item=334171687&perks=1885400500,47981717,3161816588#notes:{1060} (Throlli's Dreaming City / Menagerie) Pretty good for PVP
+//High-Caliber Rounds, Opening Shot, Snapshot Sights
+dimwishlist:item=334171687&perks=1561002382,47981717,957782887#notes:{1060} (Throlli's Dreaming City / Menagerie) Pretty good for PVP
+//Ricochet Rounds, Opening Shot, Snapshot Sights
+dimwishlist:item=334171687&perks=1885400500,47981717,957782887#notes:{1060} (Throlli's Dreaming City / Menagerie) Pretty good for PVP
+
+	//Forsaken
+
+		//Warden's Law
+//Rampage, Feeding Frenzy
+dimwishlist:item=233423981&perks=3425386926,2779035018#notes:{1060} (Throlli's Warden of Nothing Nightfall Exclusive) Pretty good for PVE
+
+		//Better Devils
+//Sureshot HCS, Accurized Rounds, Rangefinder, Explosive Payload
+dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770,3038247973#notes:{1060} (Throlli's Forsaken) Pretty good for PVP
+//Sureshot HCS, Accurized Rounds, Rangefinder, Timed Payload
+dimwishlist:item=153979397&perks=1926090091,3142289711,2846385770,1954620775#notes:{1060} (Throlli's Forsaken) Pretty good for PVP
+
+		//Duke Mk. 44
+//Rapid Hit, High-Caliber Rounds, Rampage
+dimwishlist:item=2112909414&perks=247725512,1561002382,3425386926#notes:{1060} (Throlli's Forsaken) Pretty good for PVP
+
+		//Pribina-D
+		//Ten Paces
+		//Thin Line
+		//Luna's Howl
+//Polygonal Rifling, Drop Mag, Zen Moment, Magnificent Howl
+dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289#notes:(Throlli's Pinnacle Crucible) Must have for PVP
+
+		//Not Forgotten
+//Extended Barrel, Accurized Rounds, Zen Moment, Magnificent Howl
+dimwishlist:item=153979399&perks=1467527085,3142289711,2387244414,2720533289#notes:(Throlli's Pinnacle Crucible) Must have for PVP
+
+		//Trust
+//Drop Mag, Dragonfly, Rampage
+dimwishlist:item=4077196130&perks=4134353779,2848615171,3425386926#notes:{1060} (Throlli's Menagerie) Pretty good for PVE
+//Flared Magwell, Dragonfly, Rampage
+dimwishlist:item=4077196130&perks=3230963543,2848615171,3425386926#notes:{1060} (Throlli's Menagerie) Pretty good for PVE
+//Alloy Magazine, Dragonfly, Rampage
+dimwishlist:item=4077196130&perks=1431678320,2848615171,3425386926#notes:{1060} (Throlli's Menagerie) Pretty good for PVE
+
+	//Warmind
+	//Red War
+
+
+//Pulse Rifles
+	//Iron Banner
+
+		//Claws of the Wolf
+
+	//Last Wish
+
+		//Chattering Bone
+//High-Caliber Rounds, Outlaw, Rampage
+dimwishlist:item=568515759&perks=1561002382,1168162263,3425386926#notes:{1360} (Throlli's Last Wish) Really good
+
+	//Garden of Salvation
+
+		//Sacred Provenance
+//High-Caliber Rounds, Rapid Hit, Kill Clip
+dimwishlist:item=2408405461&perks=1561002382,247725512,1015611457#notes:{1360} (Throlli's Garden of Salvation) Really good
+
+	//Season 11 (of Arrivals)
+
+		//Cold Denial
+//High-Caliber Rounds, Zen Moment, Eye of the Storm
+dimwishlist:item=1216130969&perks=1561002382,2387244414,699525795#notes:{1360} (Throlli's Recaster) Must have for PVP
+//High-Caliber Rounds, Zen Moment, Unrelenting
+dimwishlist:item=1216130969&perks=1561002382,2387244414,3108830275#notes:{1360} (Throlli's Recaster) Must have for PVP
+//High-Caliber Rounds, Feeding Frenzy, Multikill Clip
+dimwishlist:item=1216130969&perks=1561002382,2779035018,2458213969#notes:{1360} (Throlli's Recaster) Really good for PVE
+//High-Caliber Rounds, Feeding frenzy, Unrelenting
+dimwishlist:item=1216130969&perks=1561002382,2779035018,3108830275#notes:{1360} (Throlli's Recaster) Really good for PVE
+
+		//Last Perdition
+//SPO-26 Front, Outlaw, Kill Clip
+dimwishlist:item=188882152&perks=3151536503,1168162263,1015611457#notes:{1360} (Throlli's Arrivals) Pretty good for PVP
+//SPO-26 Front, Moving Target, Rampage
+dimwishlist:item=188882152&perks=3151536503,588594999,3425386926#notes:{1360} (Throlli's Arrivals) Pretty good for PVP
+
+	//Season 10 (of the Worthy)
+
+		//Jian 7 Rifle
+//SPO-26 Front, High-Caliber Rounds, Zen Moment, Rampage
+dimwishlist:item=1162247618&perks=3151536503,1561002382,2387244414,3425386926#notes:{1310} (Throlli's Worthy) Pretty good
+//SPO-26 Front, High-Caliber Rounds, Full Auto Trigger System, Rampage
+dimwishlist:item=1162247618&perks=3151536503,1561002382,4267945040,3425386926#notes:{1310} (Throlli's Worthy) Pretty good
+
+	//Season 9 (of Dawn)
+
+		//Infinite Paths 8
+//Demolitionist, Dragonfly
+dimwishlist:item=3233390913&perks=3523296417,2848615171#notes:{1260} (Throlli's Timelost Bounties) Pretty good for PVE
+
+	//Season 8 (of the Undying)
+
+		//Adhortative
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1167153950&perks=2779035018,2458213969#notes:{1060} (Throlli's Vex Offensive) Really good for PVP
+
+	//Shadowkeep
+
+		//Premonition
+//Outlaw, Dragonfly
+dimwishlist:item=208088207&perks=1168162263,2848615171#notes:{1060} (Throlli's Pit of Heresy) Pretty good for PVE
+
+	//Season 7 (of Opulence)
+	//Season 6 (of the Drifter)
+
+		//Outlast
+//Feeding Frenzy, Rampage
+dimwishlist:item=299665907&perks=2779035018,3425386926#notes:{1060} (Throlli's Gambit) Decent for PVE
+
+	//Season 5 (of the Forge)
+
+		//Blast Furnace
+//Rasmussen ISA, Feeding Frenzy, Rampage
+dimwishlist:item=3843477312&perks=1096957638,2779035018,3425386926#notes:{1060} (Throlli's Forge) Really good
+
+		//Nightshade
+//Outlaw, Rampage
+dimwishlist:item=792755504&perks=1168162263,3425386926#notes:{1060} (Throlli's Forge) Decent
+
+		//Swift Ride XE8375
+//SPO-26 Front, Moving Target, Rampage
+dimwishlist:item=1386601612&perks=3151536503,588594999,3425386926#notes:{1060} (Throlli's Forge) Really good
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//Bygones
+
+		//Eystein-D
+//SC Holo, High-Caliber Rounds, Rangefinder, Kill Clip
+dimwishlist:item=3199662972&perks=2054312700,1561002382,2846385770,1015611457#notes:{1060} (Throlli's Gunsmith) Pretty good for PVP
+
+		//Go Figure
+		//Redrix's Broadsword
+		//Horror's Least
+		//Right Side of Wrong
+
+	//Warmind
+	//Red War
+
+
+//Scout Rifles
+	//Iron Banner
+
+		//Talons of the Eagle
+//Zen Moment, Opening Shot
+dimwishlist:item=1982711279&perks=1982711279,47981717#notes:{1360} (Throlli's Iron Banner) Decent for PVP
+
+	//Last Wish
+
+		//Transfiguration
+//Rampage, Kill Clip
+dimwishlist:item=3799980700&perks=3425386926,1015611457#notes:{1360} (Throlli's Last Wish) Pretty good
+
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+	
+		//Night Watch
+//Rapid Hit, Explosive Payload
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:{1360} (Throlli's Recaster) Pretty good
+	
+	//Season 10 (of the Worthy)
+
+		//The Scholar
+//High-Caliber Rounds, Opening Shot, Vorpal Weapon
+dimwishlist:item=2478792241&perks=1561002382,47981717,1546637391#notes:{1310} (Throlli's Trials) Decent
+
+	//Season 9 (of Dawn)
+
+		//Patron of Lost Causes
+//Rapid Hit, Explosive Payload
+dimwishlist:item=2723241847&perks=247725512,3038247973#notes:{1260} (Throlli's Sundial) Pretty good
+
+	//Season 8 (of the Undying)
+
+		//Randy's Throwing Knife
+//Fluted Barrel, Extended Mag, Rapid Hit, Kill Clip
+dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,1015611457#notes:{1060} (Throlli's Ritual Crucible) Really good for PVP
+
+		//Imperative
+//Eye of the Storm, Explosive Payload
+dimwishlist:item=2314999489&perks=699525795,3038247973#notes:{1060} (Throlli's Vex Offensive) Decent for PVP
+
+	//Shadowkeep
+	//Season 7 (of Opulence)
+
+		//Calusea Noblesse
+//Disruption Break, Rampage
+dimwishlist:item=2338088853&perks=1683379515,3425386926#notes:{1060} (Throlli's Menagerie) Decent for PVE
+//Disruption Break, Dragonfly
+dimwishlist:item=2338088853&perks=1683379515,2848615171#notes:{1060} (Throlli's Menagerie) Decent for PVE
+//Disruption Break, Multikill Clip
+dimwishlist:item=2338088853&perks=1683379515,2458213969#notes:{1060} (Throlli's Menagerie) Decent for PVE
+
+	//Season 6 (of the Drifter)
+
+		//Oxygen SR3
+//Polygonal Rifling, Accurized Rounds, Dragonfly, Meganeura
+dimwishlist:item=3907337522&perks=1392496348,3142289711,3865257976,1941225610#notes:{1060} (Throlli's Pinnacle Vanguard) Decent for PVE
+
+	//Season 5 (of the Forge)
+
+		//Does not Compute
+//Zen Moment, Rampage
+dimwishlist:item=2278995296&perks=2387244414,3425386926#notes:{1060} (Throlli's Forge) Decent for PVP
+
+		//No Feelings
+//Rapid Hit, Box Breathing
+dimwishlist:item=1931556011&perks=247725512,2551157718#notes:{1060} (Throlli's Scourge of the Past) Must have
+
+		//Tango-45 XK5094
+//SPO-26 Front, Zen Moment, Explosive Payload
+dimwishlist:item=20025671&perks=3151536503,2387244414,3038247973#notes:{1060} (Throlli's Forge) Decent for PVP
+
+	//Season 4 (of the Outlaw)
+
+		//Vouchsafe
+
+	//Forsaken
+
+		//Nameless Midnight
+		//Wrong Side of Right
+		//Black Scorpion-4sr
+		//Distant Relation
+		//The Cut and Run
+
+	//Warmind
+	//Red War
+
+
+//Sidearms
+	//Iron Banner
+
+		//The Fool's Remedy
+
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//Lonesome
+//Rapid Hit, Multikillclip
+dimwishlist:item=2199171672&perks=247725512,2458213969#notes:{1360} (Throlli's Arrivals) Pretty good for PVE
+//Grave Robber, Swashbuckler
+dimwishlist:item=2199171672&perks=1631667848,4082225868#notes:{1360} (Throlli's Arrivals) Pretty good for PVE
+
+		//The Last Dance
+//Full Auto Trigger System, Dragonfly
+dimwishlist:item=2009277538&perks=4267945040,2848615171#notes:{1360} (Throlli's Menagerie) Pretty good for PVE
+
+		//The Fool's Remedy
+
+	//Season 10 (of the Worthy)
+
+		//Enigma's Draw
+//High-Caliber Rounds, Grave Robber, Swashbuckler
+dimwishlist:item=1723380073&perks=1561002382,1631667848,4082225868#notes:{1310} (Throlli's Worthy) Pretty good for PVE
+
+		//Seventh Seraph SI-2
+//Demolitionist, Vorpal
+dimwishlist:item=3937866388&perks=3523296417,1546637391#notes:{1310} (Throlli's Moon Bunker) Really good for PVE
+
+	//Season 9 (of Dawn)
+
+		//Breachlight
+//Demolitionist, Vorpal Weapon
+dimwishlist:item=1289997971&perks=3523296417,1546637391#notes:{1260} (Throlli's Sundial) Must have for PVE
+//Demolitionist, Multikill Clip
+dimwishlist:item=1289997971&perks=3523296417,2458213969#notes:{1260} (Throlli's Sundial) Must have for PVE
+
+		//Buzzard
+//Extended Barrel, Alloy Magazine, Outlaw, Swashbuckler
+dimwishlist:item=805677041&perks=1467527085,1431678320,1168162263,4082225868#notes:{1260} (Throlli's Ritual Vanguard) Mediocre
+//Extended Barrel, Alloy Magazine, Fourth Time's the Charm, Swashbuckler
+dimwishlist:item=805677041&perks=1467527085,1431678320,1354429876,4082225868#notes:{1260} (Throlli's Ritual Vanguard) Mediocre
+
+		//Last Hope
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=3622137132&perks=2779035018,2458213969#notes:{1260} (Throlli's Dawn) Really good for PVE
+
+		//Traveler's Judgement 5
+//Rapid Hit, Disruption Break
+dimwishlist:item=4149758318&perks=247725512,1683379515#notes:{1260} (Throlli's Dawn) Really good for PVE
+//Feeding Frenzy, Disruption Break
+dimwishlist:item=4149758318&perks=2779035018,1683379515#notes:{1260} (Throlli's Dawn) Really good for PVE
+//Rapid Hit, Dragonfly
+dimwishlist:item=4149758318&perks=247725512,2848615171#notes:{1260} (Throlli's Dawn) Really good for PVE
+//Feeding Frenzy, Dragonfly
+dimwishlist:item=4149758318&perks=2779035018,2848615171#notes:{1260} (Throlli's Dawn) Really good for PVE
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+	//Season 7 (of Opulence)
+
+		//Drang (Baroque)
+//High-Caliber Rounds, Eye of the Storm, Swashbuckler
+dimwishlist:item=79075821&perks=1561002382,699525795,4082225868#notes:{1060} (Throlli's Menagerie) Pretty good for PVP
+
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge
+
+		//Dead Man Walking XX7463
+//Quickdraw, Rampage
+dimwishlist:item=3751622019&perks=706527188,3425386926#notes:{1060} (Throlli's Forge) Decent for PVP
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//Smuggler's Word
+		//Anonymous Autumn
+		//Death by Scorn
+		//The Last Dance
+		//Translation Theory
+		//Vestian Dynasty
+
+	//Warmind
+	//Red War
+
+
+//Submachine Guns
+	//Iron Banner
+
+		//The Hero's Burden
+//SPO-26 Front, High-Caliber Rounds, Zen Moment, Kill Clip
+dimwishlist:item=1865351684&perks=3151536503,1561002382,2387244414,1015611457#notes:{1060} (Throlli's Iron Banner) Really good
+
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//IKELOS_SMG_v1.0.2
+//Threat Detector, Surrounded
+dimwishlist:item=2222560548&perks=4071163871,3708227201#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Dynamic Sway Reduction, Vorpal Weapon
+dimwishlist:item=2222560548&perks=1359896290,1546637391#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Seraph Rounds, Threat Detector, Surrounded
+dimwishlist:item=2222560548&perks=1140096971,4071163871,3708227201#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Seraph Rounds, Dynamic Sway Reduction, Vorpal Weapon
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1546637391#notes:{1360} (Throlli's Recaster) Must have for PVE
+
+		//Death Adder
+//Feeding Frenzy, Dragonfly
+dimwishlist:item=2742490609&perks=2779035018,2848615171#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+	//Season 10 (of the Worthy)
+
+		//Escape Velocity
+//Overflow, Vorpal Weapon
+dimwishlist:item=1786797708&perks=3643424744,1546637391#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Overflow, Surrounded
+dimwishlist:item=1786797708&perks=3643424744,3708227201#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Threat Detector, Surrounded
+dimwishlist:item=1786797708&perks=4071163871,3708227201#notes:{1310} (Throlli's Worthy) Really good for PVE
+
+		//Seventh Seraph VY-7
+//Fourth Time's the Charm, Dragonfly
+dimwishlist:item=766323545&perks=1354429876,2848615171#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Ambitious Assassin, Feeding Frenzy
+dimwishlist:item=766323545&perks=2010801679,2779035018#notes:{1310} (Throlli's Worthy) Must have for PVE
+
+	//Season 9 (of Dawn)
+
+		//Cold Front
+//Zen Moment, Kill Clip
+dimwishlist:item=1506719573&perks=2387244414,1015611457#notes:{1260} (Throlli's Dawning) Really good for PVE
+//Zen Moment, Vorpal Weapon
+dimwishlist:item=1506719573&perks=2387244414,1546637391#notes:{1260} (Throlli's Dawning) Really good for PVE
+//Feeding Frenzy, Kill Clip
+dimwishlist:item=1506719573&perks=2779035018,1015611457#notes:{1260} (Throlli's Dawning) Really good for PVE
+//Feeding Frenzy, Vorpal Weapon
+dimwishlist:item=1506719573&perks=2779035018,1546637391#notes:{1260} (Throlli's Dawning) Really good for PVE
+
+	//Season 8 (of the Undying)
+
+		//Exit Strategy
+//Arrowhead Brake, Ricochet Rounds, Threat Detector, Swashbuckler
+dimwishlist:item=4227181568&perks=4227181568,1885400500,4071163871,4082225868#notes:{1060} (Throlli's Ritual Gambit) Pretty good for PVE
+//Arrowhead Brake, Ricochet Rounds, Threat Detector, Surrounded
+dimwishlist:item=4227181568&perks=4227181568,1885400500,4071163871,3708227201#notes:{1060} (Throlli's Ritual Gambit) Pretty good for PVE
+
+		//Subjunctive
+//Outlaw, Rampage
+dimwishlist:item=2663204025&perks=1168162263,3425386926#notes:{1060} (Throlli's Vex Offensive) Really good for PVE 
+//Outlaw, Multikill Clip
+dimwishlist:item=2663204025&perks=1168162263,2458213969#notes:{1060} (Throlli's Vex Offensive) Really good for PVE 
+
+	//Shadowkeep
+
+		//Every Waking Moment
+//Outlaw, Demolitionist
+dimwishlist:item=4277547616&perks=1168162263,3523296417#notes:{1060} (Throlli's Moon) Decent for PVE
+
+	//Season 7 (of Opulence)
+
+		//CALUS Mini-Tool
+//Eye of the Storm, Surrounded
+dimwishlist:item=174192097&perks=699525795,3708227201#notes:{1060} (Throlli's Menagerie) Decent for MIDA Synergy's speed boost
+//Threat Detector, Surrounded
+dimwishlist:item=174192097&perks=4071163871,3708227201#notes:{1060} (Throlli's Menagerie) Decent for MIDA Synergy's speed boost
+
+	//Season 6 (of the Drifter)
+
+		//Bug-Out Bag
+//Threat Detector, Multikill Clip
+dimwishlist:item=2744715540&perks=4071163871,2458213969#notes:{1060} (Throlli's Drifter) Decent for PVE
+
+		//The Recluse
+//Polygonal Rifling, Ricochet Rounds, Feeding Frenzy, Master of Arms
+dimwishlist:item=3354242550&perks=1392496348,1885400500,2779035018,3081867624#notes:{1060} (Throlli's Pinnacle Crucible) Really good for PVE
+
+	//Season 5 (of the Forge)
+
+		//Atalanta-D XG1992
+//SC Holo, High-Caliber Rounds, Zen Moment, Kill Clip
+dimwishlist:item=2422664927&perks=2054312700,1561002382,2387244414,1015611457#notes:{1060} (Throlli's Forge) Really good
+//SC Holo, Ricochet Rounds,  Zen Moment, Kill Clip
+dimwishlist:item=2422664927&perks=2054312700,1885400500,2387244414,1015611457#notes:{1060} (Throlli's Forge) Really good
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//Antiope-D
+		//Hard Truths
+		//Pillager
+		//Trackless Waste
+		//Bad Reputation
+		//Breath of the Dragon
+
+	//Warmind
+	//Red War
+
+
+//Fusion Rifles
+	//Iron Banner
+
+		//The Wizened Rebuke
+//Liquid Coils, Under Pressure, High-Impact Reserves
+dimwishlist:item=930590127&perks=1687452232,1645158859,2213355989#notes:{1060} (Throlli's Iron Banner) Really good for PVP
+
+	//Last Wish
+
+		//Techeun Force
+//Liquid Coils, Kill Clip, Rampage
+dimwishlist:item=4094657108&perks=1687452232,1015611457,3425386926#notes:{1360} (Throlli's Last Wish) Decent for PVE
+
+	//Garden of Salvation
+
+		//Zealot's Reward
+//Liquid Coils, Auto-Loading Holster, Backup Plan
+dimwishlist:item=2209003210&perks=1687452232,3300816228,1600092898#notes:{1360} (Throlli's Garden of Salvation) Pretty good
+
+	//Season 11 (of Arrivals
+
+		//Hollow Words
+//Liquid Coils, Quickdraw, Vorpal Weapon
+dimwishlist:item=607191995&perks=1687452232,706527188,1546637391#notes:{1360} (Throlli's Recaster) Pretty good
+
+		//Main Ingredient
+//Liquid Coils, Under Pressure, High-Impact Reserves
+dimwishlist:item=253196586&perks=1687452232,1645158859,2213355989#notes:{1360} (Throlli's Menagerie) Decent
+
+	//Season 10 (of the Worthy)
+
+		//Exile's Curse
+//Liquid Coils, Firmly Planted, Celerity
+dimwishlist:item=679281855&perks=1687452232,280464955,1264398905#notes:{1310} (Throlli's Trials) Decent for PVP
+
+		//Timeline's Vertex
+//Flash HS5, Liquid Coils, Liquid Coils, Firmly Planted, Elemental Capacitor
+dimwishlist:item=3055192515&perks=1628165637,1687452232,280464955,3511092054#notes:{1310} (Throlli's Worthy) Decent for PVP (Void Subclass)
+
+	//Season 9 (of Dawn)
+
+		//Gallant Charge
+//Liquid Coil, Demolitionist, Tap the Trigger
+dimwishlist:item=1706206669&perks=1687452232,3523296417,1890422124#notes:{1260} (Throlli's Dawn) Really good for PVP
+
+		//Elatha FR4
+//Flash HS5, Liquid Coils, Quickdraw, Snapshot Sights
+dimwishlist:item=4106983932&perks=1628165637,1687452232,706527188,957782887#notes:{1260} (Throlli's Dawn) Really good for PVP
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Dream Breaker
+//Liquid Coils, Auto-Loading Holster, Disruption Break
+dimwishlist:item=2931957300&perks=1687452232,3300816228,1683379515#notes:{1060} (Throlli's Moon) Mediocre for PVE
+
+	//Season 7 (of Opulence)
+
+		//The Epicurean
+//Liquid Coils, Quickdraw, Demolitionist
+dimwishlist:item=4124357815&perks=1687452232,706527188,3523296417#notes:{1060} (Throlli's Menagerie) Pretty good for PVP
+
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge)
+
+		//Tempered Dynamo
+//Opening Shot, High-Impact Reserves
+dimwishlist:item=2753269585&perks=47981717,2213355989#notes:{1060} (Throlli's Scourge of the Past) Decent for PVP
+
+		//Loaded Question
+//Red Dot 2 MOA, Ionized Battery, Auto-Loading Holster, Reservoir Burst
+dimwishlist:item=580961571&perks=2405638015,1483536627,3300816228,1427256713#notes:{1060} (Throlli's Pinnacle Vanguard) Really good for PVE
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//Erentil FR4
+		//Main Ingredient
+		//Proelim FR3
+
+	//Warmind
+	//Red War
+
+
+//Shotguns
+	//Iron Banner
+
+		//Gunnora's Axe
+//Assault Mag, Quickdraw, Opening Shot
+dimwishlist:item=2326716489&perks=791862061,706527188,47981717#notes:{1060} (Throlli's Iron Banner) Really good for PVP
+//Assault Mag, Quickdraw, Swashbuckler
+dimwishlist:item=2326716489&perks=791862061,706527188,4082225868#notes:{1060} (Throlli's Iron Banner) Really good for PVP
+
+	//Last Wish
+	//Garden of Salvation
+
+		//Prophet of Doom
+//One-Two Punch
+dimwishlist:item=4020742303&perks=2679249093#notes:{1360} (Throlli's Garden of Salvation) Must have for PVE
+
+	//Season 11 (of Arrivals)
+
+		//Toil and Trouble
+//Rifled Barrel, Assault Mag, Slideshot
+dimwishlist:item=2957367743&perks=1332244541,791862061,791862061#notes:{1360} (Throlli's Arrivals) Pretty good for PVP
+//Full Choke, Assault Mag, Slideshot
+dimwishlist:item=2957367743&perks=1047830412,791862061,791862061#notes:{1360} (Throlli's Arrivals) Pretty good for PVP
+//Rifled Barrel, Assault Mag, Threat Detector
+dimwishlist:item=2957367743&perks=1332244541,791862061,4071163871#notes:{1360} (Throlli's Arrivals) Pretty good for PVP
+//Full Choke, Assault Mag, Threat Detector
+dimwishlist:item=2957367743&perks=1047830412,791862061,4071163871#notes:{1360} (Throlli's Arrivals) Pretty good for PVP
+
+		//Wishbringer
+//Rifled Barrel, Accurized Rounds, Slideshot, Opening Shot
+dimwishlist:item=3356526253&perks=1332244541,3142289711,3161816588,47981717#notes:{1360} (Throlli's Arrivals) Decent for PVP
+//Full Choke, Accurized Rounds, Slideshot, Opening Shot
+dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717#notes:{1360} (Throlli's Arrivals) Decent for PVP
+
+		//First in, Last out
+//Fluted Barrel, Assault Mag, Slideshot, Opening Shot
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717#notes:{1360} (Throlli's Recaster) Must have for PVP
+//Assault Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Assault Mag, Pulse Monitor, Vorpal Weapon
+dimwishlist:item=3616586446&perks=791862061,972757866,1546637391#notes:{1360} (Throlli's Recaster) Must have for PVE
+
+		//IKELOS_SG_v1.0.2
+//Light Mag, Feeding Frenzy, Vorpal Weapon
+dimwishlist:item=1096206669&perks=679225683,2779035018,1546637391#notes:{1360} (Throlli's Prophecy) Really good for PVE
+//Tactical Mag, Feeding Frenzy, Vorpal Weapon
+dimwishlist:item=1096206669&perks=106909392,2779035018,1546637391#notes:{1360} (Throlli's Prophecy) Really good for PVE
+//Light Mag, Feeding Frenzy, Trench Barrel
+dimwishlist:item=1096206669&perks=679225683,2779035018,2360754333#notes:{1360} (Throlli's Prophecy) Really good for PVE
+//Tactical Mag, Feeding Frenzy, Trench Barrel
+dimwishlist:item=1096206669&perks=106909392,2779035018,2360754333#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+	//Season 10 (of the Worthy)
+
+		//Astral Horizon
+//Rifled Barrel, Assault Mag, Quickdraw, Opening Shot
+dimwishlist:item=1697682876&perks=1332244541,791862061,706527188,47981717#notes:{1310} (Throlli's Trials) Must have for PVP
+//Full Choke, Assault Mag, Quickdraw, Opening Shot
+dimwishlist:item=1697682876&perks=1047830412,791862061,706527188,47981717#notes:{1310} (Throlli's Trials) Must have for PVP
+//Rifled Barrel, Assault Mag, Quickdraw, Elemental Capacitor
+dimwishlist:item=1697682876&perks=1332244541,791862061,706527188,3511092054#notes:{1310} (Throlli's Trials) Really good for PVP (Arc Subclass)
+//Full Choke, Assault Mag, Quickdraw, Elemental Capacitor
+dimwishlist:item=1697682876&perks=1047830412,791862061,706527188,3511092054#notes:{1310} (Throlli's Trials) Really good for PVP (Arc Subclass)
+//Rifled Barrel, Assault Mag, Slideshot, Opening Shot
+dimwishlist:item=1697682876&perks=1332244541,791862061,3161816588,47981717#notes:{1310} (Throlli's Trials) Really good for PVP
+//Full Choke, Assault Mag, Slideshot, Opening Shot
+dimwishlist:item=1697682876&perks=1047830412,791862061,3161816588,47981717#notes:{1310} (Throlli's Trials) Must have for PVP
+//Rifled Barrel, Assault Mag, Slideshot, Elemental Capacitor
+dimwishlist:item=1697682876&perks=1332244541,791862061,3161816588,3511092054#notes:{1310} (Throlli's Trials) Really good for PVP (Arc Subclass)
+//Full Choke, Assault Mag, Slideshot, Elemental Capacitor
+dimwishlist:item=1697682876&perks=1047830412,791862061,3161816588,3511092054#notes:{1310} (Throlli's Trials) Really good for PVP (Arc Subclass)
+
+		//Seventh Seraph CQC-12
+//Assault Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=1821724780&perks=791862061,3300816228,1546637391#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Assault Mag, Auto-Loading Holster, Trench Barrel
+dimwishlist:item=1821724780&perks=791862061,3300816228,2360754333#notes:{1310} (Throlli's Worthy) Really good for PVE
+
+		//Felwinter's Lie
+//Full Choke, Accurized Rounds, Slideashot, Opening Shot
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717#notes:{1310} (Throlli's Warmind Heuristics) Must have for PVP 
+//Full Choke, Accurized Rounds, Quickdraw, Opening Shot
+dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,47981717#notes:{1310} (Throlli's Warmind Heuristics) Must have for PVP 
+//Full Choke, Accurized Rounds, Slideshot, Vorpal Weapon
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391#notes:{1310} (Throlli's Warmind Heuristics) Must have for PVP 
+//Full Choke, Accurized Rounds, Quickdraw, Vorpal Weapon
+dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,1546637391#notes:{1310} (Throlli's Warmind Heuristics) Must have for PVP 
+
+	//Season 9 (of Dawn)
+
+		//Perfect Paradox
+//Demolitionist, One-Two Punch
+dimwishlist:item=3393519051&perks=3523296417,2679249093#notes:{1260} (Throlli's Dawn) Must have for PVE
+
+		//Hawthorne's Field-Forged Shotgun
+//Grave Robber, One-Two Punch
+dimwishlist:item=1807343361&perks=1631667848,2679249093#notes:{1260} (Throlli's Dawn) Really good for PVE
+
+		//Python
+//Smallbore, Extended Mag, Overflow, One-Two Punch
+dimwishlist:item=838556752&perks=1482024992,2420895100,3643424744,2679249093#notes:{1260} (Throlli's Ritual Gambit) Must have for PVE
+//Smallbore, Extended Mag, Feeding Frenzy, One-two Punch
+dimwishlist:item=838556752&perks=1482024992,2420895100,2779035018,2679249093#notes:{1260} (Throlli's Ritual Gambit) Pretty good for PVE (Overflow is preferred though)
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//One Small Step
+//One-Two Punch
+dimwishlist:item=1016668089&perks=2679249093#notes:{1060} (Throlli's Moon) Pretty good for PVE
+
+		//Blasphemer
+//Assault Mag, Quickdraw, Opening Shot
+dimwishlist:item=2782847179&perks=791862061,706527188,47981717#notes:{1060} (Throlli's Altars of Sorrow) Really good for PVP
+//Quickdraw, Opening Shot
+dimwishlist:item=2782847179&perks=706527188,47981717#notes:{1060} (Throlli's Altars of Sorrow) Pretty good for PVP
+
+	//Season 7 (of Opulence)
+
+		//Imperial Decree
+//Assault Mag, Threat Detector, Trench Barrel
+dimwishlist:item=2919334548&perks=791862061,4071163871,2360754333#notes:{1060} (Throlli's Menagerie) Really good
+//Rifled Barrel, Assault Mag, Slideshot, Snapshot Sights
+dimwishlist:item=2919334548&perks=1332244541,791862061,3161816588,957782887#notes:{1060} (Throlli's Menagerie) Really good for PVP
+//Full Choke, Assault Mag, Slideshot, Snapshot Sights
+dimwishlist:item=2919334548&perks=1047830412,791862061,3161816588,957782887#notes:{1060} (Throlli's Menagerie) Really good for PVP
+
+		//Emperor's Courtesy
+//Curated
+dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093#notes:{1060} (Throlli's Crown of Sorrow) Really good for PVE
+
+	//Season 6 (of the Drifter)
+
+		//Last Man Standing
+//Grave Robber, One-Two Punch
+dimwishlist:item=755130877&perks=1631667848,2679249093#notes:{1060} (Throlli's Drifter) Really good for PVE
+//Auto-Loading Holster, One-Two Punch
+dimwishlist:item=755130877&perks=3300816228,2679249093#notes:{1060} (Throlli's Drifter) Really good for PVE
+//Rifled Barrel, Assault Mag, Opening Shot, Swashbuckler
+dimwishlist:item=755130877&perks=1332244541,791862061,47981717,4082225868#notes:{1060} (Throlli's Drifter) Really good for PVP
+//Full Choke, Assault Mag, Opening Shot, Swashbuckler
+dimwishlist:item=755130877&perks=1047830412,791862061,47981717,4082225868#notes:{1060} (Throlli's Drifter) Really good for PVP
+
+	//Season 5 (of the Forge)
+
+		//Baligant XU7743
+//Rifled Barrel, Assault Mag, Slideshot, Rampage
+dimwishlist:item=3461377698&perks=1332244541,791862061,3161816588,3425386926#notes:{1060} (Throlli's Forge) Really good for PVP
+//Full Choke, Assault Mag, Slideshot, Rampage
+dimwishlist:item=3461377698&perks=1047830412,791862061,3161816588,3425386926#notes:{1060} (Throlli's Forge) Really good for PVP
+
+		//Threat Level
+//Trench Barrel, Grave Robber
+dimwishlist:item=1664372054&perks=2360754333,1631667848#notes:{1060} (Throlli's Scourge of the Past) Pretty good for PVE
+//Surrounded, Grave Robber
+dimwishlist:item=1664372054&perks=3708227201,1631667848#notes:{1060} (Throlli's Scourge of the Past) Pretty good for PVE
+//Trench Barrel, Threat Detector
+dimwishlist:item=1664372054&perks=2360754333,4071163871#notes:{1060} (Throlli's Scourge of the Past) Pretty good for PVE
+//Surrounded, Threat Detector
+dimwishlist:item=1664372054&perks=3708227201,4071163871#notes:{1060} (Throlli's Scourge of the Past) Pretty good for PVE
+
+	//Season 4 (of the Outlaw)
+
+		//Retold Tale
+
+	//Forsaken
+
+		//Dust Rock Blues
+		//Parcel of Stardust
+		//Badlander
+		//Good Bone Structure
+		//Mindbender's Ambition
+
+	//Warmind
+	//Red War
+
+
+//Sniper Rifles
+	//Iron Banner
+	
+		//Bite of the Fox
+//Snapshot, Explosive Payload
+dimwishlist:item=3169616514&perks=957782887,3038247973#notes:{1360} (Throlli's Iron Banner) Must have for PVP
+//Snapshot, Moving Target
+dimwishlist:item=3169616514&perks=957782887,588594999#notes:{1360} (Throlli's Iron Banner) Really good for PVP
+//Snapshot, Opening Shot
+dimwishlist:item=3169616514&perks=957782887,47981717#notes:{1360} (Throlli's Iron Banner) Really good for PVP
+
+	//Last Wish
+
+		//The Supremacy
+//Appended Mag, Rapid Hit
+dimwishlist:item=686951703&perks=1087426260,247725512#notes:{1360} (Throlli's Last Wish) Really good for PVE
+//Extended Mag, Rapid Hit
+dimwishlist:item=686951703&perks=2420895100,247725512#notes:{1360} (Throlli's Last Wish) Really good for PVE
+//Appended Mag, Triple Tap
+dimwishlist:item=686951703&perks=1087426260,3400784728#notes:{1360} (Throlli's Last Wish) Must have for PVE
+//Extended Mag, Triple Tap
+dimwishlist:item=686951703&perks=2420895100,3400784728#notes:{1360} (Throlli's Last Wish) Must have for PVE
+
+	//Garden of Salvation
+
+		//Omniscient Eye
+//Mulligan, Snapshot Sights
+dimwishlist:item=3454326177&perks=3513791699,957782887#notes:{1360} (Throlli's Garden of Salvation) Pretty good for PVP
+
+	//Season 11 (of Arrivals)
+
+		//Long Shadow
+//Tactical Mag, Rapid Hit, Triple Tap
+dimwishlist:item=3745990145&perks=106909392,247725512,3400784728#notes:{1360} (Throlli's Arrivals) Must have for PVE
+//Appended Mag, Rapid Hit, Triple Tap
+dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728#notes:{1360} (Throlli's Arrivals) Must have for PVE
+//Extended Mag, Rapid Hit, Triple Tap
+dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:{1360} (Throlli's Arrivals) Must have for PVE
+//Tactical Mag, Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=106909392,2869569095,3400784728#notes:{1360} (Throlli's Arrivals) Must have for PVE
+//Appended Mag, Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=1087426260,2869569095,3400784728#notes:{1360} (Throlli's Arrivals) Must have for PVE
+//Extended Mag, Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=2420895100,2869569095,3400784728#notes:{1360} (Throlli's Arrivals) Must have for PVE
+		
+		//IKELOS_SR_v1.0.2
+//Tactical Mag, Fourth Time's the Charm, High-Impact Reserves
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Appended Mag, Fourth Time's the Charm, High-Impact Reserves
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Extended Mag, Fourth Time's the Charm, High-Impact Reserves
+dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989#notes:{1360} (Throlli's Recaster) Must have for PVE
+//Tactical Mag, Triple Tap, High-Impact Reserves
+dimwishlist:item=1253087083&perks=106909392,3400784728,2213355989#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Appended Mag, Triple Tap, High-Impact Reserves
+dimwishlist:item=1253087083&perks=1087426260,3400784728,2213355989#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Extended Mag, Triple Tap, High-Impact Reserves
+dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989#notes:{1360} (Throlli's Recaster) Really good for PVE
+
+		//Widow's Bite
+
+	//Season 10 (of the Worthy
+
+		//Eye of Sol
+//Tactical Mag, Field Prep, Vorpal Weapon
+dimwishlist:item=3164743584&perks=106909392,2869569095,1546637391#notes:{1310} (Throlli's Trials) Really good for PVE
+//Appended Mag, Field Prep, Vorpal Weapon
+dimwishlist:item=3164743584&perks=1087426260,2869569095,1546637391#notes:{1310} (Throlli's Trials) Really good for PVE
+//Extended Mag, Field Prep, Vorpal Weapon
+dimwishlist:item=3164743584&perks=2420895100,2869569095,1546637391#notes:{1310} (Throlli's Trials) Really good for PVE
+
+		//Distant Tumulus
+//Tactical Mag, Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Appended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Extended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Tactical Mag, Pulse Monitor, Firing Line
+dimwishlist:item=2807687156&perks=106909392,972757866,1771339417#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Appended Mag, Pulse Monitor, Firing Line
+dimwishlist:item=2807687156&perks=1087426260,972757866,1771339417#notes:{1310} (Throlli's Worthy) Really good for PVE
+//Extended Mag, Pulse Monitor, Firing Line
+dimwishlist:item=2807687156&perks=2420895100,972757866,1771339417#notes:{1310} (Throlli's Worthy) Really good for PVE
+
+	//Season 9 (of Dawn)
+
+		//Trophy Hunter
+//Tactical Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=4166221755&perks=106909392,3400784728,1546637391#notes:{1260} (Throlli's Tower Obelisk) Must have for PVE
+//Appended Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=4166221755&perks=1087426260,3400784728,1546637391#notes:{1260} (Throlli's Tower Obelisk) Must have for PVE
+//Extended Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=4166221755&perks=2420895100,3400784728,1546637391#notes:{1260} (Throlli's Tower Obelisk) Must have for PVE
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Tranquility
+//Tactical Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=106909392,3300816228,1771339417#notes:{1060} (Throlli's Moon) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=1087426260,3300816228,1771339417#notes:{1060} (Throlli's Moon) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=2420895100,3300816228,1771339417#notes:{1060} (Throlli's Moon) Really good for PVE
+//Tactical Mag, Field Prep, Firing Line
+dimwishlist:item=1645386487&perks=106909392,2869569095,1771339417#notes:{1060} (Throlli's Moon) Really good for PVE
+//Appended Mag, Field Prep, Firing Line
+dimwishlist:item=1645386487&perks=1087426260,2869569095,1771339417#notes:{1060} (Throlli's Moon) Really good for PVE
+//Extended Mag, Field Prep, Firing Line
+dimwishlist:item=1645386487&perks=2420895100,2869569095,1771339417#notes:{1060} (Throlli's Moon) Really good for PVE
+
+		//Apostate
+//Moving Target, Snapshot Sights
+dimwishlist:item=2164448701&perks=2164448701,957782887#notes:{1060} (Throlli's Altars of Sorrow) Decent for PVP
+
+	//Season 7 (of Opulence)
+
+		//Revoker
+//Extended Barrel, Accurized Rounds, Snapshot Sights, Reversal of Fortune
+dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835#notes:{1060} (Throlli's Pinnacle Crucible) Must have for PVP
+
+		//Beloved
+//Snapshot Sights, Quickdraw
+dimwishlist:item=4190932264&perks=957782887,706527188#notes:{1060} (Throlli's Menagerie) Must have for PVP
+//Snapshot Sights, Moving Target
+dimwishlist:item=4190932264&perks=957782887,588594999#notes:{1060} (Throlli's Menagerie) Must have for PVP
+
+	//Season 6 (of the Drifter)
+
+		//Sole Survivor
+//Appended Mag, Triple Tap, Firing Line
+dimwishlist:item=1115104187&perks=1087426260,3400784728,1771339417#notes:{1060} (Throlli's Drifter) Pretty good for PVE
+//Extended Mag, Triple Tap, Firing Line
+dimwishlist:item=1115104187&perks=2420895100,3400784728,1771339417#notes:{1060} (Throlli's Drifter) Pretty good for PVE
+//Appended Mag, Fourth Time's the Charm, Firing Line
+dimwishlist:item=1115104187&perks=1087426260,1354429876,1771339417#notes:{1060} (Throlli's Drifter) Pretty good for PVE
+//Extended Mag, Fourth Time's the Charm, Firing Line
+dimwishlist:item=1115104187&perks=2420895100,1354429876,1771339417#notes:{1060} (Throlli's Drifter) Pretty good for PVE
+
+	//Season 5 (of the Forge)
+
+		//Show of Force XF4865
+//Snapshot Sights, Explosive Payload
+dimwishlist:item=4148143418&perks=957782887,3038247973#notes:{1060} (Throlli's Forge) Really good for PVP
+
+		//Persuader
+//50VAL Telescopic, Tactical Mag, Rapid Hit, Triple Tap
+dimwishlist:item=4083045006&perks=4083045006,106909392,247725512,3400784728#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//50VAL Telescopic, Appended Mag, Rapid Hit, Triple Tap
+dimwishlist:item=4083045006&perks=4083045006,1087426260,247725512,3400784728#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//50VAL Telescopic, Extended Mag, Rapid Hit, Triple Tap
+dimwishlist:item=4083045006&perks=4083045006,2420895100,247725512,3400784728#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//50VAL Telescopic, Tactical Mag, Field Prep, Triple Tap
+dimwishlist:item=4083045006&perks=4083045006,106909392,2869569095,3400784728#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//50VAL Telescopic, Appended Mag, Field Prep, Triple Tap
+dimwishlist:item=4083045006&perks=4083045006,1087426260,2869569095,3400784728#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//50VAL Telescopic, Extended Mag, Field Prep, Triple Tap
+dimwishlist:item=4083045006&perks=4083045006,2420895100,2869569095,3400784728#notes:{1060} (Throlli's Forge) Pretty good for PVE
+
+		//Tatara Gaze
+//Snapshot, Kill Clip
+dimwishlist:item=1449922174&perks=957782887,1015611457#notes:{1060} (Throlli's Forge) Really good for PVP
+
+	//Season 4 (of the Outlaw)
+
+		//Twilight Oath
+
+	//Forsaken
+
+		//Dreaded Venture
+		//Elegy-49
+		//Fate Cries Foul
+		//The Long Goodbye
+
+	//Warmind
+	//Red War
+
+
+//Grenade Launchers
+	//Iron Banner
+
+		//Orewing's Maul
+//Spike Grenades, Field Prep, Auto-Loading Holster
+dimwishlist:item=2108920981&perks=3301904089,2869569095,3300816228#notes:{1360} (Throlli's Iron Banner) Really good for PVE
+//Blinding Grenades, Field Prep, Auto-Loading Holster
+dimwishlist:item=2108920981&perks=3032599245,2869569095,3300816228#notes:{1360} (Throlli's Iron Banner) Really good for PVE
+
+		//Swarm of the Raven
+//Spike Grenades, Field Prep
+dimwishlist:item=1972985595&perks=3301904089,2869569095#notes:{1360} (Throlli's Iron Banner) Pretty good for PVE
+//Spike Grenades, Auto-Loading Holster
+dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:{1360} (Throlli's Iron Banner) Pretty good for PVE
+
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//Truthteller
+//Spike Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:{1360} (Throlli's Arrivals) Must have for PVE
+//Blinding Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417#notes:{1360} (Throlli's Arrivals) Must have for PVE
+
+		//Berenger's Memory
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Spike Grenades, Clown Cartridge, Demolitionist
+dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Spike Grenades, Field Prep, Auto-Loading Holster
+dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Spike Grenades, Clown Cartridge, Auto-Loading Holster
+dimwishlist:item=407621213&perks=3301904089,2284787283,3300816228#notes:{1360} (Throlli's Recaster) Really good for PVE
+
+		//Outrageous Fortune
+//Spike Grenades, Field Prep
+dimwishlist:item=4146702548&perks=3301904089,2869569095#notes:{1360} (Throlli's Arrivals) Really good for PVE
+//Spike Grenades, Auto-Loading Holster
+dimwishlist:item=4146702548&perks=3301904089,3300816228#notes:{1360} (Throlli's Arrivals) Really good for PVE
+
+	//Season 10 (of the Worthy
+
+		//Interference VI
+//Spike Grenades, Grave Robber, Swashbuckler
+dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Spike Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=2257180473&perks=3301904089,3300816228,3523296417#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=2257180473&perks=3301904089,2869569095,3523296417#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Spike Grenades, Clown Cartridge, Demolitionist
+dimwishlist:item=2257180473&perks=3301904089,2284787283,3523296417#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Spike Grenades, Auto-Loading Holster, Full Court
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Spike Grenades, Field Prep, Full Court
+dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:{1310} (Throlli's Worthy) Must have for PVE
+//Spike Grenades, Clown Cartridge, Full Court
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:{1310} (Throlli's Worthy) Must have for PVE
+
+	//Season 9 (of Dawn)
+
+		//Martyr's Retribution
+//Auto-Loading Holster, Demolitionist
+dimwishlist:item=3850168899&perks=3300816228,3523296417#notes={1260} (Throlli's Mars Obelisk) Must have for PVE
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Love and Death
+//Spike Grenades, Field Prep, Full Court
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:{1060} (Throlli's Moon) Really good for PVE
+
+	//Season 7 (of Opulence)
+
+		//Wendigo GL3
+//Smart Drift Control, Blinding Grenades, Auto-Loading Holster, Explosive Light
+dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#notes:{1060} (Throlli's Pinnacle Vanguard) Must have
+
+	//Season 6 (of the Drifter)
+
+		//Doomsday
+//Spike Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=736901634&perks=3301904089,3300816228,3523296417#notes:{1060} (Throlli's Reckoning) Really good for PVE
+//Spike Grenades, Auto-Loading Holster, Full Court
+dimwishlist:item=736901634&perks=3301904089,3300816228,2888557110#notes:{1060} (Throlli's Reckoning) Really good for PVE
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=736901634&perks=3301904089,2869569095,3523296417#notes:{1060} (Throlli's Reckoning) Really good for PVE
+//Spike Grenades, Field Prep, Full Court
+dimwishlist:item=736901634&perks=3301904089,2869569095,2888557110#notes:{1060} (Throlli's Reckoning) Really good for PVE
+
+	//Season 5 (of the Forge)
+
+		//The Mountaintop
+//Hard Launch, Spike Grenades, Rangefinder, Micro-Missile
+dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#notes:{1060} (Throlli's Pinnacle Crucible) Really good
+//Volatile Launch, Spike Grenades, Rangefinder, Micro-Missile
+dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3713839994#notes:{1060} (Throlli's Pinnacle Crucible) Really good
+//Hard Launch, Sticky Grenades, Rangefinder, Micro-Missile
+dimwishlist:item=3993415705&perks=981914802,3373736292,2846385770,3713839994#notes:{1060} (Throlli's Pinnacle Crucible) Really good for PVP
+//Volatile Launch, Sticky Grenades, Rangefinder, Micro-Missile
+dimwishlist:item=3993415705&perks=1478423395,3373736292,2846385770,3713839994#notes:{1060} (Throlli's Pinnacle Crucible) Really good for PVP
+
+		//Acantha-D XK8434
+//Spike Grenades, Field Prep
+dimwishlist:item=1757129747&perks=3301904089,2869569095#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//Spike Grenades, Auto-Loading Holster
+dimwishlist:item=1757129747&perks=3301904089,3300816228#notes:{1060} (Throlli's Forge) Pretty good for PVE
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//The Militia's Birthright
+		//Edge Transit
+		//Outrageous Fortune
+		//Play of the Game
+		//Terran Wind
+		//Through Fire and Flood
+
+	//Warmind
+	//Red War
+
+
+//Linear Fusion Rifles
+	//Iron Banner
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+	//Season 10 (of the Worthy)
+	//Season 9 (of Dawn)
+	
+		//Komodo-4FR
+//Polygonal Rifling, Accelerated Coils, No Distractions, Eye of the Storm
+dimwishlist:item=2697058914&perks=1392496348,689005463,2866798147,699525795#notes:{1260} (Throlli's Ritual Crucible) Mediocre
+//Polygonal Rifling, Accelerated Coils, Moving Target, Eye of the Storm
+dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,699525795#notes:{1260} (Throlli's Ritual Crucible) Mediocre
+
+		//Line in the Sand
+//Rapid Hit, Firing Line
+dimwishlist:item=946443267&perks=247725512,1771339417#notes:{1260} (Throlli's Sundial) Must have for PVE
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+	//Season 7 (of Opulence)
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge)
+	//Season 4 (of the Outlaw)
+	//Forsaken
+
+		//Crooked Fang-4FR
+
+	//Warmind
+	//Red War
+
+
+//Machine Guns
+	//Iron Banner
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+	//Season 10 (of the Worthy)
+
+		//Seventh Seraph SAW
+//Field Prep, Firing Line
+dimwishlist:item=2582755344&perks=2869569095,1771339417#notes:{1310} (Throlli's Worthy) Must have
+
+	//Season 9 (of Dawn)
+	//Season 8 (of the Undying)
+
+		//Edgewise
+//Polygonal Rifling, Light Mag, Feeding Frenzy, Rampage
+dimwishlist:item=847329160&perks=1392496348,679225683,2779035018,3425386926#notes:{1060} (Throlli's Pinnacle Vanguard) Really good for PVE
+//Polygonal Rifling, Light Mag, Field Prep, Rampage
+dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3425386926#notes:{1060} (Throlli's Pinnacle Vanguard) Really good for PVE
+//Polygonal Rifling, Light Mag, Feeding Frenzy, Demolitionist
+dimwishlist:item=847329160&perks=1392496348,679225683,2779035018,3523296417#notes:{1060} (Throlli's Pinnacle Vanguard) Really good for PVE
+//Polygonal Rifling, Light Mag, Field Prep, Demolitionist
+dimwishlist:item=847329160&perks=1392496348,679225683,2869569095,3523296417#notes:{1060} (Throlli's Pinnacle Vanguard) Really good for PVE
+
+	//Shadowkeep
+
+		//A Fine Memorial
+//High-Caliber Rounds, Threat Detector, Surrounded
+dimwishlist:item=3325778512&perks=1561002382,4071163871,3708227201#notes:{1060} (Throlli's Moon) Decent for PVE
+
+	//Season 7 (of Opulence)
+
+		//Bane of Sorrow
+//Curated
+dimwishlist:item=1496419775&perks=4090651448,1561002382,1168162263,2848615171#notes:{1060} (Throlli's Menagerie) Really good for PVE
+
+		//Fixed Odds
+//High-Caliber Rounds, Feeding Frenzy, Rampage
+dimwishlist:item=1642384931&perks=1561002382,2779035018,3425386926#notes:{1060} (Throlli's Menagerie) Pretty good for PVE
+
+	//Season 6 (of the Drifter)
+
+		//21% Delirium
+//Polygonal Rifling, Extended Mag, Overflow, Killing Tally
+dimwishlist:item=1600633250&perks=1392496348,2420895100,3643424744,2782457288#notes:{1060} (Throlli's Pinnacle Gambit) Really good for PVE
+
+	//Season 5 (of the Forge)
+
+		//Avalanche
+//SLO-26 Front, High-Caliber Rounds, Slideways, Rampage
+dimwishlist:item=66875353&perks=3151536503,1561002382,2039302152,3425386926#notes:{1060} (Throlli's Dawning) Really good
+
+		//Hammerhead
+//Feeding Frenzy, Rampage
+dimwishlist:item=603242241&perks=2779035018,3425386926#notes:{1060} (Throlli's Forge) Really good
+//Feeding Frenzy, Surrounded
+dimwishlist:item=603242241&perks=2779035018,3708227201#notes:{1060} (Throlli's Forge) Pretty good
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+	//Warmind
+	//Red War
+
+
+//Rocket Launchers
+	//Iron Banner
+
+		//Shining Sphere
+//Impact Casing, Auto-Loading Holster, Demolitionist
+dimwishlist:item=136525518&perks=3796465595,3300816228,3523296417#notes:{1360} (Throlli's Iron Banner) Really good for PVE
+//Impact Casing, Field Prep, Demolitionist
+dimwishlist:item=136525518&perks=3796465595,2869569095,3523296417#notes:{1360} (Throlli's Iron Banner) Really good for PVE
+
+	//Last Wish
+
+		//Apex Predator
+//Impact Casing, Ambitious Assassin, Kill Clip
+dimwishlist:item=2545083870&perks=3796465595,2010801679,1015611457#notes:{1360} (Throlli's Last Wish) Mediocre for PVE
+
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//Bad Omens
+//Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=991314988&perks=3300816228,1275731761#notes:{1360} (Throlli's Menagerie) Pretty good for PVE
+
+		//Hoosegow
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:{1360} (Throlli's Prophecy) Really good for PVE
+//Impact Casing, Auto-Loading Holster, Demolitionist
+dimwishlist:item=3669616453&perks=3796465595,3300816228,3523296417#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+	//Season 10 (of the Worthy)
+
+		//Tomorrow's Answer
+//Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=958384347&perks=3796465595,2869569095,2284787283#notes:{1310} (Throlli's Trials) Really good for PVE
+
+	//Season 9 (of Dawn)
+
+		//Mos Epoch III
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=1529450902&perks=1529450902,3300816228,1275731761#notes:{1260} (Throll's Dawn) Really good for PVE
+
+		//Pyroclastic Flow
+//Ambitious Assassin, Cluster Bomb
+dimwishlist:item=1289324202&perks=2010801679,1275731761#notes:{1260} (Throlli's Dawn) Pretty good for PVE
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Heretic
+//Impact Casing, Demolitionist, Cluster Bomb
+dimwishlist:item=3067821200&perks=3796465595,3523296417,1275731761#notes:{1060} (Throlli's Altars of Sorrow) Really good for PVE
+
+	//Season 7 (of Opulence)
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge)
+
+		//Bellowing Giant
+//Curated
+dimwishlist:item=2186258845&perks=3809316345,3796465595,3977735242,1275731761#notes:{1060} (Throlli's Scourge of the Past) Decent for PVE
+//Impact Casing, Field Prep, Cluster Bomb
+dimwishlist:item=2186258845&perks=3796465595,2869569095,1275731761#notes:{1060} (Throlli's Scourge of the Past) Pretty good for PVE
+
+		//Hoosegow XE5837
+//Impact casing, Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=2817798849&perks=3796465595,3300816228,1275731761#notes:{1060} (Throlli's Forge) Pretty good for PVE
+//Impact Casing, Field Prep, Cluster Bomb
+dimwishlist:item=2817798849&perks=3796465595,2869569095,1275731761#notes:{1060} (Throlli's Forge) Pretty good for PVE
+
+	//Season 4 (of the Outlaw)
+
+		//Sleepless
+
+	//Forsaken
+
+		//Roar of the Bear
+		//Zenobia-D
+
+	//Warmind
+	//Red War
+
+
+//Swords
+	//Iron Banner
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//Negative Space
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+		//Steel Sybil Z-14
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Arrivals) Really good for PVE
+
+		//Temptation's Hook
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3708227201#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Recaster) Really good for PVE
+
+		//Falling Guillotine
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Recaster) Must have for PVE
+
+	//Season 10 (of the Worthy)
+
+		//Honor's Edge
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Shattering Blade
+dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,818211479#notes:{1310} (Throlli's Worthy) Decent for PVE
+
+	//Season 9 (of Dawn)
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Night Terror
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3913600130#notes:{1060} (Throlli's Moon) Pretty good for PVE
+
+	//Season 7 (of Opulence)
+
+		//Throne-Cleaver
+//Jagged Edge, Shattering Blade, Whirlwind Blade
+dimwishlist:item=569799273&perks=3666208348,818211479,3913600130#notes:{1060} (Throlli's Heroic Menagerie) Must have for PVE (Titan)
+
+		//Death's Razor
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=569799274&perks=1749209109,3913600130#notes:{1060} (Throlli's Heroic Menagerie) Really good for PVE (Warlock)
+
+	//Season 6 (of the Drifter)
+
+		//Just in Case
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=715338174&perks=3666208348,269888150,1749209109,3913600130#notes:{1060} (Throlli's Reckoning) Pretty good for PVE
+
+	//Season 5 (of the Forge)
+
+		//Stryker's Sure-Hand
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=3704653637&perks=3666208348,269888150,1749209109,3708227201#notes:{1060} (Throlli's Forge) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3704653637&perks=3666208348,269888150,1749209109,3913600130#notes:{1060} (Throlli's Forge) Really good for PVE
+
+	//Season 4 (of the Outlaw)
+
+		//Abide the Return
+
+	//Forsaken
+	//Warmind
+	//Red War
+
+
+//Exotic Weapons
+	//Season 11 (of Arrivals)
+			//Witherhoard
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467#notes:(Throlli's Arrivals) Must have for PVE Catalyst: Must have
+			//Ruinous Effigy
+dimwishlist:item=1363238943&perks=3250034553,3868766766,798520364,3465198467#notes:(Throlli's Recaster) Really good for PVE Catalyst: Pretty good
+			//Traveler's Chosen
+dimwishlist:item=1853180924&perks=445755707,1968497646,24925370,1067908860#notes:(Throlli's Exodus) Must have for PVE
+
+	//Season 10 (of the Worthy)
+			//Tommy's Matchbook
+dimwishlist:item=776191470&perks=961505134,3250034553,2420895100,3772485195,990298390#notes:(Throlli's Worthy) Really good Catalyst: Must have
+			//The Fourth Horseman
+dimwishlist:item=1665952087&perks=2223914385,839105230,791862061,407549716,4259401308#notes:(Throlli's Vanguard) Must have Catalyst: Must have
+			//Heir Apparent
+dimwishlist:item=2084878005&perks=4090651448,1087426260,1185273366,3438534621#notes:(Throlli's Guardian Games) Must have
+
+	//Season 9 (of Dawn)
+			//Symmetry
+dimwishlist:item=4017959782&perks=4185339856,3250034553,3868766766,127335543,3465198467#notes:(Throlli's Dawn) Decent Catalyst: Mediocre
+			//Devil's Ruin
+dimwishlist:item=3824106094&perks=334466122,1467527085,2969185026,1059301209,3438534621#notes:(Throlli's Dawn) Decent
+			//Bastion
+dimwishlist:item=2415517654&perks=1186480754,3250034553,1687452232,4190643473,3465198467#notes:(Throlli's Dawn) Really good for PvP
+
+	//Season 8 (of the Undying)
+			//Monte Carlo
+dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467#notes:(Throlli's Undying) Must have
+			//Eriana's Vow
+dimwishlist:item=3524313097&perks=1467527085,3142289711,1687327062,862848869#notes:(Throlli's Undying) Must have Catalyst: Must have
+			//Leviathan's Breath
+dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028#notes:(Throlli's Undying) Decent
+
+
+	//Shadowkeep
+			//Deathbringer
+dimwishlist:item=2232171099&perks=1478423395,2985827016,3333994164,3465198467#notes:(Throlli's Moon) Must have
+			//Divinity
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467#notes:(Throlli's Garden of Salvation) Must have
+			//Xenophage
+dimwishlist:item=1395261499&perks=202670084,1561002382,2846385770,3465198467#notes:(Throlli's Pit of Heresy) Must have
+
+	//Season 7 (of Opulence)
+			//Tarrabah
+dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503,990298390#notes:(Throlli's Crown of Sorrow) Pretty good
+			//Truth
+dimwishlist:item=1201830623&perks=2491817779,1478423395,2822142346,2911329003,3465198467#notes:(Throlli's Menagerie) Must have for Gambit and PvP
+			//Lumina
+dimwishlist:item=3512014804&perks=2144092201,3661387068,3142289711,743139589,862848869#notes:(Throlli's EDZ) Must have Catalyst: Must have
+				//Rose
+dimwishlist:item=2429822976&perks=2189829540,2467967826,2635532173,1528281896,2078097559#notes:{1060} (Throlli's EDZ) Really good for PvP
+			//Bad Juju
+dimwishlist:item=2816212794&perks=4004944400,3250034553,3177308360,1866048759,1067908860#notes:(Throlli's Triumph Hall) Decent Catalyst: Must have
+
+	//Season 6 (of the Drifter)
+			//Thorn
+dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714#notes:(Throlli's EDZ) Must have for PvP
+			//Arbalest
+dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467#notes:(Throlli's Revelry) Must have
+			//Outbreak Perfected
+dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954#notes:(Throlli's Tower) Pretty good Catalyst: Must have
+
+	//Season 5 (of the Forge)
+			//Anarchy
+dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467#notes:(Throlli's Scourge of the Past) Must have
+			//Le Monarque
+dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887#notes:(Throlli's Black Armory) Mediocre
+			//Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,2866798147,3465198467#notes:(Throlli's Black Armory) Must have Catalyst: Must have
+			//Jötunn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869#notes:(Throlli's Black Armory) Must have
+			//The Last Word
+dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714#notes:(Throlli's Drifter) Pretty good
+
+	//Forsaken
+			//Borealis (Red War on PS4)
+dimwishlist:item=3141979347&perks=3081173348,4090651448,2420895100,501717180,990298390#notes:(Throlli's PS4 Exclusives) Must have for PvE Catalyst: Really good
+			//Ace of Spades
+dimwishlist:item=347366834&perks=647617635,4090651448,1561002382,1561789734,3326204863#notes:(Throlli's Gunsmith) Must have Catalyst: Mediocre
+			//The Chaperone
+dimwishlist:item=3413860062&perks=1394384862,3250034553,3142289711,1658733671,990298390#notes:(Throlli's Shipwright) Must have
+			//Malfeasance
+dimwishlist:item=204878059&perks=1791592647,4090651448,2420895100,2130042297,1012699414#notes:(Throlli's Drifter) Decent for PvP
+			//Cerberus+1
+dimwishlist:item=1541131350&perks=3208839961,1332244541,1840239774,202670084,1289604610#notes:(Throlli's Forsaken) Pretty good Catalyst: Must have
+			//Trinity Ghoul
+dimwishlist:item=814876685&perks=1573888036,3371775011,16392701,200829441#notes:(Throlli's Forsaken) Must have Catalyst: MUST HAVE
+			//The Queenbreaker
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+			//Two-Tailed Fox
+dimwishlist:item=2694576561&perks=3649430342,1844523823,2822142346,777637181,3465198467#notes:(Throlli's Forsaken) Pretty good
+			//Black Talon
+dimwishlist:item=3766045777&perks=4072668471,938542991,2349202967,2590710093#notes:(Throlli's Forsaken) Must have Catalyst: Pretty good
+			//Lord of Wolves
+dimwishlist:item=3413860063&perks=481338655,3661387068,2420895100,299272945,3465198467#notes:(Throlli's Forsaken) Pretty good Catalyst: Must have
+			//One Thousand Voices
+dimwishlist:item=2069224589&perks=1657056865,1467527085,1687452232,3504197951,4259401308#notes:(Throlli's Last Wish) Must have
+			//Wish Ender
+dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#notes:(Throlli's Shattered Throne) Mediocre
+			//Thunderlord
+dimwishlist:item=3325463374&perks=4148158229,1392496348,1968497646,1419069769,2779035018#notes:(Throlli's Cosmodrome) Decent
+
+	//Warmind
+			//Worldline Zero
+dimwishlist:item=1864563948&perks=3642491337,938542991,2363751990,354401740,2590710093#notes:(Throlli's Mars) Pretty good Catalyst: Must have
+			//Sleeper Simulant
+dimwishlist:item=4036115577&perks=3884127242,1392496348,3230963543,588594999,3465198467#notes:(Throlli's Mars) Mediocre Catalyst: Must have
+			//SUROS Regime
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,1378047685,990298390#notes:(Throlli's Warmind) Must have Catalyst: Must have
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,4012962526,990298390#notes:(Throlli's Warmind) Must have Catalyst: Must have
+			//The Huckleberry
+dimwishlist:item=2286143274&perks=630329983,1840239774,1885400500,3551326236,1067908860#notes:(Throlli's Warmind) Must have for PvE Catalyst: Must have
+			//Polaris Lance
+dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308#notes:(Throlli's Mars) Really good in PvP Catalyst: Pretty good
+				//BrayTech RWP Mk.II
+dimwishlist:item=717150101&perks=1019291327,1482024992,106909392,2387244414,3400784728#notes:(Throlli's Mars) Really good in PvP
+			//Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308#notes:(Throlli's Io) Must have Catalyst: Must have
+
+	//Curse of Osiris
+			//Crimson
+dimwishlist:item=3437746471&perks=1030990989,1482024992,3142289711,2383960413,1012699414#notes:(Throlli's Curse of Osiris) Must have for PvP Catalyst: Must have
+			//The Jade Rabbit
+dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414#notes:(Throlli's Curse of Osiris) Mediocre Catalyst: Decent
+			//Telesto
+dimwishlist:item=2208405142&perks=1927916065,2969185026,3970637031,862848869#notes:(Throlli's Curse of Osiris) Pretty good Catalyst: Pretty good
+			//Prometheus Lens
+dimwishlist:item=19024058&perks=571267712,3661387068,2969185026,3470828242,3465198467#notes:(Throlli's Curse of Osiris) Decent Catalyst: Mediocre
+			//The Colony
+dimwishlist:item=3899270607&perks=3913463509,1441682018,2822142346,2019952880,3465198467#notes:(Throlli's Curse of Osiris) Decent for PvP Catalyst: Mediocre
+
+	//Red War
+			//Graviton Lance
+dimwishlist:item=3628991658&perks=3905543891,3250034553,3142289711,320534106,4259401308#notes:(Throlli's Red War) Decent Catalyst: Must have
+			//Riskrunner
+dimwishlist:item=3089417789&perks=2516532331,839105230,2420895100,1530804125,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Sunshot
+dimwishlist:item=2907129557&perks=4045839491,3661387068,3142289711,4115637021,3917450714#notes:(Throlli's Red War) Not great Catalyst: Decent
+			//Coldheart
+dimwishlist:item=1345867571&perks=1036269296,1467527085,2680121939,2482418662,990298390#notes:(Throlli's Red War) Decent Catalyst: Decent
+			//Mida Multi Tool
+dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390#notes:(Throlli's EDZ) Really good Catalyst: Mediocre
+				//Mida Mini Tool
+dimwishlist:item=3089417788&perks=1458010786,1840239774,1431678320,2179934441#notes:(Throlli's EDZ) Outclassed by the CALUS Mini-Tool
+			//Rat King
+dimwishlist:item=2362471601&perks=2121086290,1482024992,106909392,861489047,3326204863#notes:(Throlli's Titan) Decent Catalyst: Must have
+			//Sturm
+dimwishlist:item=2907129556&perks=507151084,1467527085,2420895100,2238035098,3438534621#notes:(Throlli's Nessus) Mediocre Catalyst: Must have
+				//Drang
+dimwishlist:item=2362471600&perks=1294026524,1482024992,3425386926,2590365289#notes:(Throlli's Nessus) Outclassed by Drang (Baroque)
+			//Sweet Business
+dimwishlist:item=1345867570&perks=3755070117,1392496348,1968497646,1853177948,3465198467#notes:(Throll's Red War) Pretty good Catalyst: Decent
+			//Vigilance Wing
+dimwishlist:item=3628991659&perks=2307143135,4090651448,1431678320,4146729347,3465198467#notes:(Throlli's Red War) Must have for PvP Catalyst: Decent
+			//Hard Light
+dimwishlist:item=4124984448&perks=3610814281,1392496348,1431678320,2620589274,3465198467#notes:(Throlli's Red War) Must have Catalyst: Decent
+			//Merciless
+dimwishlist:item=4190156464&perks=656200654,3661387068,2420895100,2333607307,4259401308#notes:(Throlli's Red War) Decent Catalyst: Pretty good
+			//Fighting Lion
+dimwishlist:item=3549153978&perks=425960662,3809316345,3492396210,2003108620,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Skyburner's Oath
+dimwishlist:item=4255268456&perks=2741975068,1467527085,2420895100,176919422,1067908860#notes:(Throlli's Red War) Decent Catalyst: Decent
+			//The Prospector
+dimwishlist:item=3549153979&perks=2977709078,1478423395,1771897777,4267945040,990298390#notes:(Throlli's Red War) Must have for PvE Catalyst: Must have
+			//The Wardcliff Coil
+dimwishlist:item=1508896098&perks=2473404935,1478423395,2420895100,1178686995,3465198467#notes:(Throlli's Red War) Must have Catalyst: Must have
+			//Tractor Cannon
+dimwishlist:item=3580904581&perks=1210807262,1467527085,3868766766,25692695,3465198467#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//D.A.R.C.I.
+dimwishlist:item=3141979346&perks=938999636,1467527085,2420895100,939227542,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Legend of Acrius
+dimwishlist:item=3580904580&perks=372430833,202670084,3142289711,1650852150,4259401308#notes:(Throlli's Leviathan) Must have Catalyst: Must have
+
+	//Season 4 (of the Outlaw)
+	//Forsaken
+	//Warmind
+	//Red War
+
+
+//Rocket Launchers
+	//Iron Banner
+
+		//Shining Sphere
+//Impact Casing, Auto-Loading Holster, Demolitionist
+dimwishlist:item=136525518&perks=3796465595,3300816228,3523296417#notes:{1360} (Throlli's Iron Banner) Really good for PVE
+//Impact Casing, Field Prep, Demolitionist
+dimwishlist:item=136525518&perks=3796465595,2869569095,3523296417#notes:{1360} (Throlli's Iron Banner) Really good for PVE
+
+	//Last Wish
+
+		//Apex Predator
+//Impact Casing, Ambitious Assassin, Kill Clip
+dimwishlist:item=2545083870&perks=3796465595,2010801679,1015611457#notes:{1360} (Throlli's Last Wish) Mediocre for PVE
+
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//Bad Omens
+//Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=991314988&perks=3300816228,1275731761#notes:{1360} (Throlli's Menagerie) Pretty good for PVE
+
+		//Hoosegow
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:{1360} (Throlli's Prophecy) Really good for PVE
+//Impact Casing, Auto-Loading Holster, Demolitionist
+dimwishlist:item=3669616453&perks=3796465595,3300816228,3523296417#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+	//Season 10 (of the Worthy)
+
+		//Tomorrow's Answer
+//Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=958384347&perks=3796465595,2869569095,2284787283#notes:{1310} (Throlli's Trials) Really good for PVE
+
+	//Season 9 (of Dawn)
+
+		//Mos Epoch III
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
+dimwishlist:item=1529450902&perks=1529450902,3300816228,1275731761#notes:{1260} (Throll's Dawn) Really good for PVE
+
+		//Pyroclastic Flow
+//Ambitious Assassin, Cluster Bomb
+dimwishlist:item=1289324202&perks=2010801679,1275731761#notes:{1260} (Throlli's Dawn) Pretty good for PVE
+
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Heretic
+//Impact Casing, Demolitionist, Cluster Bomb
+dimwishlist:item=3067821200&perks=3796465595,3523296417,1275731761#notes:{1060} (Throlli's Altars of Sorrow) Really good for PVE
+
+	//Season 7 (of Opulence)
+	//Season 6 (of the Drifter)
+	//Season 5 (of the Forge)
+	//Season 4 (of the Outlaw)
+	//Forsaken
+	//Warmind
+	//Red War
+
+
+//Swords
+	//Iron Banner
+	//Last Wish
+	//Garden of Salvation
+	//Season 11 (of Arrivals)
+
+		//Negative Space
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Prophecy) Really good for PVE
+
+		//Steel Sybil Z-14
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Arrivals) Really good for PVE
+
+		//Temptation's Hook
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3708227201#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Recaster) Really good for PVE
+
+		//Falling Guillotine
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201#notes:{1360} (Throlli's Recaster) Really good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:{1360} (Throlli's Recaster) Must have for PVE
+
+	//Season 10 (of the Worthy)
+
+		//Honor's Edge
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Shattering Blade
+dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,818211479#notes:{1310} (Throlli's Worthy) Decent for PVE
+
+	//Season 9 (of Dawn)
+	//Season 8 (of the Undying)
+	//Shadowkeep
+
+		//Night Terror
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3913600130#notes:{1060} (Throlli's Moon) Pretty good for PVE
+
+	//Season 7 (of Opulence)
+
+		//Throne-Cleaver
+//Jagged Edge, Shattering Blade, Whirlwind Blade
+dimwishlist:item=569799273&perks=3666208348,818211479,3913600130#notes:{1060} (Throlli's Heroic Menagerie) Must have for PVE (Titan)
+
+		//Death's Razor
+//Relentless Strikes, Whirlwind Blade
+dimwishlist:item=569799274&perks=1749209109,3913600130#notes:{1060} (Throlli's Heroic Menagerie) Really good for PVE (Warlock)
+
+	//Season 6 (of the Drifter)
+
+		//Just in Case
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=715338174&perks=3666208348,269888150,1749209109,3913600130#notes:{1060} (Throlli's Reckoning) Pretty good for PVE
+
+	//Season 5 (of the Forge)
+	//Season 4 (of the Outlaw)
+	//Forsaken
+	//Warmind
+	//Red War
+
+
+//Exotic Weapons
+	//Season 11 (of Arrivals)
+			//Witherhoard
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467#notes:(Throlli's Arrivals) Must have for PVE Catalyst: Must have
+			//Ruinous Effigy
+dimwishlist:item=1363238943&perks=3250034553,3868766766,798520364,3465198467#notes:(Throlli's Recaster) Really good for PVE Catalyst: Pretty good
+			//Traveler's Chosen
+dimwishlist:item=1853180924&perks=445755707,1968497646,24925370,1067908860#notes:(Throlli's Exodus) Must have for PVE
+
+	//Season 10 (of the Worthy)
+			//Tommy's Matchbook
+dimwishlist:item=776191470&perks=961505134,3250034553,2420895100,3772485195,990298390#notes:(Throlli's Worthy) Really good Catalyst: Must have
+			//The Fourth Horseman
+dimwishlist:item=1665952087&perks=2223914385,839105230,791862061,407549716,4259401308#notes:(Throlli's Vanguard) Must have Catalyst: Must have
+			//Heir Apparent
+dimwishlist:item=2084878005&perks=4090651448,1087426260,1185273366,3438534621#notes:(Throlli's Guardian Games) Must have
+
+	//Season 9 (of Dawn)
+			//Symmetry
+dimwishlist:item=4017959782&perks=4185339856,3250034553,3868766766,127335543,3465198467#notes:(Throlli's Dawn) Decent Catalyst: Mediocre
+			//Devil's Ruin
+dimwishlist:item=3824106094&perks=334466122,1467527085,2969185026,1059301209,3438534621#notes:(Throlli's Dawn) Decent
+			//Bastion
+dimwishlist:item=2415517654&perks=1186480754,3250034553,1687452232,4190643473,3465198467#notes:(Throlli's Dawn) Really good for PvP
+
+	//Season 8 (of the Undying)
+			//Monte Carlo
+dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467#notes:(Throlli's Undying) Must have
+			//Eriana's Vow
+dimwishlist:item=3524313097&perks=1467527085,3142289711,1687327062,862848869#notes:(Throlli's Undying) Must have Catalyst: Must have
+			//Leviathan's Breath
+dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028#notes:(Throlli's Undying) Decent
+
+
+	//Shadowkeep
+			//Deathbringer
+dimwishlist:item=2232171099&perks=1478423395,2985827016,3333994164,3465198467#notes:(Throlli's Moon) Must have
+			//Divinity
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467#notes:(Throlli's Garden of Salvation) Must have
+			//Xenophage
+dimwishlist:item=1395261499&perks=202670084,1561002382,2846385770,3465198467#notes:(Throlli's Pit of Heresy) Must have
+
+	//Season 7 (of Opulence)
+			//Tarrabah
+dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503,990298390#notes:(Throlli's Crown of Sorrow) Pretty good
+			//Truth
+dimwishlist:item=1201830623&perks=2491817779,1478423395,2822142346,2911329003,3465198467#notes:(Throlli's Menagerie) Must have for Gambit and PvP
+			//Lumina
+dimwishlist:item=3512014804&perks=2144092201,3661387068,3142289711,743139589,862848869#notes:(Throlli's EDZ) Must have Catalyst: Must have
+				//Rose
+dimwishlist:item=2429822976&perks=2189829540,2467967826,2635532173,1528281896,2078097559#notes:{1060} (Throlli's EDZ) Really good for PvP
+			//Bad Juju
+dimwishlist:item=2816212794&perks=4004944400,3250034553,3177308360,1866048759,1067908860#notes:(Throlli's Triumph Hall) Decent Catalyst: Must have
+
+	//Season 6 (of the Drifter)
+			//Thorn
+dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714#notes:(Throlli's EDZ) Must have for PvP
+			//Arbalest
+dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467#notes:(Throlli's Revelry) Must have
+			//Outbreak Perfected
+dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954#notes:(Throlli's Tower) Pretty good Catalyst: Must have
+
+	//Season 5 (of the Forge)
+			//Anarchy
+dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467#notes:(Throlli's Scourge of the Past) Must have
+			//Le Monarque
+dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887#notes:(Throlli's Black Armory) Mediocre
+			//Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,2866798147,3465198467#notes:(Throlli's Black Armory) Must have Catalyst: Must have
+			//Jötunn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869#notes:(Throlli's Black Armory) Must have
+			//The Last Word
+dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714#notes:(Throlli's Drifter) Pretty good
+
+	//Forsaken
+			//Borealis (Red War on PS4)
+dimwishlist:item=3141979347&perks=3081173348,4090651448,2420895100,501717180,990298390#notes:(Throlli's PS4 Exclusives) Must have for PvE Catalyst: Really good
+			//Ace of Spades
+dimwishlist:item=347366834&perks=647617635,4090651448,1561002382,1561789734,3326204863#notes:(Throlli's Gunsmith) Must have Catalyst: Mediocre
+			//The Chaperone
+dimwishlist:item=3413860062&perks=1394384862,3250034553,3142289711,1658733671,990298390#notes:(Throlli's Shipwright) Must have
+			//Malfeasance
+dimwishlist:item=204878059&perks=1791592647,4090651448,2420895100,2130042297,1012699414#notes:(Throlli's Drifter) Decent for PvP
+			//Cerberus+1
+dimwishlist:item=1541131350&perks=3208839961,1332244541,1840239774,202670084,1289604610#notes:(Throlli's Forsaken) Pretty good Catalyst: Must have
+			//Trinity Ghoul
+dimwishlist:item=814876685&perks=1573888036,3371775011,16392701,200829441#notes:(Throlli's Forsaken) Must have Catalyst: MUST HAVE
+			//The Queenbreaker
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+			//Two-Tailed Fox
+dimwishlist:item=2694576561&perks=3649430342,1844523823,2822142346,777637181,3465198467#notes:(Throlli's Forsaken) Pretty good
+			//Black Talon
+dimwishlist:item=3766045777&perks=4072668471,938542991,2349202967,2590710093#notes:(Throlli's Forsaken) Must have Catalyst: Pretty good
+			//Lord of Wolves
+dimwishlist:item=3413860063&perks=481338655,3661387068,2420895100,299272945,3465198467#notes:(Throlli's Forsaken) Pretty good Catalyst: Must have
+			//One Thousand Voices
+dimwishlist:item=2069224589&perks=1657056865,1467527085,1687452232,3504197951,4259401308#notes:(Throlli's Last Wish) Must have
+			//Wish Ender
+dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#notes:(Throlli's Shattered Throne) Mediocre
+			//Thunderlord
+dimwishlist:item=3325463374&perks=4148158229,1392496348,1968497646,1419069769,2779035018#notes:(Throlli's Cosmodrome) Decent
+
+	//Warmind
+			//Worldline Zero
+dimwishlist:item=1864563948&perks=3642491337,938542991,2363751990,354401740,2590710093#notes:(Throlli's Mars) Pretty good Catalyst: Must have
+			//Sleeper Simulant
+dimwishlist:item=4036115577&perks=3884127242,1392496348,3230963543,588594999,3465198467#notes:(Throlli's Mars) Mediocre Catalyst: Must have
+			//SUROS Regime
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,1378047685,990298390#notes:(Throlli's Warmind) Must have Catalyst: Must have
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,4012962526,990298390#notes:(Throlli's Warmind) Must have Catalyst: Must have
+			//The Huckleberry
+dimwishlist:item=2286143274&perks=630329983,1840239774,1885400500,3551326236,1067908860#notes:(Throlli's Warmind) Must have for PvE Catalyst: Must have
+			//Polaris Lance
+dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308#notes:(Throlli's Mars) Really good in PvP Catalyst: Pretty good
+				//BrayTech RWP Mk.II
+dimwishlist:item=717150101&perks=1019291327,1482024992,106909392,2387244414,3400784728#notes:(Throlli's Mars) Really good in PvP
+			//Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308#notes:(Throlli's Io) Must have Catalyst: Must have
+
+	//Curse of Osiris
+			//Crimson
+dimwishlist:item=3437746471&perks=1030990989,1482024992,3142289711,2383960413,1012699414#notes:(Throlli's Curse of Osiris) Must have for PvP Catalyst: Must have
+			//The Jade Rabbit
+dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414#notes:(Throlli's Curse of Osiris) Mediocre Catalyst: Decent
+			//Telesto
+dimwishlist:item=2208405142&perks=1927916065,2969185026,3970637031,862848869#notes:(Throlli's Curse of Osiris) Pretty good Catalyst: Pretty good
+			//Prometheus Lens
+dimwishlist:item=19024058&perks=571267712,3661387068,2969185026,3470828242,3465198467#notes:(Throlli's Curse of Osiris) Decent Catalyst: Mediocre
+			//The Colony
+dimwishlist:item=3899270607&perks=3913463509,1441682018,2822142346,2019952880,3465198467#notes:(Throlli's Curse of Osiris) Decent for PvP Catalyst: Mediocre
+
+	//Red War
+			//Graviton Lance
+dimwishlist:item=3628991658&perks=3905543891,3250034553,3142289711,320534106,4259401308#notes:(Throlli's Red War) Decent Catalyst: Must have
+			//Riskrunner
+dimwishlist:item=3089417789&perks=2516532331,839105230,2420895100,1530804125,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Sunshot
+dimwishlist:item=2907129557&perks=4045839491,3661387068,3142289711,4115637021,3917450714#notes:(Throlli's Red War) Not great Catalyst: Decent
+			//Coldheart
+dimwishlist:item=1345867571&perks=1036269296,1467527085,2680121939,2482418662,990298390#notes:(Throlli's Red War) Decent Catalyst: Decent
+			//Mida Multi Tool
+dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390#notes:(Throlli's EDZ) Really good Catalyst: Mediocre
+				//Mida Mini Tool
+dimwishlist:item=3089417788&perks=1458010786,1840239774,1431678320,2179934441#notes:(Throlli's EDZ) Outclassed by the CALUS Mini-Tool
+			//Rat King
+dimwishlist:item=2362471601&perks=2121086290,1482024992,106909392,861489047,3326204863#notes:(Throlli's Titan) Decent Catalyst: Must have
+			//Sturm
+dimwishlist:item=2907129556&perks=507151084,1467527085,2420895100,2238035098,3438534621#notes:(Throlli's Nessus) Mediocre Catalyst: Must have
+				//Drang
+dimwishlist:item=2362471600&perks=1294026524,1482024992,3425386926,2590365289#notes:(Throlli's Nessus) Outclassed by Drang (Baroque)
+			//Sweet Business
+dimwishlist:item=1345867570&perks=3755070117,1392496348,1968497646,1853177948,3465198467#notes:(Throll's Red War) Pretty good Catalyst: Decent
+			//Vigilance Wing
+dimwishlist:item=3628991659&perks=2307143135,4090651448,1431678320,4146729347,3465198467#notes:(Throlli's Red War) Must have for PvP Catalyst: Decent
+			//Hard Light
+dimwishlist:item=4124984448&perks=3610814281,1392496348,1431678320,2620589274,3465198467#notes:(Throlli's Red War) Must have Catalyst: Decent
+			//Merciless
+dimwishlist:item=4190156464&perks=656200654,3661387068,2420895100,2333607307,4259401308#notes:(Throlli's Red War) Decent Catalyst: Pretty good
+			//Fighting Lion
+dimwishlist:item=3549153978&perks=425960662,3809316345,3492396210,2003108620,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Skyburner's Oath
+dimwishlist:item=4255268456&perks=2741975068,1467527085,2420895100,176919422,1067908860#notes:(Throlli's Red War) Decent Catalyst: Decent
+			//The Prospector
+dimwishlist:item=3549153979&perks=2977709078,1478423395,1771897777,4267945040,990298390#notes:(Throlli's Red War) Must have for PvE Catalyst: Must have
+			//The Wardcliff Coil
+dimwishlist:item=1508896098&perks=2473404935,1478423395,2420895100,1178686995,3465198467#notes:(Throlli's Red War) Must have Catalyst: Must have
+			//Tractor Cannon
+dimwishlist:item=3580904581&perks=1210807262,1467527085,3868766766,25692695,3465198467#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//D.A.R.C.I.
+dimwishlist:item=3141979346&perks=938999636,1467527085,2420895100,939227542,1067908860#notes:(Throlli's Red War) Must have Catalyst: Really good
+			//Legend of Acrius
+dimwishlist:item=3580904580&perks=372430833,202670084,3142289711,1650852150,4259401308#notes:(Throlli's Leviathan) Must have Catalyst: Must have
