@@ -194,6 +194,32 @@ dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467#no
 
 
 /*
+Prophecy
+This section is mostly done
+*/
+
+//IKELOS_HC_V1.0.2
+dimwishlist:item=1200824700&perks=3400784728,1546637391#notes:(Throlli’s Prophecy) Really good for PVE
+
+//IKELOS_SG_v1.0.2
+dimwishlist:item=1096206669&perks=2779035018,2360754333#notes:(Throlli’s Prophecy) Pretty good for PVE
+dimwishlist:item=1096206669&perks=2779035018,1546637391#notes:(Throlli’s Prophecy) Pretty good for PVE
+dimwishlist:item=1096206669&perks=4071163871,3708227201#notes:(Throlli’s Prophecy) Pretty good for PVE
+
+//Widows Bite
+
+//Death Adder
+dimwishlist:item=2742490609&perks=2779035018,2848615171#notes:(Throlli’s Prophecy) Must have for PVE
+dimwishlist:item=2742490609&perks=1820235745,2848615171#notes:(Throlli’s Prophecy) Must have for PVE
+
+//Hoosegow
+dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:(Throlli’s Prophecy) Pretty good for PVE
+dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Prophecy) Pretty good for PVE
+
+//Negative Space
+
+
+/*
 Nightfall and Grandmaster Weapons
 This section is mostly finished
 */
@@ -467,6 +493,56 @@ dimwishlist:item=3460576091&perks=4090651448,4090651448,3937312904,1067908860#no
 
 //Hawkmoon
 dimwishlist:item=3856705927&perks=699525795#notes:(Throlli’s Harbinger) Really good {Catalyst: Really good}
+
+
+/*
+Contact and Season of Arrivals
+*/
+
+//False Promises
+
+//Whispering Slab
+dimwishlist:item=211938782&perks=201365942,1546637391#notes:(Throlli’s Contact) Pretty good for PVE
+
+//Cold Denial
+dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:(Throlli’s Arrivals) Pretty good for PVE
+
+//Hollow Words
+
+//IKELOS_SR_V1.0.2
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:(Throlli’s Contact) Must have for PVE
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989#notes:(Throlli’s Contact) Must have for PVE
+dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989#notes:(Throlli’s Contact) Must have for PVE
+
+//IKELOS_SMG_V1.0.2
+dimwishlist:item=2222560548&perks=4071163871,3708227201#notes:(Throlli’s Contact) Must have for PVE
+dimwishlist:item=2222560548&perks=1820235745,3708227201#notes:(Throlli’s Contact) Must have for PVE
+dimwishlist:item=2222560548&perks=1820235745,1546637391#notes:(Throlli’s Contact) Must have for PVE
+dimwishlist:item=2222560548&perks=1359896290,1546637391#notes:(Throlli’s Contact) Really good for PVE (+ Anti-Barrier Submachine Gun)
+
+//Berenger’s Memory
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:(Throlli’s Contact) Pretty good for PVE
+dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228#notes:(Throlli’s Contact) Pretty good for PVE
+dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417#notes:(Throlli’s Contact) Pretty good for PVE
+dimwishlist:item=407621213&perks=3301904089,2284787283,3300816228#notes:(Throlli’s Contact) Pretty good for PVE
+
+//Falling Guillotine
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli’s Arrivals) Must have for PVE
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli’s Arrivals) Situationally good for PVE
+
+//Temptation’s Hook
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391#notes:(Throlli’s Contact) Pretty good for PVE
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli’s Contact) Pretty good for PVE
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli’s Contact) Situationally good for PVE
+
+//Witherhoard
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467#notes:(Throlli’s Arrivals) Must have for PVE {Catalyst: Must have}
+
+//Traveler’s Chosen
+dimwishlist:item=1853180924&perks=445755707,1968497646,24925370,1067908860#notes:(Throlli’s Exodus Evacuation) Really good for PVE {Catalyst: Must have}
+
+//Ruinous Effigy
+dimwishlist:item=1363238943&perks=3250034553,3868766766,798520364,3465198467#notes:(Throlli’s Interference) Pretty good for PVE {Catalyst: Must have}
 
 
 /*
