@@ -1114,6 +1114,7 @@ dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417#notes:(Throll
 dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472#notes:(Throlli’s Gambit) Pretty good for PVE
 
 //Night Watch
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:(Throlli’s Gambit) Must have for PVE (+ Disruption Scout Rifle)
 
 //Gnawing Hunger
 dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926#notes:(Throlli’s Reckoning) Must have for PVE
