@@ -84,7 +84,7 @@ dimwishlist:item=3796510434&perks=3523296417,4049631843#notes:(Throlli's Vault o
 dimwishlist:item=3796510434&perks=3523296417,3824105627#notes:(Throlli's Vault of Glass) Must have for PVE
  
 //Vex Mythoclast
-dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390#notes:(Throlli's Vault of Glass) Mediocre {Catalyst: Pretty Good} (Neither tested as I haven't gotten lucky)
+dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390#notes:(Throlli's Vault of Glass) Mediocre {Catalyst: Must have} (Neither tested as I haven't gotten lucky)
 
 
 /*
