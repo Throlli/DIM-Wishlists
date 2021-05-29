@@ -2,7 +2,7 @@ title:{WIP} Throlli's PVE Wishlist
 description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
 
 /*
-Contains non Sunset Raid, Nightfall, Grandmaster, Override, Season of the Splicer Season Pass and Trials Weapons
+Contains non Sunset Legendary Weapons as well as Exotic Weapons
 */
 
 /*
