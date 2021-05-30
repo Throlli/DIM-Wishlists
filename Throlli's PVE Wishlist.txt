@@ -398,28 +398,35 @@ This section is mostly done
 dimwishlist:item=1119734784&perks=2779035018,3425386926#notes:(Throlli’s Override) Pretty good for PVE
 dimwishlist:item=1119734784&perks=2779035018,3592538738#notes:(Throlli’s Override) Pretty good for PVE
 dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=1119734784&perks=1820235745,3592538738#notes:(Throlli’s Override) Must have for PVE
+dimwishlist:item=1119734784&perks=1820235745,3592538738#notes:(Throlli’s Override) Really good for PVE
 
 //Ignition Code
 dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:(Throlli’s Override) Must have for PVE
 dimwishlist:item=304659313&perks=3301904089,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3301904089,2010801679,1546637391#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3301904089,2010801679,4104185692#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3301904089,3436462433,1546637391#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3301904089,3436462433,4104185692#notes:(Throlli’s Override) Must have for PVE
+dimwishlist:item=304659313&perks=3301904089,2010801679,1546637391#notes:(Throlli’s Override) Really good for PVE
+dimwishlist:item=304659313&perks=3301904089,2010801679,4104185692#notes:(Throlli’s Override) Really good for PVE
+dimwishlist:item=304659313&perks=3301904089,3436462433,1546637391#notes:(Throlli’s Override) Pretty good for PVE
+dimwishlist:item=304659313&perks=3301904089,3436462433,4104185692#notes:(Throlli’s Override) Pretty good for PVE
 dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:(Throlli’s Override) Must have for PVE
 dimwishlist:item=304659313&perks=3032599245,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
 dimwishlist:item=304659313&perks=3032599245,2010801679,1546637391#notes:(Throlli’s Override) Really good for PVE
 dimwishlist:item=304659313&perks=3032599245,2010801679,4104185692#notes:(Throlli’s Override) Really good for PVE
-dimwishlist:item=304659313&perks=3032599245,3436462433,1546637391#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3032599245,3436462433,4104185692#notes:(Throlli’s Override) Must have for PVE
+dimwishlist:item=304659313&perks=3032599245,3436462433,1546637391#notes:(Throlli’s Override) Pretty good for PVE
+dimwishlist:item=304659313&perks=3032599245,3436462433,4104185692#notes:(Throlli’s Override) Pretty good for PVE
 
 //Farewell
 
 //Gridskipper
+dimwishlist:item=1621558458&perks=1968497646,1570042021,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Anti-Barrier Pulse Rifle)
+dimwishlist:item=1621558458&perks=1968497646,2039302152,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Anti-Barrier Pulse Rifle)
+dimwishlist:item=1621558458&perks=1561002382,1570042021,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Flinches Enemies)
+dimwishlist:item=1621558458&perks=1561002382,2039302152,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Flinches Enemies)
+dimwishlist:item=1621558458&perks=1561002382,1570042021,2458213969#notes:(Throlli’s Override) Really good for PVE (+ Flinches Enemies)
+dimwishlist:item=1621558458&perks=1561002382,2039302152,2458213969#notes:(Throlli’s Override) Really good for PVE (+ Flinches Enemies)
 dimwishlist:item=1621558458&perks=1570042021,4104185692#notes:(Throlli’s Override) Must have for PVE
 dimwishlist:item=1621558458&perks=2039302152,4104185692#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=1621558458&perks=2039302152,2458213969#notes:(Throlli’s Override) Must have for PVE
+dimwishlist:item=1621558458&perks=1570042021,2458213969#notes:(Throlli’s Override) Really good for PVE
+dimwishlist:item=1621558458&perks=2039302152,2458213969#notes:(Throlli’s Override) Really good for PVE
 
 //Sojourner’s Tale
 dimwishlist:item=599895591&perks=791862061,3300816228,4104185692#notes:(Throlli’s Splicer) Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
