@@ -11,13 +11,11 @@ This section is mostly finished
 */
 
 //Fatebringer
-dimwishlist:item=2171478765&perks=3418782618,4104185692#notes:(Throlli's Vault of Glass) Really good for PVE
 dimwishlist:item=2171478765&perks=3418782618,3824105627#notes:(Throlli's Vault of Glass) Must have for PVE
 dimwishlist:item=2171478765&perks=3038247973,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (+ Disruption Hand Cannon)
 dimwishlist:item=2171478765&perks=3038247973,3824105627#notes:(Throlli's Vault of Glass) Must have for PVE (+ Disruption Hand Cannon, - Suboptimal Perk Synergy)
 dimwishlist:item=2171478765&perks=2726471870,3824105627#notes:(Throlli's Vault of Glass) Really good for PVE
 //Fatebringer (Timelost)
-dimwishlist:item=1216319404&perks=3418782618,4104185692#notes:(Throlli's Vault of Glass) Really good for PVE
 dimwishlist:item=1216319404&perks=3418782618,3824105627#notes:(Throlli's Vault of Glass) Must have for PVE
 dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (+ Disruption Hand Cannon)
 dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:(Throlli's Vault of Glass) Must have for PVE (+ Disruption Hand Cannon, - Suboptimal Perk Synergy)
@@ -26,13 +24,13 @@ dimwishlist:item=1216319404&perks=2726471870,3824105627#notes:(Throlli's Vault o
 //Praedyth's Revenge
 dimwishlist:item=3653573172&perks=106909392,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
 dimwishlist:item=3653573172&perks=2420895100,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
-dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
-dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
+dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
+dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
 //Praedyth's Revenge (Timelost)
 dimwishlist:item=1987769101&perks=106909392,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
 dimwishlist:item=1987769101&perks=2420895100,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
-dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
-dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
+dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
+dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
  
 //Vision of Confluence
  
