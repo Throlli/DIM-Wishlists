@@ -97,6 +97,8 @@ dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:(Throll
 //Heritage
 dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) Must have for PVE
 dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) Really good for PVE
+dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) {Handling Masterwork} Potentially must have for PVE post hotswap nerf
+dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,957782887#notes:(Throlli's Deep Stone Crypt) {Handling Masterwork} Potentially must have for PVE post hotswap nerf
 
 //Trustee
 dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
@@ -430,6 +432,7 @@ dimwishlist:item=1621558458&perks=2039302152,2458213969#notes:(Throlli’s Overr
 
 //Sojourner’s Tale
 dimwishlist:item=599895591&perks=791862061,3300816228,4104185692#notes:(Throlli’s Splicer) Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
+dimwishlist:item=599895591&perks=1840239774,106909392,3300816228,4104185692#notes:(Throlli’s Splicer) {Handling Masterwork} Potentially must have for PVE after hotswap nerf
 
 //Shattered Cipher
 dimwishlist:item=2434225986&perks=3300816228,3425386926#notes:(Throlli’s Splicer) Really good for PVE
@@ -601,6 +604,7 @@ dimwishlist:item=2222560548&perks=1359896290,1546637391#notes:(Throlli’s Conta
 
 //First In, Last Out
 dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:(Throlli’s Contact) Must have for PVE
+dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391#notes:(Throlli’s Contact) {Handling Masterwork} Potentially must have for PVE post hotswap nerf
 
 //Berenger’s Memory
 dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:(Throlli’s Contact) Pretty good for PVE
