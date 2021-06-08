@@ -13,19 +13,27 @@ Rapid-Fire Frame Auto Rifles
 //Kinetic
 
 //Chroma Rush
+//Feeding Frenzy, Rampage
 dimwishlist:item=1119734784&perks=2779035018,3425386926#notes:(Throlli’s Override) Pretty good for PVE
+//Feeding Frenzy, Wellspring
 dimwishlist:item=1119734784&perks=2779035018,3592538738#notes:(Throlli’s Override) Pretty good for PVE
+//Subsistence, Rampage
 dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:(Throlli’s Override) Must have for PVE
+//Subsistence, Wellspring
 dimwishlist:item=1119734784&perks=1820235745,3592538738#notes:(Throlli’s Override) Really good for PVE
 
 //Void
 
 //Arctic Haze
+//Triple Tap, Vorpal Weapon
 dimwishlist:item=20935540&perks=3400784728,1546637391#notes:(Throlli’s Europa) Really good for PVE
+//Outlaw, Dragonfly
 dimwishlist:item=20935540&perks=1168162263,2848615171#notes:(Throlli’s Europa) Pretty good for PVE
+//Subsistence, Dragonfly
 dimwishlist:item=20935540&perks=1820235745,2848615171#notes:(Throlli’s Europa) Really good for PVE
 
 //Reckless Oracle
+//Outlaw, Demolitionist
 dimwishlist:item=3385326721&perks=1168162263,3523296417#notes:(Throlli's Garden of Salvation) Decent for PVE
 
 /*
@@ -35,22 +43,30 @@ Adaptive Frame Auto Rifles
 //Kinetic
 
 //The Forward Path
+//Feeding Frenzy, Multikill Clip
 dimwishlist:item=1690783811&perks=2779035018,2458213969#notes:(Throlli's Iron Banner) Pretty god for PVE
 
 //Void
 
 //Gnawing Hunger
+//Arrowhead Brake, Appended Mag, Overflow, Rampage
 dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926#notes:(Throlli’s Reckoning) Must have for PVE
+//Subsistence, Rampage
 dimwishlist:item=821154603&perks=1820235745,3425386926#notes:(Throlli’s Recaster) Pretty good for PVE
+//Subsistence, Demolitionist
 dimwishlist:item=821154603&perks=1820235745,3523296417#notes:(Throlli’s Recaster) Pretty good for PVE
 
 //Solar
 
 //The Summoner
+//Overflow, Rampage
 dimwishlist:item=1907698332&perks=3643424744,3425386926#notes:(Throlli’s Trials) Must have for PVE
+//Overflow, Dragonfly
 dimwishlist:item=1907698332&perks=3643424744,2848615171#notes:(Throlli’s Trials) Must have for PVE
 //The Summoner (Adept)
+//Overflow, Rampage
 dimwishlist:item=3514144928&perks=3643424744,3425386926#notes:(Throlli’s Flawless) Must have for PVE
+//Overflow, Dragonfly
 dimwishlist:item=3514144928&perks=3643424744,2848615171#notes:(Throlli’s Flawless) Must have for PVE
 
 /*
@@ -60,35 +76,56 @@ Precision Frame Auto Rifles
 //Kinetic
 
 //Seventh Seraph Carbine
+//Fourth Time's the Charm, Vorpal Weapon
 dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:(Throlli’s EDZ Bunker) Must have for PVE
 
 //Braytech Werewolf
+//Fourth Time's the Charm, Vorpal Weapon
 dimwishlist:item=528834068&perks=1354429876,1546637391#notes:(Throlli’s Festival of the Lost) Pretty good for PVE
 
 //Horror Story
+//Subsistence, Demolitionist
 dimwishlist:item=3829285960&perks=1820235745,3523296417#notes:(Throlli’s Festival of the Lost) Decent for PVE
 
 //Arc
 
 //Shadow Price
+//Overflow, One for All
 dimwishlist:item=2633186522&perks=3643424744,4049631843#notes:(Throlli’s Nightfall) Must have for PVE
+//Overflow, Unrelenting
 dimwishlist:item=2633186522&perks=3643424744,3108830275#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Overflow, Dragonfly
 dimwishlist:item=2633186522&perks=3643424744,2848615171#notes:(Throlli’s Nightfall) Must have for PVE
+//Fourth Time's the Charm, One for All
 dimwishlist:item=2633186522&perks=1354429876,4049631843#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Fourth Time's the Charm, Unrelenting
 dimwishlist:item=2633186522&perks=1354429876,3108830275#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Fourth Time's the Charm, Dragonfly
 dimwishlist:item=2633186522&perks=1354429876,2848615171#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Feeding Frenzy, One for All
 dimwishlist:item=2633186522&perks=2779035018,4049631843#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Feeding Frenzy, Unrelenting
 dimwishlist:item=2633186522&perks=2779035018,3108830275#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=2633186522&perks=2779035018,2848615171#notes:(Throlli’s Nightfall) Pretty good for PVE
 //Shadow Price (Adept)
+//Overflow, One for All
 dimwishlist:item=2147010335&perks=3643424744,4049631843#notes:(Throlli’s Grandmasters) Must have for PVE
+//Overflow, Unrelenting
 dimwishlist:item=2147010335&perks=3643424744,3108830275#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Overflow, Dragonfly
 dimwishlist:item=2147010335&perks=3643424744,2848615171#notes:(Throlli’s Grandmasters) Must have for PVE
+//Fourth Time's the Charm, One for All
 dimwishlist:item=2147010335&perks=1354429876,4049631843#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Fourth Time's the Charm, Unrelenting
 dimwishlist:item=2147010335&perks=1354429876,3108830275#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Fourth Time's the Charm, Dragonfly
 dimwishlist:item=2147010335&perks=1354429876,2848615171#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Feeding Frenzy, One for All
 dimwishlist:item=2147010335&perks=2779035018,4049631843#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Feeding Frenzy, Unrelenting
 dimwishlist:item=2147010335&perks=2779035018,3108830275#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=2147010335&perks=2779035018,2848615171#notes:(Throlli’s Grandmasters) Pretty good for PVE
 
 //The Number
@@ -100,15 +137,20 @@ High-Impact Frame Auto Rifles
 //Kinetic
 
 //False Promises
+//Overflow, Rampage
 dimwishlist:item=3143732432&perks=3643424744,3425386926#notes:(Throlli’s Contact) Decent for PVE
+//Subsistence, Rampage
 dimwishlist:item=3143732432&perks=1820235745,3425386926#notes:(Throlli’s Contact) Decent for PVE
 
 
 //Void
 
 //Age-Old Bond
+//Extended Barrel, Light Mag, Fourth Time's the Charm, Rampage
 dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:(Throlli's Last Wish) Must have for PVE
+//Triple Tap, Dragonfly
 dimwishlist:item=601592879&perks=3400784728,2848615171#notes:(Throlli's Last Wish) Pretty good for PVE
+//Triple Tap, High-Impact Reserves
 dimwishlist:item=601592879&perks=3400784728,2213355989#notes:(Throlli's Last Wish) Pretty good for PVE
 
 
