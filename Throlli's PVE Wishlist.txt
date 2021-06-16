@@ -1092,10 +1092,10 @@ Precision Frame Fusion Rifle
 
 //PLUG ONE.1
 dimwishlist:item=1289000550&perks=2779035018,1427256713#notes:(Throlli’s Nightfall) Must have for PVE
-dimwishlist:item=1289000550&perks=4252909580,1427256713#notes:(Throlli’s Nightfall) Decent for PVE (- Fireteam needs to be dead, + Insane Perk Synergy)
+dimwishlist:item=1289000550&perks=4252909580,1427256713#notes:(Throlli’s Nightfall) Decent for PVE (- Fireteam needs to be dead, + Insane Perk Synergy when Fireteam dead)
 //PLUG ONE.1 (Adept)
 dimwishlist:item=534775659&perks=2779035018,1427256713#notes:(Throlli’s Grandmasters) Must have for PVE
-dimwishlist:item=534775659&perks=4252909580,1427256713#notes:(Throlli’s Grandmasters) Decent for PVE (- Fireteam needs to be dead, + Insane Perk Synergy)
+dimwishlist:item=534775659&perks=4252909580,1427256713#notes:(Throlli’s Grandmasters) Decent for PVE (- Fireteam needs to be dead, + Insane Perk Synergy when Fireteam dead)
 
 //Hollow Words
 
