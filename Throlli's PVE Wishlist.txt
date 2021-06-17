@@ -1801,4 +1801,4 @@ dimwishlist:item=1508896098&perks=2473404935,1478423395,2420895100,1178686995,34
 dimwishlist:item=3580904581&perks=1210807262,1467527085,3868766766,25692695,3465198467#notes:(Throlli's Red War) Must have {Catalyst: Really good}
 
 //D.A.R.C.I.
-dimwishlist:item=3141979346&perks=938999636,1467527085,2420895100,939227542,1067908860#notes:(Throlli's Red War) Must have for HP scanning {Catalyst: Mediocre}
+dimwishlist:item=3141979346&perks=938999636,1467527085,2420895100,939227542,1067908860#notes:(Throlli's Red War) Must have for HP scanning {Catalyst: Decent}
