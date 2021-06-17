@@ -922,18 +922,28 @@ Rapid-Fire Frame Sniper Rifle
 //Kinetic
 
 //The Supremacy
+//Appended Mag, Triple Tap
 dimwishlist:item=686951703&perks=1087426260,3400784728#notes:(Throlli's Last Wish) Must have for PVE (- Outclassed by Praedyth's Revenge unless used with Divinity)
+//Extended Mag, Triple Tap
 dimwishlist:item=686951703&perks=2420895100,3400784728#notes:(Throlli's Last Wish) Must have for PVE (- Outclassed by Praedyth's Revenge unless used with Divinity)
 
 //Praedyth's Revenge
+//Tactical Mag, Rewind Rounds, Frenzy
 dimwishlist:item=3653573172&perks=106909392,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
+//Extended Mag, Rewind Rounds, Frenzy
 dimwishlist:item=3653573172&perks=2420895100,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
+//Tactical Mag, Rewind Rounds, High-Impact Reserves
 dimwishlist:item=3653573172&perks=106909392,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
+//Extended Mag, Rewind Rounds, High-Impact Reserves
 dimwishlist:item=3653573172&perks=2420895100,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
 //Praedyth's Revenge (Timelost)
+//Tactical Mag, Rewind Rounds, Frenzy
 dimwishlist:item=1987769101&perks=106909392,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
+//Extended Mag, Rewind Rounds, Frenzy
 dimwishlist:item=1987769101&perks=2420895100,3418782618,4104185692#notes:(Throlli's Vault of Glass) Must have for PVE (- Rewind Rounds bugged with Divinity)
+//Tactical Mag, Rewind Rounds, High-Impact Reserves
 dimwishlist:item=1987769101&perks=106909392,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
+//Extended Mag, Rewind Rounds, High-Impact Reserves
 dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989#notes:(Throlli's Vault of Glass) Really good for PVE (- Rewind Rounds bugged with Divinity)
 
 //Arc
@@ -943,13 +953,19 @@ dimwishlist:item=1987769101&perks=2420895100,3418782618,2213355989#notes:(Throll
 //Solar
 
 //Distant Tumulus
+//Appended Mag, Clown Cartridge, Firing Line
 dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417#notes:(Throlli’s World Drops) Must have for PVE
+//Tactical Mag, Clown Cartridge, Firing Line
 dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:(Throlli’s World Drops) Must have for PVE
+//Extended Mag, Clown Cartridge, Firing Line
 dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417#notes:(Throlli’s World Drops) Must have for PVE
 
 //IKELOS_SR_V1.0.2
+//Appended Mag, Fourth Time's the Charm, High-Impact Reserves
 dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989#notes:(Throlli’s Contact) Must have for PVE
+//Tactical Mag, Fourth Time's the Charm, High-Impact Reserves
 dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989#notes:(Throlli’s Contact) Must have for PVE
+//Extended Mag, Fourth Time's the Charm, High-Impact Reserves
 dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989#notes:(Throlli’s Contact) Must have for PVE
 
 //Widows Bite
@@ -963,11 +979,17 @@ Adaptive Frame Sniper
 //Kinetic
 
 //Long Shadow
+//Appended Mag, Rapid Hit, Triple Tap
 dimwishlist:item=3745990145&perks=1087426260,247725512,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+//Tactical Mag, Rapid Hit, Triple Tap
 dimwishlist:item=3745990145&perks=106909392,247725512,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+//Extended Mag, Rapid Hit, Triple Tap
 dimwishlist:item=3745990145&perks=2420895100,247725512,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+//Appended Mag, Field Prep, Triple Tap
 dimwishlist:item=3745990145&perks=1087426260,2869569095,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+//Tactical Mag, Field Prep, Triple Tap
 dimwishlist:item=3745990145&perks=106909392,2869569095,3400784728#notes:(Throlli’s World Loot) Must have for PVE
+//Extended Mag, Field Prep, Triple Tap
 dimwishlist:item=3745990145&perks=2420895100,2869569095,3400784728#notes:(Throlli’s World Loot) Must have for PVE
 
 //Eye of Sol
@@ -976,13 +998,17 @@ dimwishlist:item=3745990145&perks=2420895100,2869569095,3400784728#notes:(Throll
 //Arc
 
 //Adored
+//Hammer-Forged Rifling, Accurized Rounds, Triple Tap, Vorpal Weapon
 dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391#notes:(Throlli’s Rituals) Decent for PVE
 
 //Solar
 
 //Far Future
+//Appended Mag, Auto-Loading Holster, Frenzy
 dimwishlist:item=893527433&perks=1087426260,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Frenzy
 dimwishlist:item=893527433&perks=106909392,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Frenzy
 dimwishlist:item=893527433&perks=2420895100,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
 
 //Uzume RR4
@@ -1019,7 +1045,9 @@ Aggressive Frame Sniper Rifles
 //Kinetic
 
 //Succession
+//Tactical Mag, Reconstruction, Vorpal Weapon
 dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+//Extended Mag, Reconstruction, Vorpal Weapon
 dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:(Throlli's Deep Stone Crypt) Must have for PVE
 
 //Bite of the Fox
@@ -1027,23 +1055,37 @@ dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:(Throll
 //Void
 
 //Frozen Orbit
+//Appended Mag, Clown Cartridge, Vorpal Weapon
 dimwishlist:item=3473290087&perks=1087426260,2284787283,1546637391#notes:(Throlli’s Crucible) Pretty good for PVE
+//Tactical Mag, Clown Cartridge, Vorpal Weapon
 dimwishlist:item=3473290087&perks=106909392,2284787283,1546637391#notes:(Throlli’s Crucible) Pretty good for PVE
+//Extended Mag, Clown Cartridge, Vorpal Weapon
 dimwishlist:item=3473290087&perks=2420895100,2284787283,1546637391#notes:(Throlli’s Crucible) Pretty good for PVE
+//Appended Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=3473290087&perks=1087426260,3300816228,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+//Tactical Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=3473290087&perks=106909392,3300816228,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+//Extended Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=3473290087&perks=2420895100,3300816228,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+//Appended Mag, Triple Tap, Vorpal Weapon
 dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+//Tactical Mag, Triple Tap, Vorpal Weapon
 dimwishlist:item=3473290087&perks=106909392,3400784728,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+//Extended Mag, Triple Tap, Vorpal Weapon
 dimwishlist:item=3473290087&perks=2420895100,3400784728,1546637391#notes:(Throlli’s Crucible) Must have for PVE
+//Appended Mag, Triple Tap, High-Impact Reserves
 dimwishlist:item=3473290087&perks=1087426260,3400784728,2213355989#notes:(Throlli’s Crucible) Pretty good for PVE
+//Tactical Mag, Triple Tap, High-Impact Reserves
 dimwishlist:item=3473290087&perks=106909392,3400784728,2213355989#notes:(Throlli’s Crucible) Pretty good for PVE
+//Extended Mag, Triple Tap, High-Impact Reserves
 dimwishlist:item=3473290087&perks=2420895100,3400784728,2213355989#notes:(Throlli’s Crucible) Pretty good for PVE
 
 //Arc
 
 //Occluded Finality
+//Extended Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=852551895&perks=2420895100,3300816228,1546637391#notes:(Throlli’s Iron Banner) Really good for PVE (- Hubble space telescope)
+//Appended Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=852551895&perks=1087426260,3300816228,1546637391#notes:(Throlli’s Iron Banner) Really good for PVE (- Hubble space telescope)
 
 /*
