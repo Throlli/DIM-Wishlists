@@ -363,24 +363,38 @@ Rapid-Fire Frame Pulse Rifle
 //Kinetic
 
 //The Time-Worn Spire
+//Feeding Frenzy, Rampage
 dimwishlist:item=3593598010&perks=2779035018,3425386926#notes:(Throlli’s Iron Banner) Pretty good for PVE
+//Feeding Frenzy, One for All
 dimwishlist:item=3593598010&perks=2779035018,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
+//Subsistence, Rampage
 dimwishlist:item=3593598010&perks=1820235745,3425386926#notes:(Throlli’s Iron Banner) Pretty good for PVE
+//Subsistence, One for All
 dimwishlist:item=3593598010&perks=1820235745,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
 
 //Void
 
 //Gridskipper
-dimwishlist:item=1621558458&perks=1968497646,1570042021,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Anti-Barrier Pulse Rifle)
-dimwishlist:item=1621558458&perks=1968497646,2039302152,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Anti-Barrier Pulse Rifle)
+//High-Caliber Rounds, Heating Up, Frenzy
 dimwishlist:item=1621558458&perks=1561002382,1570042021,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Flinches Enemies)
+//High-Caliber Rounds, Slideways, Frenzy
 dimwishlist:item=1621558458&perks=1561002382,2039302152,4104185692#notes:(Throlli’s Override) Must have for PVE (+ Flinches Enemies)
+//High-Caliber Rounds, Heating Up, Multikill Clip
 dimwishlist:item=1621558458&perks=1561002382,1570042021,2458213969#notes:(Throlli’s Override) Really good for PVE (+ Flinches Enemies)
+//High-Caliber Rounds, Slideways, Multikill Clip
 dimwishlist:item=1621558458&perks=1561002382,2039302152,2458213969#notes:(Throlli’s Override) Really good for PVE (+ Flinches Enemies)
+//High-Caliber Rounds, Tunnel Vision, Multikill Clip
+dimwishlist:item=1621558458&perks=1561002382,2946784966,2458213969#notes:(Throlli’s Override) Really good for PVE (+ Flinches Enemies)
+//Heating Up, Frenzy
 dimwishlist:item=1621558458&perks=1570042021,4104185692#notes:(Throlli’s Override) Must have for PVE
+//Slideways, Frenzy
 dimwishlist:item=1621558458&perks=2039302152,4104185692#notes:(Throlli’s Override) Must have for PVE
+//Heating Up, Multikill Clip
 dimwishlist:item=1621558458&perks=1570042021,2458213969#notes:(Throlli’s Override) Really good for PVE
+//Slideways, Multikill Clip
 dimwishlist:item=1621558458&perks=2039302152,2458213969#notes:(Throlli’s Override) Really good for PVE
+//Tunnel Vision, Multikill Clip
+dimwishlist:item=1621558458&perks=2946784966,2458213969#notes:(Throlli’s Override) Really good for PVE
 
 /*
 Lightweight Frame Pulse Rifle
@@ -389,8 +403,11 @@ Lightweight Frame Pulse Rifle
 //Kinetic
 
 //Chattering Bone
+//Corkscrew Rifling, Light Mag, Kill Clip, High-Impact Reserves
 dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:(Throlli's Last Wish) Pretty good for PVE
+//Full Auto Trigger System, Rampage
 dimwishlist:item=568515759&perks=4267945040,3425386926#notes:(Throlli's Last Wish) Really good for PVE
+//Outlaw, Rampage
 dimwishlist:item=568515759&perks=1168162263,3425386926#notes:(Throlli's Last Wish) Really good for PVE
 
 /*
@@ -400,8 +417,8 @@ Aggressive Burst Pulse Rifle
 //Kinetic
 
 //Sacred Provenance
+//Rapid Hit, Kill Clip
 dimwishlist:item=2408405461&perks=247725512,1015611457#notes:(Throlli's Garden of Salvation) Pretty good for PVE
-dimwishlist:item=2408405461&perks=247725512,460017080#notes:(Throlli's Garden of Salvation) Pretty good for PVE
 
 /*
 Adaptive Frame Pulse Rifle
@@ -410,28 +427,41 @@ Adaptive Frame Pulse Rifle
 //Kinetic
 
 //Hailing Confusion
+//Outlaw, Wellspring
 dimwishlist:item=2870169846&perks=1168162263,3592538738#notes:(Throlli’s Europa) Pretty good for PVE
+//Outlaw, Demolitionist
 dimwishlist:item=2870169846&perks=1168162263,3523296417#notes:(Throlli’s Europa) Pretty good for PVE
 
 //Void
 
 //Last Perdition
+//Outlaw, Rampage
 dimwishlist:item=188882152&perks=1168162263,3425386926#notes:(Throlli’s Crucible) Decent for PVE
 
 //Arc
 
 //The Third Axiom
+//Feeding Frenzy, One for All
 dimwishlist:item=4156253727&perks=2779035018,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Feeding Frenzy, Multikill Clip
 dimwishlist:item=4156253727&perks=2779035018,2458213969#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=4156253727&perks=2779035018,2848615171#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Feeding Frenzy, Rampage
 dimwishlist:item=4156253727&perks=2779035018,3425386926#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Subsistence, One for All
 dimwishlist:item=4156253727&perks=1820235745,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Subsistence, Dragonfly
 dimwishlist:item=4156253727&perks=1820235745,2848615171#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Subsistence, Rampage
 dimwishlist:item=4156253727&perks=1820235745,3425386926#notes:(Throlli’s Vanguard Strikes) Decent for PVE
 
 //Jian 7 Rifle
+//Disruption Break, Rampage
 dimwishlist:item=1162247618&perks=1683379515,3425386926#notes:(Throlli’s World Drops) Decent for PVE
+//Disruption Break, Outlaw
 dimwishlist:item=1162247618&perks=1683379515,1168162263#notes:(Throlli’s World Drops) Decent for PVE
+//Dirsuption Break, Dragonfly
 dimwishlist:item=1162247618&perks=1683379515,2848615171#notes:(Throlli’s World Drops) Decent for PVE
 
 /*
@@ -444,26 +474,34 @@ High-Impact Frame Pulse Rifle
 dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:(Throlli’s Arrivals) Pretty good for PVE
 
 //The Messenger
+//Rapid Hit, One for All
 dimwishlist:item=3658188704&perks=247725512,4049631843#notes:(Throlli’s Trials) Must have for PVE
+//Rapid Hit, Desperado
 dimwishlist:item=3658188704&perks=247725512,3047969693#notes:(Throlli’s Trials) Must have for PVE
-dimwishlist:item=3658188704&perks=247725512,460017080#notes:(Throlli’s Trials) Really good for PVE
+//Rapid Hit, Kill Clip
 dimwishlist:item=3658188704&perks=247725512,1015611457#notes:(Throlli’s Trials) Really good for PVE
+//Outlaw, Desperado
 dimwishlist:item=3658188704&perks=1168162263,3047969693#notes:(Throlli’s Trials) Really good for PVE
 //The Messenger (Adept)
+//Rapid Hit, One for All
 dimwishlist:item=1173780905&perks=247725512,4049631843#notes:(Throlli’s Flawless) Must have for PVE
+//Rapid Hit, Desperado
 dimwishlist:item=1173780905&perks=247725512,3047969693#notes:(Throlli’s Flawless) Must have for PVE
-dimwishlist:item=1173780905&perks=247725512,460017080#notes:(Throlli’s Flawless) Really good for PVE
+//Rapid Hit, Kill Clip
 dimwishlist:item=1173780905&perks=247725512,1015611457#notes:(Throlli’s Flawless) Really good for PVE
+//Outlaw, Desperado
 dimwishlist:item=1173780905&perks=1168162263,3047969693#notes:(Throlli’s Flawless) Really good for PVE
 
 //Void
 
 //Premonition
+//Feeding Frenzy, Rampage
 dimwishlist:item=208088207&perks=2779035018,3425386926#notes:(Throlli’s Pit of Heresy) Pretty good for PVE
 
 //Solar
 
 //Stars in Shadow
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=2050789284&perks=2779035018,2848615171#notes:(Throlli’s Crucible) Pretty good for PVE
 
 
@@ -474,9 +512,13 @@ Rapid-Fire Frame Scout Rifle
 //Solar
 
 //Trustee
+//Reconstruction, Wellspring
 dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+//Surplus, Wellspring
 dimwishlist:item=1392919471&perks=3436462433,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+//Outlaw, Wellspring
 dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
+//Outlaw, High-Impact Reserves
 dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:(Throlli's Deep Stone Crypt) Pretty good for PVE
 
 /*
@@ -486,20 +528,27 @@ Lightweight Frame Scout Rifle
 //Kinetic
 
 //Night Watch
+//Rapid Hit, Explosive Payload
 dimwishlist:item=3504336176&perks=247725512,3038247973#notes:(Throlli’s Gambit) Must have for PVE (+ Disruption Scout Rifle)
 
 //Void
 
 //Vouchsafe
+//Rapid Hit, Explosive Payload
 dimwishlist:item=3242168339&perks=247725512,3038247973#notes:(Throlli’s Dreaming City) Pretty good for PVE
+//Rapid Hit, Vorpal Weapon
 dimwishlist:item=3242168339&perks=247725512,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
+//Fourth Time's the Charm, Explosive Payload
 dimwishlist:item=3242168339&perks=1354429876,3038247973#notes:(Throlli’s Dreaming City) Pretty good for PVE
+//Fourth Time's the Charm, Vorpal Weapon
 dimwishlist:item=3242168339&perks=1354429876,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
 
 //Arc
 
 //Eternal Blazon
+//Overflow, One for All
 dimwishlist:item=3514096004&perks=3643424744,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
+//Rapid Hit, One for All
 dimwishlist:item=3514096004&perks=247725512,4049631843#notes:(Throlli’s Vanguard Strikes) Decent for PVE
 
 //Solar
@@ -513,14 +562,22 @@ Precision Frame Scout Rifle
 //Kinetic
 
 //Hung Jury
+//Rapid Hit, Explosive Payload
 dimwishlist:item=4281371574&perks=247725512,3038247973#notes:(Throlli’s Nightfall) Must have for PVE (+ Disruption Scout)
+//Rapid Hit, One for All
 dimwishlist:item=4281371574&perks=247725512,4049631843#notes:(Throlli’s Nightfall) Pretty good for PVE
+//Rapid Hit, Firefly
 dimwishlist:item=4281371574&perks=247725512,3824105627#notes:(Throlli’s Nightfall) Pretty good for PVE (- Suboptimal Perk Synergy)
+//Subsistence, Firefly
 dimwishlist:item=4281371574&perks=1820235745,3824105627#notes:(Throlli’s Nightfall) Must have for PVE
 //Hung Jury (Adept)
+//Rapid Hit, Explosive Payload
 dimwishlist:item=681067419&perks=247725512,3038247973#notes:(Throlli’s Grandmasters) Must have for PVE (+ Disruption Scout)
+//Rapid Hit, One for All
 dimwishlist:item=681067419&perks=247725512,4049631843#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Rapid Hit, Firefly
 dimwishlist:item=681067419&perks=247725512,3824105627#notes:(Throlli’s Grandmasters) Pretty good for PVE (- Suboptimal Perk Synergy)
+//Subsistence, Firefly
 dimwishlist:item=681067419&perks=1820235745,3824105627#notes:(Throlli’s Grandmasters) Must have for PVE
 
 //Void
@@ -538,18 +595,26 @@ High-Impact Frame Scout Rifle
 //Kinetic
 
 //Transfiguration
+//Rampage, Kill Clip
 dimwishlist:item=3799980700&perks=3425386926,1015611457#notes:(Throlli's Last Wish) Really good for PVE
 
 //The Guiding Sight
+//Rapid Hit, Vorpal Weapon
+dimwishlist:item=1641430382&perks=247725512,1546637391#notes:(Throlli’s Iron Banner) Pretty good for PVE
+//Rapid Hit, One for All
 dimwishlist:item=1641430382&perks=247725512,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
 
 //Talons of the Eagle
 
 //The Scholar
+//Full Auto Trigger System, Vorpal Weapon
 dimwishlist:item=2478792241&perks=4267945040,1546637391#notes:(Throlli’s Trials) Decent for PVE
+//Quickdraw, Vorpal Weapon
 dimwishlist:item=2478792241&perks=706527188,1546637391#notes:(Throlli’s Trials) Decent for PVE
 //The Scholar (Adept)
+//Full Auto Trigger System, Vorpal Weapon
 dimwishlist:item=2386979999&perks=4267945040,1546637391#notes:(Throlli’s Flawless) Decent for PVE
+//Quickdraw, Vorpal Weapon
 dimwishlist:item=2386979999&perks=706527188,1546637391#notes:(Throlli’s Flawless) Decent for PVE
 
 
@@ -560,6 +625,7 @@ Adaptive Frame Sidearm
 //Kinetic
 
 //High Albedo
+//Ambitious Assassin, Wellspring
 dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:(Throlli’s Europa) Really good for PVE
 
 /*
@@ -571,6 +637,7 @@ Omolon Adaptive Frame Sidearm
 //The Last Dance
 
 //The Vision
+//Ambitious Assassin, One for All
 dimwishlist:item=2414141462&perks=2010801679,4049631843#notes:(Throlli’s FWC) Pretty good for PVE
 
 /*
@@ -588,13 +655,21 @@ Aggressive Burst Sidearm
 //Void
 
 //Brass Attacks
+//Feeding Frenzy, One for All
 dimwishlist:item=2121785039&perks=2779035018,4049631843#notes:(Throlli’s Chosen) Pretty good for PVE
+//Feeding Frenzy, Rampage
 dimwishlist:item=2121785039&perks=2779035018,3425386926#notes:(Throlli’s Chosen) Pretty good for PVE
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=2121785039&perks=2779035018,2848615171#notes:(Throlli’s Chosen) Really good for PVE
+//Feeding Frenzy, Frenzy
 dimwishlist:item=2121785039&perks=2779035018,4104185692#notes:(Throlli’s Chosen) Pretty good for PVE
+//Rapid Hit, One for All
 dimwishlist:item=2121785039&perks=247725512,4049631843#notes:(Throlli’s Chosen) Really good for PVE
+//Rapid Hit, Rampage
 dimwishlist:item=2121785039&perks=247725512,3425386926#notes:(Throlli’s Chosen) Really good for PVE
+//Rapid Hit, Dragonfly
 dimwishlist:item=2121785039&perks=247725512,2848615171#notes:(Throlli’s Chosen) Really good for PVE
+//Rapid Hit, Frenzy
 dimwishlist:item=2121785039&perks=247725512,4104185692#notes:(Throlli’s Chosen) Really good for PVE
 
 /*
@@ -608,7 +683,9 @@ Lightweight Frame Sidearm
 //Void
 
 //Seventh Seraph SI-2
+//Demolitionist, Vorpal Weapon
 dimwishlist:item=3937866388&perks=3523296417,1546637391#notes:(Throlli’s Worthy) Really good for PVE
+//Demolitionist, Dragonfly
 dimwishlist:item=3937866388&perks=3523296417,2848615171#notes:(Throlli’s Worthy) Really good for PVE
 
 /*
@@ -618,8 +695,11 @@ Adaptive Frame Sidearm
 //Arc
 
 //The Keening
+//Subsistence, Dragonfly
 dimwishlist:item=409551876&perks=1820235745,2848615171#notes:(Throlli’s Crucible) Decent for PVE
+//Rapid Hit, Multikill Clip
 dimwishlist:item=409551876&perks=247725512,2458213969#notes:(Throlli’s Crucible) Decent for PVE
+//Rapid Hit, One for All
 dimwishlist:item=409551876&perks=247725512,4049631843#notes:(Throlli’s Crucible) Decent for PVE
 
 /*
@@ -631,6 +711,7 @@ Precision Frame Sidearm
 //Enigma's Draw
 
 //Lonesome
+//Rapid Hit, Multikill Clip
 dimwishlist:item=2199171672&perks=247725512,2458213969#notes:(Throlli’s Gambit Prime) Decent for PVE
 
 
