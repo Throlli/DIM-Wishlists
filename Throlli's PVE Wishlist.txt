@@ -1234,13 +1234,13 @@ dimwishlist:item=2065081837&perks=106909392,2284787283,3038247973#notes:(Throlli
 //Extended Mag, Clown Cartridge, Explosive Payload
 dimwishlist:item=2065081837&perks=2420895100,2284787283,3038247973#notes:(Throlli’s Nightfall) Pretty good for PVE
 //Appended Mag, Bottomless Grief, Vorpal Weapon
-dimwishlist:item=2065081837&perks=1087426260,4252909580,1546637391#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=2065081837&perks=1087426260,4252909580,1546637391#notes:(Throlli’s Nightfall) Pretty good for PVE
 //Extended Mag, Bottomless Grief, Vorpal Weapon
-dimwishlist:item=2065081837&perks=2420895100,4252909580,1546637391#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=2065081837&perks=2420895100,4252909580,1546637391#notes:(Throlli’s Nightfall) Pretty good for PVE
 //Appended Mag, Bottomless Grief, Explosive Payload
-dimwishlist:item=2065081837&perks=1087426260,4252909580,3038247973#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=2065081837&perks=1087426260,4252909580,3038247973#notes:(Throlli’s Nightfall) Pretty good for PVE
 //Extended Mag, Bottomless Grief, Explosive Payload
-dimwishlist:item=2065081837&perks=2420895100,4252909580,3038247973#notes:(Throlli’s Nightfall) Really good for PVE
+dimwishlist:item=2065081837&perks=2420895100,4252909580,3038247973#notes:(Throlli’s Nightfall) Pretty good for PVE
 //Uzume RR4 (Adept)
 dimwishlist:item=852228780&perks=1087426260,3400784728,1546637391#notes:(Throlli’s Grandmasters) Must have for PVE
 dimwishlist:item=852228780&perks=106909392,3400784728,1546637391#notes:(Throlli’s Grandmasters) Must have for PVE
