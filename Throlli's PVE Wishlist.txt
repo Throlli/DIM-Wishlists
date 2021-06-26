@@ -913,14 +913,19 @@ Rapid-Fire Frame Shotgun
 //Void
 
 //The Deicide
+//Dual Loader, One-Two Punch
 dimwishlist:item=217140611&perks=25606670,2679249093#notes:(Throlli’s FWC) Mediocre for PVE
+//Dual Loader, Vorpal Weapon
 dimwishlist:item=217140611&perks=25606670,1546637391#notes:(Throlli’s FWC) Mediocre for PVE
 
 //Solar
 
 //IKELOS_SG_v1.0.2
+//Feeding Frenzy, Trench Barrel
 dimwishlist:item=1096206669&perks=2779035018,2360754333#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Feeding Frenzy, Vorpal Weapon
 dimwishlist:item=1096206669&perks=2779035018,1546637391#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Threat Detector, Surrounded
 dimwishlist:item=1096206669&perks=4071163871,3708227201#notes:(Throlli’s Prophecy) Pretty good for PVE
 
 //Wishbringer
@@ -936,13 +941,17 @@ Lightweight Frame Shotgun
 //Void
 
 //Retrofuturist
+//Assault Mag, Dual Loader, Trench Barrel
 dimwishlist:item=1402766122&perks=791862061,25606670,2360754333#notes:(Throlli’s Crucible) Decent for PVE
 
 //Arc
 
 //Xenoclast IV
+//Assault Mag, Auto-Loading Holster, One-Two Punch
 dimwishlist:item=2891672170&perks=791862061,3300816228,2679249093#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Trench Barrel
 dimwishlist:item=2891672170&perks=791862061,3300816228,2360754333#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=2891672170&perks=791862061,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
 
 //Solar
@@ -958,34 +967,65 @@ Precision Frame Shotgun (Slug)
 //Kinetic
 
 //Heritage
-dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) Must have for PVE
-dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) Really good for PVE
-dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) {Handling Masterwork} Potentially must have for PVE post hotswap nerf
-dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,957782887#notes:(Throlli's Deep Stone Crypt) {Handling Masterwork} Potentially must have for PVE post hotswap nerf
+//Assault Mag, Reconstruction, Recombination
+dimwishlist:item=4248569242&perks=791862061,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Must have for PVE
+//Assault Mag, Auto-Loading Holster, Recombination
+dimwishlist:item=4248569242&perks=791862061,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+//Tactical Mag, Reconstruction, Recombination
+dimwishlist:item=4248569242&perks=106909392,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Recombination
+dimwishlist:item=4248569242&perks=106909392,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+//Appended Mag, Reconstruction, Recombination
+dimwishlist:item=4248569242&perks=1087426260,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+//Appended Mag, Auto-Loading Holster, Recombination
+dimwishlist:item=4248569242&perks=1087426260,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+//Extended Mag, Reconstruction, Recombination
+dimwishlist:item=4248569242&perks=2420895100,1523832109,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+//Extended Mag, Auto-Loading Holster, Recombination
+dimwishlist:item=4248569242&perks=2420895100,3300816228,469285294#notes:(Throlli's Deep Stone Crypt) {Maximize Handling} Really good for PVE
+
 
 //Blasphemer
-dimwishlist:item=2782847179&perks=791862061,1354429876#notes:(Throlli’s Pit of Heresy) Really good for PVE
+//Assault Mag, Fourth Time's the Charm
+dimwishlist:item=2782847179&perks=791862061,1354429876#notes:(Throlli’s Pit of Heresy) Decent for PVE
 
 //Void
 
-//Bone Chiller
+//Bonechiller
+//Assault Mag, Auto-Loading Holster, One for All
 dimwishlist:item=4037745684&perks=791862061,3300816228,4049631843#notes:(Throlli’s Europa) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Dragonfly
 dimwishlist:item=4037745684&perks=791862061,3300816228,2848615171#notes:(Throlli’s Europa) Pretty good for PVE
+//Assault Mag, Triple Tap, Demolitionist
 dimwishlist:item=4037745684&perks=791862061,3400784728,3523296417#notes:(Throlli’s Europa) Really good for PVE (- bad synergy with hotswapping)
+//Assault Mag, Triple Tap, Dragonfly
 dimwishlist:item=4037745684&perks=791862061,3400784728,2848615171#notes:(Throlli’s Europa) Pretty good for PVE
+//Assault Mag, Triple Tap, One for All
 dimwishlist:item=4037745684&perks=791862061,3400784728,4049631843#notes:(Throlli’s Europa) Pretty good for PVE
 
 //Arc
 
 //First In, Last Out
-dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:(Throlli’s Contact) Must have for PVE
-dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391#notes:(Throlli’s Contact) {Handling Masterwork} Potentially must have for PVE post hotswap nerf
+//Assault Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391#notes:(Throlli’s Contact) {Maximize Handling} Must have for PVE
+//Tactical Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3616586446&perks=106909392,3300816228,1546637391#notes:(Throlli’s Contact) {Maximize Handling} Must have for PVE
+//Appended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3616586446&perks=1087426260,3300816228,1546637391#notes:(Throlli’s Contact) {Maximize Handling} Must have for PVE
+//Extended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3616586446&perks=2420895100,3300816228,1546637391#notes:(Throlli’s Contact) {Maximize Handling} Must have for PVE
 
 //Solar
 
 //Sojourner’s Tale
-dimwishlist:item=599895591&perks=791862061,3300816228,4104185692#notes:(Throlli’s Splicer) Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
-dimwishlist:item=599895591&perks=1840239774,106909392,3300816228,4104185692#notes:(Throlli’s Splicer) {Handling Masterwork} Potentially must have for PVE after hotswap nerf
+//Assault Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=599895591&perks=791862061,3300816228,4104185692#notes:(Throlli’s Splicer) {Maximize Handling} Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
+//Tactical Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=599895591&perks=106909392,3300816228,4104185692#notes:(Throlli’s Splicer) {Maximize Handling} Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
+//Appended Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=599895591&perks=1087426260,3300816228,4104185692#notes:(Throlli’s Splicer) {Maximize Handling} Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
+//Extended Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=599895591&perks=2420895100,3300816228,4104185692#notes:(Throlli’s Splicer) {Maximize Handling} Must have for PVE (- needs Frenzy up before damage and maintain it throughout, + Handling)
 
 /*
 Precision Frame Shotgun
@@ -994,13 +1034,17 @@ Precision Frame Shotgun
 //Void
 
 //Retold Tale
+//Assault Mag, Dual Loader, One-Two Punch
 dimwishlist:item=346136302&perks=791862061,25606670,2679249093#notes:(Throlli’s Dreaming City) Pretty good for PVE
+//Assault Mag, Dual Loader, Surrounded
 dimwishlist:item=346136302&perks=791862061,25606670,3708227201#notes:(Throlli’s Dreaming City) Pretty good for PVE
+//Assault Mag, Dual Loader, Vorpal Weapon
 dimwishlist:item=346136302&perks=791862061,25606670,1546637391#notes:(Throlli’s Dreaming City) Pretty good for PVE
 
 //Arc
 
 //Prophet of Doom
+//One-Two Punch
 dimwishlist:item=4020742303&perks=2679249093#notes:(Throlli's Garden of Salvation) Decent for PVE
 
 /*
@@ -1010,8 +1054,10 @@ Aggressive Frame Shotgun
 //Kinetic
 
 //Astral Horizon
+//Assault Mag, Auto-Loading Holster, Trench Barrel
 dimwishlist:item=1697682876&perks=791862061,3300816228,2360754333#notes:(Throlli’s Trials) Pretty good for PVE
 //Astral Horizon (Adept)
+//Assault Mag, Auto-Loading Holster, Trench Barrel
 dimwishlist:item=532746994&perks=791862061,3300816228,2360754333#notes:(Throlli’s Flawless) Pretty good for PVE
 
 //Toil and Trouble
@@ -1019,18 +1065,30 @@ dimwishlist:item=532746994&perks=791862061,3300816228,2360754333#notes:(Throlli�
 //Arc
 
 //Found Verdict
+//Rewind Rounds, One-Two Punch
 dimwishlist:item=3197270240&perks=3418782618,2679249093#notes:(Throlli's Vault of Glass) Really good for PVE
+//Auto-Loading Holster, One-Two Punch
 dimwishlist:item=3197270240&perks=3300816228,2679249093#notes:(Throlli's Vault of Glass) Really good for PVE
+//Assault Mag, Rewind Rounds, Frenzy
 dimwishlist:item=3197270240&perks=791862061,3418782618,4104185692#notes:(Throlli's Vault of Glass) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Frenzy
 dimwishlist:item=3197270240&perks=791862061,3300816228,4104185692#notes:(Throlli's Vault of Glass) Pretty good for PVE
+//Assault Mag, Rewind Rounds, Vorpal Weapon
 dimwishlist:item=3197270240&perks=791862061,3418782618,1546637391#notes:(Throlli's Vault of Glass) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=3197270240&perks=791862061,3300816228,1546637391#notes:(Throlli's Vault of Glass) Pretty good for PVE
 //Found Verdict (Timelost)
+//Rewind Rounds, One-Two Punch
 dimwishlist:item=631439337&perks=3418782618,2679249093#notes:(Throlli's Vault of Glass) Really good for PVE
+//Auto-Loading Holster, One-Two Punch
 dimwishlist:item=631439337&perks=3300816228,2679249093#notes:(Throlli's Vault of Glass) Really good for PVE
+//Assault Mag, Rewind Rounds, Frenzy
 dimwishlist:item=631439337&perks=791862061,3418782618,4104185692#notes:(Throlli's Vault of Glass) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Frenzy
 dimwishlist:item=631439337&perks=791862061,3300816228,4104185692#notes:(Throlli's Vault of Glass) Pretty good for PVE
+//Assault Mag, Rewind Rounds, Vorpal Weapon
 dimwishlist:item=631439337&perks=791862061,3418782618,1546637391#notes:(Throlli's Vault of Glass) Pretty good for PVE
+//Assault Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=631439337&perks=791862061,3300816228,1546637391#notes:(Throlli's Vault of Glass) Pretty good for PVE
 
 /*
@@ -1040,7 +1098,9 @@ Shot Package Shotgun
 //Solar
 
 //Felwinter's Lie
+//Full Choke, Accurized Rounds, Slideshot, Vorpal Weapon
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,1546637391#notes:(Throlli’s 9 Million Seraph Towers) Pretty good for PVE
+//Full Choke, Accurized Rounds, Surplus, Vorpal Weapon
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391#notes:(Throlli’s 9 Million Seraph Towers) Pretty good for PVE
 
 
