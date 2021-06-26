@@ -1342,7 +1342,9 @@ Rapid-Fire Frame Fusion Rifle
 //Void
 
 //Null Composure
+//Fluted Barrel, Projection Fuse, Feeding Frenzy, Reservoir Burst
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713#notes:(Throlli’s Rituals) Really good for PVE
+//Fluted Barrel, Projection Fuse, Feeding Frenzy, High-Impact Reserves
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,2213355989#notes:(Throlli’s Rituals) Decent for PVE
 
 //Zealot's Reward
@@ -1405,6 +1407,78 @@ High-Impact Frame Fusion Rifle
 
 
 /*
+Lightweight Frame Grenade Launcher
+*/
+
+//Kinetic
+
+//Ignition Code
+//Spike Grenades, Slideshot, Vorpal Weapon
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:(Throlli’s Override) Must have for PVE
+//Spike Grenades, Slideshot, Frenzy
+dimwishlist:item=304659313&perks=3301904089,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
+//Blinding Grenades, Slideshot, Danger Zone
+dimwishlist:item=304659313&perks=3032599245,3161816588,960810156#notes:(Throlli’s Override) Must have for PVE
+//Blinding Grenades, Slideshot, Vorpal Weapon
+dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:(Throlli’s Override) Must have for PVE
+//Blinding Grenades, Slideshot, Frenzy
+dimwishlist:item=304659313&perks=3032599245,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
+
+
+//Void
+
+//Truthteller
+//Spike Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:(Throlli’s Dead Orbit) Pretty good for PVE
+//Blinding Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417#notes:(Throlli’s Dead Orbit) Must have for PVE
+
+//Orewing’s Maul
+//Blinding Grenades, Field Prep, Auto-Loading Holster
+dimwishlist:item=2108920981&perks=3032599245,2869569095,3300816228#notes:(Throlli’s Iron Banner) Must have for PVE
+//Blinding Grenades, Field Prep, Demolitionist
+dimwishlist:item=2108920981&perks=3032599245,2869569095,3523296417#notes:(Throlli’s Iron Banner) Really good for PVE
+
+//Arc
+
+//Salvager’s Salvo
+//Quick Launch, Spike Grenades, Ambitious Assassin, Vorpal Weapon
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391#notes:(Throlli’s Rituals) Must have for PVE
+//Quick Launch, Spike Grenades, Ambitious Assassin, Chain Reaction
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472#notes:(Throlli’s Rituals) Must have for PVE
+//Quick Launch, Spike Grenades, Demolitionist, Vorpal Weapon
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:(Throlli’s Rituals) Must have for PVE
+//Quick Launch, Spike Grenades, Demolitionist, Chain Reaction
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472#notes:(Throlli’s Rituals) Must have for PVE
+
+//Solar
+
+//Empty Vessel
+//Spike Grenades, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+//Spike Grenades, Ambitious Assassin, Vorpal Weapon
+dimwishlist:item=4255586669&perks=3301904089,2010801679,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+//Spike Grenades, Field Prep, Vorpal Weapon
+dimwishlist:item=4255586669&perks=3301904089,2869569095,1546637391#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+//Blinding Grenades, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+//Blinding Grenades, Auto-Loading Holster, Danger Zone
+dimwishlist:item=4255586669&perks=3032599245,3300816228,960810156#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+
+/*
+Wave Frame Grenade Launcher
+*/
+
+//Void
+
+//Deafening Whisper
+//Ambitious Assassin, Wellspring
+dimwishlist:item=981718087&perks=2010801679,3592538738#notes:(Throlli’s Wrathborn Hunts) Must have for PVE
+//Ambitious Assassin, Auto-Loading Holster
+dimwishlist:item=981718087&perks=2010801679,3300816228#notes:(Throlli’s Wrathborn Hunts) Really good for PVE
+
+
+/*
 Rapid-Fire Frame Grenade Launcher
 */
 
@@ -1456,59 +1530,6 @@ dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:(Throll
 //Blast Battue
 dimwishlist:item=2453357042&perks=3301904089,2284787283,2396489472#notes:(Throlli’s Hunt) Really good for PVE
 dimwishlist:item=2453357042&perks=3301904089,2284787283,3592538738#notes:(Throlli’s Hunt) Really good for PVE
-
-/*
-Lightweight Frame Grenade Launcher
-*/
-
-//Kinetic
-
-//Ignition Code
-dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3301904089,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3301904089,2010801679,1546637391#notes:(Throlli’s Override) Really good for PVE
-dimwishlist:item=304659313&perks=3301904089,2010801679,4104185692#notes:(Throlli’s Override) Really good for PVE
-dimwishlist:item=304659313&perks=3301904089,3436462433,1546637391#notes:(Throlli’s Override) Pretty good for PVE
-dimwishlist:item=304659313&perks=3301904089,3436462433,4104185692#notes:(Throlli’s Override) Pretty good for PVE
-dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3032599245,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
-dimwishlist:item=304659313&perks=3032599245,2010801679,1546637391#notes:(Throlli’s Override) Really good for PVE
-dimwishlist:item=304659313&perks=3032599245,2010801679,4104185692#notes:(Throlli’s Override) Really good for PVE
-dimwishlist:item=304659313&perks=3032599245,3436462433,1546637391#notes:(Throlli’s Override) Pretty good for PVE
-dimwishlist:item=304659313&perks=3032599245,3436462433,4104185692#notes:(Throlli’s Override) Pretty good for PVE
-
-//Void
-
-//Truthteller
-dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417#notes:(Throlli’s World Drops) Pretty good for PVE
-dimwishlist:item=1946491241&perks=3032599245,3300816228,3523296417#notes:(Throlli’s World Drops) Must have for PVE
-
-//Orewing’s Maul
-dimwishlist:item=2108920981&perks=3032599245,3300816228#notes:(Throlli’s Iron Banner) Decent for PVE
-dimwishlist:item=2108920981&perks=3032599245,3523296417#notes:(Throlli’s Iron Banner) Decent for PVE
-
-//Arc
-
-//Salvager’s Salvo
-dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,2396489472#notes:(Throlli’s Rituals) Must have for PVE
-dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,1546637391#notes:(Throlli’s Rituals) Must have for PVE
-
-//Solar
-
-//Empty Vessel
-dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
-dimwishlist:item=4255586669&perks=3301904089,2010801679,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
-dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391#notes:(Throlli’s Vanguard Strikes) Must have for PVE
-
-/*
-Wave Frame Grenade Launcher
-*/
-
-//Void
-
-//Deafening Whisper
-dimwishlist:item=981718087&perks=2010801679,3592538738#notes:(Throlli’s Wrathborn Hunts) Must have for PVE
-
 
 /*
 Aggressive Frame Rocket Launcher
