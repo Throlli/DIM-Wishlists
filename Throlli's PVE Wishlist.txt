@@ -722,21 +722,29 @@ Lightweight Frame Submachine Gun
 //Kinetic
 
 //Escape Velocity
+//Overflow, Vorpal
 dimwishlist:item=1786797708&perks=3643424744,1546637391#notes:(Throlli’s World Drops) Really good for PVE
+//Threat Detector, Surrounded
 dimwishlist:item=1786797708&perks=4071163871,3708227201#notes:(Throlli’s World Drops) Pretty good for PVE
 
 //Multimach CCX
+//Subsistence, One for All
 dimwishlist:item=3717177717&perks=1820235745,4049631843#notes:(Throlli’s Iron Banner) Pretty good for PVE
 
 //Arc
 
 //Stochastic Variable
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=2272470786&perks=2779035018,2458213969
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=2272470786&perks=2779035018,2848615171#notes:(Throlli’s FWC) Mediocre for PVE
 
 //Solar
 
 //Death Adder
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=2742490609&perks=2779035018,2848615171#notes:(Throlli’s Prophecy) Must have for PVE
+//Subsistence, Dragonfly
 dimwishlist:item=2742490609&perks=1820235745,2848615171#notes:(Throlli’s Prophecy) Must have for PVE
 
 /*
@@ -746,27 +754,38 @@ High-Impact Frame Submachine Gun
 //Kinetic
 
 //Cold Front
+//Subsistence, One for All
 dimwishlist:item=1506719573&perks=1820235745,4049631843#notes:(Throlli’s Dawning) Pretty good for PVE
+//Subsistence, Rampage
 dimwishlist:item=1506719573&perks=1820235745,3425386926#notes:(Throlli’s Dawning) Pretty good for PVE
+//Surplus, Rampage
 dimwishlist:item=1506719573&perks=3436462433,3425386926#notes:(Throlli’s Dawning) Pretty good for PVE
+//Surplus, One for All
 dimwishlist:item=1506719573&perks=3436462433,4049631843#notes:(Throlli’s Dawning) Pretty good for PVE
 
 //Extraordinary Rendition
-dimwishlist:item=1097616550&perks=1820235745,4104185692#notes:(Throlli’s Battlegrounds) Must have for PVE
+//Subsistence, Frenzy
+dimwishlist:item=1097616550&perks=1820235745,4104185692#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+//Overflow, Frenzy
 dimwishlist:item=1097616550&perks=3643424744,4104185692#notes:(Throlli’s Battlegrounds) Must have for PVE
+//Subsistence, One for All
 dimwishlist:item=1097616550&perks=1820235745,4049631843#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Subsistence, Rampage
 dimwishlist:item=1097616550&perks=1820235745,3425386926#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Overflow, One for All
 dimwishlist:item=1097616550&perks=3643424744,4049631843#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Overflow, Rampage
 dimwishlist:item=1097616550&perks=3643424744,3425386926#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Outlaw, Multikill Clip
 dimwishlist:item=1097616550&perks=1168162263,2458213969#notes:(Throlli’s Battlegrounds) Really good for PVE
 
 //Arc
 
 //IKELOS_SMG_V1.0.2
+//Threat Detector, Surrouned
 dimwishlist:item=2222560548&perks=4071163871,3708227201#notes:(Throlli’s Contact) Must have for PVE
-dimwishlist:item=2222560548&perks=1820235745,3708227201#notes:(Throlli’s Contact) Must have for PVE
-dimwishlist:item=2222560548&perks=1820235745,1546637391#notes:(Throlli’s Contact) Must have for PVE
-dimwishlist:item=2222560548&perks=1359896290,1546637391#notes:(Throlli’s Contact) Really good for PVE (+ Anti-Barrier Submachine Gun)
+//Dynamic Sway Reduction, Vorpal
+dimwishlist:item=2222560548&perks=1359896290,1546637391#notes:(Throlli’s Contact) Pretty good for PVE (+ Anti-Barrier Submachine Gun)
 
 /*
 Aggressive Frame Submachine Gun
@@ -775,15 +794,25 @@ Aggressive Frame Submachine Gun
 //Solar
 
 //Borrowed Time
+//Fourth Time's the Charm, Frenzy
 dimwishlist:item=875848769&perks=1354429876,4104185692#notes:(Throlli’s Gambit) Must have for PVE
+//Overflow, Frenzy
 dimwishlist:item=875848769&perks=3643424744,4104185692#notes:(Throlli’s Gambit) Must have for PVE
+//Overflow, Dragonfly
 dimwishlist:item=875848769&perks=3643424744,2848615171#notes:(Throlli’s Gambit) Pretty good for PVE
+//Overflow, One for All
 dimwishlist:item=875848769&perks=3643424744,4049631843#notes:(Throlli’s Gambit) Pretty good for PVE
+//Overflow, Rampage
 dimwishlist:item=875848769&perks=3643424744,3425386926#notes:(Throlli’s Gambit) Pretty good for PVE
+//Feeding Frenzy, Dragonfly
 dimwishlist:item=875848769&perks=2779035018,2848615171#notes:(Throlli’s Gambit) Must have for PVE
+//Feeding Frenzy, Frenzy
 dimwishlist:item=875848769&perks=2779035018,4104185692#notes:(Throlli’s Gambit) Pretty good for PVE
+//Feeding Frenzy, One for All
 dimwishlist:item=875848769&perks=2779035018,4049631843#notes:(Throlli’s Gambit) Pretty good for PVE
+//Feeding Frenzy, Rampage
 dimwishlist:item=875848769&perks=2779035018,3425386926#notes:(Throlli’s Gambit) Pretty good for PVE
+//Threat Detector, Surrounded
 dimwishlist:item=875848769&perks=4071163871,3708227201#notes:(Throlli’s Gambit) Really good for PVE
 
 /*
@@ -793,21 +822,28 @@ Precision Frame Submachine Gun
 //Kinetic
 
 //Friction Fire
+//Subsistence, Wellspring
 dimwishlist:item=1513993763&perks=1820235745,3592538738#notes:(Throlli’s Wrathborn Hunts) Really good for PVE
+//Subsistence, Rampage
 dimwishlist:item=1513993763&perks=1820235745,3425386926#notes:(Throlli’s Wrathborn Hunts) Really good for PVE
 
 //Void
 
 //Shayura’s Wrath
+//Tunnel Vision, Kill Clip
 dimwishlist:item=3682803680&perks=2946784966,1015611457#notes:(Throlli’s Trials) Must have for PVE
 //Shayura’s Wrath (Adept)
+//Tunnel Vision, Kill Clip
 dimwishlist:item=4023807721&perks=2946784966,1015611457#notes:(Throlli’s Flawless) Must have for PVE
 
 //Arc
 
 //Seventh Seraph VY-7
+//Ambitious Assassin, Feeding Frenzy
 dimwishlist:item=766323545&perks=2010801679,2779035018#notes:(Throlli’s Worthy) Must have for PVE
+//Fourth Time's the Charm, Dragonfly
 dimwishlist:item=766323545&perks=1354429876,2848615171#notes:(Throlli’s Worthy) Must have for PVE
+//Fourth Time's the Charm, Vorpal Weapon
 dimwishlist:item=766323545&perks=1354429876,1546637391#notes:(Throlli’s Worthy) Must have for PVE
 
 
@@ -818,14 +854,19 @@ Lightweight Frame Bow
 //Kinetic
 
 //Whispering Slab
+//Archer's Tempo, Vorpal Weapon
 dimwishlist:item=211938782&perks=201365942,1546637391#notes:(Throlli’s Contact) Pretty good for PVE
 
 //Void
 
 //Imperial Needle
+//Impulse Amplifier, Wellspring
 dimwishlist:item=3460122497&perks=951095735,3592538738#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+//Rapid Hit, Wellspring
 dimwishlist:item=3460122497&perks=201365942,3592538738#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+//Impulse Amplifier, Frenzy
 dimwishlist:item=3460122497&perks=201365942,4104185692#notes:(Throlli’s Battlegrounds) Pretty good for PVE
+//Rapid Hit, Frenzy
 dimwishlist:item=3460122497&perks=951095735,4104185692#notes:(Throlli’s Battlegrounds) Pretty good for PVE
 
 //Arc
@@ -835,7 +876,9 @@ dimwishlist:item=3460122497&perks=951095735,4104185692#notes:(Throlli’s Battle
 //Solar
 
 //Tyranny of Heaven
+//Rapid Hit, Rampage
 dimwishlist:item=2721249463&perks=201365942,3425386926#notes:(Throlli's Last Wish) Pretty good for PVE
+//Rapid Hit, Explosive Head
 dimwishlist:item=2721249463&perks=201365942,3365897133#notes:(Throlli's Last Wish) Pretty good for PVE
 
 /*
@@ -845,16 +888,21 @@ Precision Frame Bow
 //Kinetic
 
 //Biting Winds
+//Rapid Hit, Explosive Head
 dimwishlist:item=1621657423&perks=247725512,3365897133#notes:(Throlli’s Europa) Pretty good for PVE
 
 //Accrued Redemption
+//Archer's Tempo, Rapid Hit
 dimwishlist:item=4095896073&perks=201365942,247725512#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+//Archer's Tempo, Rampage
 dimwishlist:item=4095896073&perks=201365942,3425386926#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+//Archer's Tempo, Explosive Head
 dimwishlist:item=4095896073&perks=201365942,3365897133#notes:(Throlli's Garden of Salvation) Pretty good for PVE
 
 //Arc
 
 //Point of the Stag
+//Elastic String, Natural Fletching, Archer's Tempo, Vorpal Weapon
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:(Throlli’s Iron Banner Rituals) Pretty good for PVE
 
 
