@@ -1485,19 +1485,27 @@ Rapid-Fire Frame Grenade Launcher
 //Void
 
 //Berenger’s Memory
+//Spike Grenades, Field Prep, Demolitionist
 dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417#notes:(Throlli’s Contact) Pretty good for PVE
+//Spike Grenades, Field Prep, Auto-Loading Holster
 dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228#notes:(Throlli’s Contact) Pretty good for PVE
+//Spike Grenades, Clown Cartridge, Demolitionist
 dimwishlist:item=407621213&perks=3301904089,2284787283,3523296417#notes:(Throlli’s Contact) Pretty good for PVE
+//Spike Grenades, Clown Cartridge, Auto-Loading Holster
 dimwishlist:item=407621213&perks=3301904089,2284787283,3300816228#notes:(Throlli’s Contact) Pretty good for PVE
 
 //Swarm of the Raven
+//Spike Grenades, Field Prep
 dimwishlist:item=1972985595&perks=3301904089,2869569095#notes:(Throlli’s Iron Banner) Pretty good for PVE
+//Spike Grenades, Auto-Loading Holster
 dimwishlist:item=1972985595&perks=3301904089,3300816228#notes:(Throlli’s Iron Banner) Pretty good for PVE
 
 //Solar
 
 //Outrageous Fortune
+//Spike Grenades, Field Prep
 dimwishlist:item=4146702548&perks=3301904089,2869569095#notes:(Throlli’s World Loot) Pretty good for PVE
+//Spike Grenades, Auto-Loading Holster
 dimwishlist:item=4146702548&perks=3301904089,3300816228#notes:(Throlli’s World Loot) Pretty good for PVE
 
 /*
@@ -1507,28 +1515,43 @@ Adaptive Frame Grenade Launcher
 //Void
 
 //Memory Interdict
+//Spike Grenades, Clown Cartridge, Chain Reaction
 dimwishlist:item=3165547384&perks=3301904089,2284787283,2396489472#notes:(Throlli’s FWC) Mediocre for PVE
+//Spike Grenades, Auto-Loading Holster, Chain Reaction
 dimwishlist:item=3165547384&perks=3301904089,3300816228,2396489472#notes:(Throlli’s FWC) Mediocre for PVE
+//Spike Grenades, Impulse Amplifier, Chain Reaction
 dimwishlist:item=3165547384&perks=3301904089,951095735,2396489472#notes:(Throlli’s FWC) Mediocre for PVE
 
 //Crowd Pleaser
+//Spike Grenades, Field Prep, Demolitionist
 dimwishlist:item=3565520715&perks=3301904089,2869569095,3523296417#notes:(Throlli’s Gambit) Pretty good for PVE
+//Spike Grenades, Field Prep, Chain Reaction
 dimwishlist:item=3565520715&perks=3301904089,2869569095,2396489472#notes:(Throlli’s Gambit) Pretty good for PVE
+//Spike Grenades, Clown Cartridge, Demolitionist
 dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417#notes:(Throlli’s Gambit) Pretty good for PVE
+//Spike Grenades, Clown Cartridge, Chain Reaction
 dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472#notes:(Throlli’s Gambit) Pretty good for PVE
 
 //Arc
 
 //Interference VI
+//Spike Grenades, Field Prep, Full Court
 dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110#notes:(Throlli’s World Drops) Really good for PVE
+//Spike Grenades, Auto-Loading Holster, Full Court
 dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110#notes:(Throlli’s World Drops) Really good for PVE
+//Spike Grenades, Clown Cartridge, Full Court
 dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110#notes:(Throlli’s World Drops) Really good for PVE
+//Spike Grenades, Field Prep, Demolitionist
 dimwishlist:item=2257180473&perks=3301904089,2869569095,3523296417#notes:(Throlli’s World Drops) Really good for PVE
+//Spike Grenades, Auto-Loading Holster, Demolitionist
 dimwishlist:item=2257180473&perks=3301904089,3300816228,3523296417#notes:(Throlli’s World Drops) Really good for PVE
+//Spike Grenades, Grave Robber, Swashbuckler
 dimwishlist:item=2257180473&perks=3301904089,1631667848,4082225868#notes:(Throlli’s World Drops) Situationally good for PVE
 
 //Blast Battue
+//Spike Grenades, Clown Cartridge, Chain Reaction
 dimwishlist:item=2453357042&perks=3301904089,2284787283,2396489472#notes:(Throlli’s Hunt) Really good for PVE
+//Spike Grenades, Clown Cartridge, Wellspring
 dimwishlist:item=2453357042&perks=3301904089,2284787283,3592538738#notes:(Throlli’s Hunt) Really good for PVE
 
 /*
@@ -1539,29 +1562,46 @@ Aggressive Frame Rocket Launcher
 //Void
 
 //Bad Omens
+//Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=991314988&perks=3300816228,1275731761#notes:(Throlli’s Menagerie) Really good for PVE
+//Volatile Launch, Impact Casing, Tracking Module, Cluster Bomb
 dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761#notes:(Throlli’s Drifter) Pretty good for PVE
 
 //Arc
 
 //Heretic
+//Impact Casing, Field Prep, Lasting Impressions
 dimwishlist:item=3067821200&perks=3796465595,2869569095,3927722942#notes:(Throlli's Altars of Sorrow) Pretty good for PVE
+//Impact Casing, Field Prep, Cluster Bomb
+dimwishlist:item=3067821200&perks=3796465595,2869569095,1275731761#notes:(Throlli's Altars of Sorrow) Pretty good for PVE
 
 //Solar
 
 //Hezen Vengeance
+//Impact Casing, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=4050645223&perks=3796465595,3300816228,1546637391#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Lasting Impressions
 dimwishlist:item=4050645223&perks=3796465595,3300816228,3927722942#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=4050645223&perks=3796465595,3300816228,1275731761#notes:(Throlli's Vault of Glass) Really good for PVE
+//Impact Casing, Overflow, Vorpal Weapon
 dimwishlist:item=4050645223&perks=3796465595,3643424744,1546637391#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Overflow, Lasting Impressions
 dimwishlist:item=4050645223&perks=3796465595,3643424744,3927722942#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Overflow, Cluster Bomb
 dimwishlist:item=4050645223&perks=3796465595,3643424744,1275731761#notes:(Throlli's Vault of Glass) Really good for PVE
 //Hezen Vengeance (Timelost)
+//Impact Casing, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=1921159786&perks=3796465595,3300816228,1546637391#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Lasting Impressions
 dimwishlist:item=1921159786&perks=3796465595,3300816228,3927722942#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=1921159786&perks=3796465595,3300816228,1275731761#notes:(Throlli's Vault of Glass) Really good for PVE
+//Impact Casing, Overflow, Vorpal Weapon
 dimwishlist:item=1921159786&perks=3796465595,3643424744,1546637391#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Overflow, Lasting Impressions
 dimwishlist:item=1921159786&perks=3796465595,3643424744,3927722942#notes:(Throlli's Vault of Glass) Must have for PVE
+//Impact Casing, Overflow, Cluster Bomb
 dimwishlist:item=1921159786&perks=3796465595,3643424744,1275731761#notes:(Throlli's Vault of Glass) Really good for PVE
 
 /*
@@ -1571,19 +1611,27 @@ Adaptive Frame Rocket Launcher
 //Arc
 
 //Shining Sphere
+//Impact Casing, Field Prep, Tracking Module
 dimwishlist:item=136525518&perks=3796465595,2869569095,3977735242#notes:(Throlli’s Iron Banner) Decent for PVE
+//Impact Casing, Field Prep, Ambitious Assassin
 dimwishlist:item=136525518&perks=3796465595,2869569095,3523296417#notes:(Throlli’s Iron Banner) Decent for PVE
+//Impact Casing, Field Prep, Demolitionist
 dimwishlist:item=136525518&perks=3796465595,2869569095,2010801679#notes:(Throlli’s Iron Banner) Decent for PVE
+//Impact Casing, Auto-Loading Holster, Tracking Module
 dimwishlist:item=136525518&perks=3796465595,3300816228,3977735242#notes:(Throlli’s Iron Banner) Decent for PVE
+//Impact Casing, Auto-Loading holster, Demolitionist
 dimwishlist:item=136525518&perks=3796465595,3300816228,3523296417#notes:(Throlli’s Iron Banner) Decent for PVE
 
 //Hoosegow
+//Impact Casing, Field Prep, Cluster Bomb
 dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Prophecy) Pretty good for PVE
 
 //Solar
 
 //Apex Predator
+//Impact Casing, Tracking Module, Auto-Loading Holster
 dimwishlist:item=2545083870&perks=3796465595,3977735242,3300816228#notes:(Throlli's Last Wish) Decent for PVE
 
 /*
@@ -1593,48 +1641,70 @@ Precision Frame Rocket Launcher
 //Void
 
 //Royal Entry
+//Impact Casing, Auto-Loading Holster, Lasting Impressions
 dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942#notes:(Throlli’s Vanguard Strikes) Absolute must have for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=2448907086&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+//Impact Casing, Field Prep, Lasting Impressions
 dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942#notes:(Throlli’s Vanguard Strikes) Must have for PVE
+//Impact Casing, Field Prep, Cluster Bomb
 dimwishlist:item=2448907086&perks=3796465595,2869569095,1275731761#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+//Impact Casing, Field Prep, Clown Cartridge
 dimwishlist:item=2448907086&perks=3796465595,2869569095,2284787283#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+//Impact Casing, Impulse Amplifier, Lasting Impressions
 dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942#notes:(Throlli’s Vanguard Strikes) Really good for PVE
+//Impact Casing, Impulse Amplifier, Cluster Bomb
 dimwishlist:item=2448907086&perks=3796465595,951095735,1275731761#notes:(Throlli’s Vanguard Strikes) Pretty good for PVE
+//Impact Casing, Impulse Amplifier, Clown Cartridge
 dimwishlist:item=2448907086&perks=3796465595,951095735,2284787283#notes:(Throlli’s Vanguard Strikes) Really good for PVE
 
 //Arc
 
 //Subzero Salvo
+//Impact Casing, Ambitious Assassin, Chain Reaction
 dimwishlist:item=42351395&perks=3796465595,2010801679,2396489472#notes:(Throlli’s Europa) Pretty good for PVE
+//Impact Casing, Ambitious Assassin, Cluster Bomb
 dimwishlist:item=42351395&perks=3796465595,2010801679,1275731761#notes:(Throlli’s Europa) Pretty good for PVE
 
 /*
-High-Impact Reserves
+High-Impact Frame Rocket Launcher
 */
 
 //Void
 
 //Tomorrow’s Answer
+//Impact Casing, Auto-Loading Holster, Lasting Impressions
 dimwishlist:item=958384347&perks=3796465595,3300816228,3927722942#notes:(Throlli’s Trials) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=958384347&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Trials) Really good for PVE
 //Tomorrow’s Answer (Adept)
+//Impact Casing, Auto-Loading Holster, Lasting Impressions
 dimwishlist:item=1366917989&perks=3796465595,3300816228,3927722942#notes:(Throlli’s Flawless) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=1366917989&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Flawless) Really good for PVE
 
 //Arc
 
 //Sleepless
+//Impact Casing, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=3740842661&perks=3796465595,3300816228,1546637391#notes:(Throlli’s Dreaming City) Really good for PVE
+//Impact Casing, Field Prep, Vorpal Weapon
 dimwishlist:item=3740842661&perks=3796465595,2869569095,1546637391#notes:(Throlli’s Dreaming City) Really good for PVE
 
 //Solar
 
 //Code Duello
+//Impact Casing, Field Prep, Lasting Impressions
 dimwishlist:item=2496242052&perks=3796465595,2869569095,3927722942#notes:(Throlli’s Battlegrounds) Must have for PVE
+//Impact Casing, Field Prep, Cluster Bomb
 dimwishlist:item=2496242052&perks=3796465595,2869569095,1275731761#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Impact Casing, Field Prep, Frenzy
 dimwishlist:item=2496242052&perks=3796465595,2869569095,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Impact Casing, Auto-Loading Holster, Lasting Impressions
 dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942#notes:(Throlli’s Battlegrounds) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=2496242052&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Battlegrounds) Really good for PVE
+//Impact Casing, Auto-Loading holster, Frenzy
 dimwishlist:item=2496242052&perks=3796465595,3300816228,4104185692#notes:(Throlli’s Battlegrounds) Really good for PVE
 
 
@@ -1645,12 +1715,22 @@ Precision Frame Linear Fusion Rifle
 //Void
 
 //Threaded Needle
+//Clown Cartridge, Vorpal Weapon
 dimwishlist:item=3075224551&perks=2284787283,1546637391#notes:(Throlli’s Chosen) Really good for PVE
-dimwishlist:item=3075224551&perks=2284787283,4104185692#notes:(Throlli’s Chosen) Really good for PVEnatio
+//Clown Cartridge, Frenzy
+dimwishlist:item=3075224551&perks=2284787283,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+//Rapid Hit, Vorpal Weapon
 dimwishlist:item=3075224551&perks=247725512,1546637391#notes:(Throlli’s Chosen) Really good for PVE
+//Rapid Hit, Frenzy
 dimwishlist:item=3075224551&perks=247725512,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+//Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=3075224551&perks=3300816228,1546637391#notes:(Throlli’s Chosen) Really good for PVE
+//Auto-Loading Holster, Frenzy
 dimwishlist:item=3075224551&perks=3300816228,4104185692#notes:(Throlli’s Chosen) Really good for PVE
+//Field Prep, Vorpal Weapon
+dimwishlist:item=3075224551&perks=2869569095,1546637391#notes:(Throlli’s Chosen) Really good for PVE
+//Field Prep, Frenzy
+dimwishlist:item=3075224551&perks=2869569095,1546637391#notes:(Throlli’s Chosen) Really good for PVE
 
 //Arc
 
