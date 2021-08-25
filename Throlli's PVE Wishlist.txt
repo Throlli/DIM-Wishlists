@@ -1749,6 +1749,14 @@ dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:(Throll
 //Spike Grenades, Grave Robber, Swashbuckler
 dimwishlist:item=3690523502&perks=3301904089,1631667848,4082225868#notes:(Throlli’s Cryptoglyph) Situationally good for PVE
 
+//Canis Major
+//Spike Grenades, Field Prep, Vorpal Weapon
+dimwishlist:item=2066434718&perks=3301904089,2869569095,1546637391#notes:(Throlli’s Astral Alignment) Really good for PVE
+//Spike Grenade, Clown Cartridge, Vorpal Weapon
+dimwishlist:item=2066434718&perks=3301904089,2284787283,1546637391#notes:(Throlli’s Astral Alignment) Really good for PVE
+//Spike Grenade, Impulse Amplifier, Vorpal Weapon
+dimwishlist:item=2066434718&perks=3301904089,951095735,1546637391#notes:(Throlli’s Astral Alignment) Really good for PVE
+
 /*
 Adaptive Frame Grenade Launcher
 */
@@ -1869,6 +1877,21 @@ dimwishlist:item=3669616453&perks=3796465595,2869569095,1275731761#notes:(Throll
 //Impact Casing, Auto-Loading Holster, Cluster Bomb
 dimwishlist:item=3669616453&perks=3796465595,3300816228,1275731761#notes:(Throlli’s Prophecy) Pretty good for PVE
 
+//The Hothead
+//Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=4255171531&perks=3796465595,2869569095,2284787283#notes:(Throlli’s Nightfalls) Pretty good for PVE
+//Impact Casing, Field Prep, Vorpal Weapon
+dimwishlist:item=4255171531&perks=3796465595,2869569095,1546637391#notes:(Throlli’s Nightfalls) Pretty good for PVE
+//Impact Casing, Field Prep, Explosive Light
+dimwishlist:item=4255171531&perks=3796465595,2869569095,3194351027#notes:(Throlli’s Nightfalls) Pretty good for PVE
+//The Hothead (Adept)
+//Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=1866778462&perks=3796465595,2869569095,2284787283#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Impact Casing, Field Prep, Vorpal Weapon
+dimwishlist:item=1866778462&perks=3796465595,2869569095,1546637391#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Impact Casing, Field Prep, Explosive Light
+dimwishlist:item=1866778462&perks=3796465595,2869569095,3194351027#notes:(Throlli’s Grandmasters) Pretty good for PVE
+
 //Solar
 
 //Apex Predator
@@ -1906,6 +1929,18 @@ dimwishlist:item=2448907086&perks=3796465595,951095735,2284787283#notes:(Throlli
 dimwishlist:item=42351395&perks=3796465595,2010801679,2396489472#notes:(Throlli’s Europa) Pretty good for PVE
 //Impact Casing, Ambitious Assassin, Cluster Bomb
 dimwishlist:item=42351395&perks=3796465595,2010801679,1275731761#notes:(Throlli’s Europa) Pretty good for PVE
+
+//Solar
+
+//Ascendancy
+//Quick Launch, Impact Casing, Impulse Amplifier, Explosive Light
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027#notes:(Throlli’s Ritual) Pretty good for PVE
+//Quick Launch, Impact Casing, Impulse Amplifier, Chain Reaction
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472#notes:(Throlli’s Ritual) Pretty good for PVE
+//Quick Launch, Impact Casing, Ambitious Assassin, Explosive Light
+dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,3194351027#notes:(Throlli’s Ritual) Pretty good for PVE
+//Quick Launch, Impact Casing, Ambitious Assassun, Chain Reaction
+dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,2396489472#notes:(Throlli’s Ritual) Pretty good for PVE
 
 /*
 High-Impact Frame Rocket Launcher
@@ -1952,6 +1987,19 @@ dimwishlist:item=2496242052&perks=3796465595,3300816228,4104185692#notes:(Throll
 /*
 Precision Frame Linear Fusion Rifle
 */
+
+//Stasis
+
+//Reed's Regret
+//Triple Tap, Firing Line
+dimwishlist:item=1399243961&perks=3400784728,1771339417#notes:(Throlli’s Trials) Really good for PVE
+//Triple Tap, Vorpal Weapon
+dimwishlist:item=1399243961&perks=3400784728,1546637391#notes:(Throlli’s Trials) Really good for PVE
+//Reed's Regret (Adept)
+//Triple Tap, Firing Line
+dimwishlist:item=2475355656&perks=3400784728,1771339417#notes:(Throlli’s Flawless) Really good for PVE
+//Triple Tap, Vorpal Weapon
+dimwishlist:item=2475355656&perks=3400784728,1546637391#notes:(Throlli’s Flawless) Really good for PVE
 
 //Void
 
