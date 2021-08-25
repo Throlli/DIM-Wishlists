@@ -59,8 +59,10 @@ dimwishlist:item=821154603&perks=1820235745,3523296417#notes:(Throlli’s Recast
 //Arc
 
 //Arc Logic
-//Frenzy
-dimwishlist:item=2723909519&perks=4104185692#notes:(Throlli's Cryptoglyph) Pretty good for PVE
+//Overflow, Frenzy
+dimwishlist:item=2723909519&perks=3643424744,4104185692#notes:(Throlli's Cryptoglyph) Pretty good for PVE
+//Subsistence, Frenzy
+dimwishlist:item=2723909519&perks=1820235745,4104185692#notes:(Throlli's Cryptoglyph) Pretty good for PVE
 
 //Solar
 
@@ -496,6 +498,8 @@ dimwishlist:item=3658188704&perks=247725512,4049631843#notes:(Throlli’s Trials
 dimwishlist:item=3658188704&perks=247725512,3047969693#notes:(Throlli’s Trials) Must have for PVE
 //Rapid Hit, Kill Clip
 dimwishlist:item=3658188704&perks=247725512,1015611457#notes:(Throlli’s Trials) Really good for PVE
+//Rapid Hit, Frenzy
+dimwishlist:item=3658188704&perks=247725512,4104185692#notes:(Throlli’s Trials) Really good for PVE
 //Outlaw, Desperado
 dimwishlist:item=3658188704&perks=1168162263,3047969693#notes:(Throlli’s Trials) Really good for PVE
 //The Messenger (Adept)
@@ -505,6 +509,8 @@ dimwishlist:item=1173780905&perks=247725512,4049631843#notes:(Throlli’s Flawle
 dimwishlist:item=1173780905&perks=247725512,3047969693#notes:(Throlli’s Flawless) Must have for PVE
 //Rapid Hit, Kill Clip
 dimwishlist:item=1173780905&perks=247725512,1015611457#notes:(Throlli’s Flawless) Really good for PVE
+//Rapid Hit, Frenzy
+dimwishlist:item=1173780905&perks=247725512,4104185692#notes:(Throlli’s Flawless) Really good for PVE
 //Outlaw, Desperado
 dimwishlist:item=1173780905&perks=1168162263,3047969693#notes:(Throlli’s Flawless) Really good for PVE
 
@@ -939,8 +945,13 @@ Rapid-Fire Frame Shotgun
 //One Small Step
 //Dual Loader, Trench Barrel
 dimwishlist:item=1016668089&perks=25606670,2360754333#notes:(Throlli’s Cryptoglyph) Decent for PVE
-//Feeding Frenzy, Trench Barrel
-dimwishlist:item=1016668089&perks=2779035018,2360754333#notes:(Throlli’s Cryptoglyph) Decent for PVE
+//Dual Loader, One-Two Punch
+dimwishlist:item=1016668089&perks=25606670,2679249093#notes:(Throlli’s Cryptoglyph) Decent for PVE
+//Auto-Loading Holster, One-Two Punch
+dimwishlist:item=1016668089&perks=3300816228,2679249093#notes:(Throlli’s Cryptoglyph) Decent for PVE
+//Auto-Loading Holster, Trench Barrel
+dimwishlist:item=1016668089&perks=3300816228,2360754333#notes:(Throlli’s Cryptoglyph) Decent for PVE
+
 
 //Void
 
@@ -1233,12 +1244,18 @@ dimwishlist:item=3745990145&perks=2420895100,2869569095,3400784728#notes:(Throll
 //Eye of Sol (Adept)
 
 //Tranquility
-//Appended Mag, Frenzy
-dimwishlist:item=1645386487&perks=1087426260,4104185692#notes:(Throlli’s Cryptoglyph) Really good for PVE
-//Tactical Mag, Frenzy
-dimwishlist:item=1645386487&perks=106909392,4104185692#notes:(Throlli’s Cryptoglyph) Really good for PVE
-//Extended Mag, Frenzy
-dimwishlist:item=1645386487&perks=2420895100,4104185692#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=1645386487&perks=1087426260,3300816228,4104185692#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=1645386487&perks=106909392,3300816228,4104185692#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=1645386487&perks=2420895100,3300816228,4104185692#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=1087426260,3300816228,1771339417#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=106909392,3300816228,1771339417#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=2420895100,3300816228,1771339417#notes:(Throlli’s Cryptoglyph) Really good for PVE
 
 //Arc
 
@@ -1553,6 +1570,14 @@ dimwishlist:item=4146702548&perks=3301904089,3300816228#notes:(Throlli’s World
 dimwishlist:item=3690523502&perks=3301904089,2284787283,3523296417#notes:(Throlli’s Cryptoglyph) Pretty good for PVE
 //Spike Grenades, Auto-Loading Holster, Demolitionist
 dimwishlist:item=3690523502&perks=3301904089,3300816228,3523296417#notes:(Throlli’s Cryptoglyph) Pretty good for PVE
+//Spike Grenades, Field Prep, Demolitionist
+dimwishlist:item=3690523502&perks=3301904089,2869569095,3523296417#notes:(Throlli’s Cryptoglyph) Pretty good for PVE
+//Spike Grenades, Clown Cartridge, Full Court
+dimwishlist:item=3690523502&perks=3301904089,2284787283,2888557110#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Spike Grenades, Auto-Loading Holster, Full Court
+dimwishlist:item=3690523502&perks=3301904089,3300816228,2888557110#notes:(Throlli’s Cryptoglyph) Really good for PVE
+//Spike Grenades, Field Prep, Full Court
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110#notes:(Throlli’s Cryptoglyph) Really good for PVE
 //Spike Grenades, Grave Robber, Swashbuckler
 dimwishlist:item=3690523502&perks=3301904089,1631667848,4082225868#notes:(Throlli’s Cryptoglyph) Situationally good for PVE
 
@@ -1977,12 +2002,16 @@ dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201#not
 dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,1546637391#notes:(Throlli's Cryptoglyph) Situationally good in PVE
 //Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
 dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli's Cryptoglyph) Situationally good in PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli's Cryptoglyph) Pretty good for PVE
 
 //Solar
 
 //Negative Space
 
 //Abide the Return
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli's Dreaming City) Pretty good for PVE
 
 /*
 Vortex Frame Sword
