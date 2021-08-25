@@ -1165,6 +1165,12 @@ dimwishlist:item=599895591&perks=2420895100,3300816228,4104185692#notes:(Throlli
 Precision Frame Shotgun
 */
 
+//Stasis
+
+//Fractethyst
+//Assault Mag, Dual Loader, Trench Barrel
+dimwishlist:item=3184681056&perks=791862061,25606670,2360754333#notes:(Throlli’s Astral Alignment) Pretty good for PVE
+
 //Void
 
 //Retold Tale
@@ -1204,6 +1210,19 @@ dimwishlist:item=532746994&perks=791862061,3300816228,2360754333#notes:(Throlli�
 
 //Toil and Trouble
 
+//Void
+
+//The Comedian
+//Assault Mag, Bottomless Grief, Trench Barrel
+dimwishlist:item=1028582252&perks=791862061,4252909580,2360754333#notes:(Throlli’s Nightfalls) Pretty good for PVE
+//Assault Mag, Bottomless Grief, Vorpal Weapon
+dimwishlist:item=1028582252&perks=791862061,4252909580,1546637391#notes:(Throlli’s Nightfalls) Pretty good for PVE
+//The Comedian (Adept)
+//Assault Mag, Bottomless Grief, Trench Barrel
+dimwishlist:item=2443900757&perks=791862061,4252909580,2360754333#notes:(Throlli’s Grandmasters) Pretty good for PVE
+//Assault Mag, Bottomless Grief, Vorpal Weapon
+dimwishlist:item=2443900757&perks=791862061,4252909580,1546637391#notes:(Throlli’s Grandmasters) Pretty good for PVE
+
 //Arc
 
 //Found Verdict
@@ -1232,6 +1251,26 @@ dimwishlist:item=631439337&perks=791862061,3300816228,4104185692#notes:(Throlli'
 dimwishlist:item=631439337&perks=791862061,3418782618,1546637391#notes:(Throlli's Vault of Glass) Pretty good for PVE
 //Assault Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=631439337&perks=791862061,3300816228,1546637391#notes:(Throlli's Vault of Glass) Pretty good for PVE
+
+//A Sudden Death
+//Field Prep, One-Two Punch
+dimwishlist:item=2855157553&perks=2869569095,2679249093#notes:(Throlli's Prophecy) Pretty good for PVE
+//Slideshot, One-Two Punch
+dimwishlist:item=2855157553&perks=3161816588,2679249093#notes:(Throlli's Prophecy) Pretty good for PVE
+//Grave Robber, One-Two Punch
+dimwishlist:item=2855157553&perks=1631667848,2679249093#notes:(Throlli's Prophecy) Pretty good for PVE
+//Assault Mag, Field Prep, Frenzy
+dimwishlist:item=2855157553&perks=791862061,2869569095,4104185692#notes:(Throlli's Prophecy) Pretty good for PVE
+//Assault Mag, Slideshot, Frenzy
+dimwishlist:item=2855157553&perks=791862061,3161816588,4104185692#notes:(Throlli's Prophecy) Pretty good for PVE
+//Assault Mag, Grave Robber, Frenzy
+dimwishlist:item=2855157553&perks=791862061,1631667848,4104185692#notes:(Throlli's Prophecy) Pretty good for PVE
+//Assault Mag, Field Prep, Surrounded
+dimwishlist:item=2855157553&perks=791862061,2869569095,3708227201#notes:(Throlli's Prophecy) Pretty good for PVE
+//Assault Mag, Slideshot, Surrounded
+dimwishlist:item=2855157553&perks=791862061,3161816588,3708227201#notes:(Throlli's Prophecy) Pretty good for PVE
+//Assault Mag, Grave Robber, Surrounded
+dimwishlist:item=2855157553&perks=791862061,1631667848,3708227201#notes:(Throlli's Prophecy) Pretty good for PVE
 
 /*
 Shot Package Shotgun
@@ -1347,6 +1386,20 @@ dimwishlist:item=1645386487&perks=1087426260,3300816228,1771339417#notes:(Throll
 dimwishlist:item=1645386487&perks=106909392,3300816228,1771339417#notes:(Throlli’s Cryptoglyph) Really good for PVE
 //Extended Mag, Auto-Loading Holster, Firing Line
 dimwishlist:item=1645386487&perks=2420895100,3300816228,1771339417#notes:(Throlli’s Cryptoglyph) Really good for PVE
+
+//Shepherd's Watch
+//Appended Mag, Frenzy
+dimwishlist:item=3743729616&perks=1087426260,4104185692#notes:(Throlli’s World Loot) Really good for PVE
+//Tactical Mag, Frenzy
+dimwishlist:item=3743729616&perks=106909392,4104185692#notes:(Throlli’s World Loot) Really good for PVE
+//Extended Mag, Frenzy
+dimwishlist:item=3743729616&perks=2420895100,4104185692#notes:(Throlli’s World Loot) Really good for PVE
+//Appended Mag, Firing Line
+dimwishlist:item=3743729616&perks=1087426260,1771339417#notes:(Throlli’s World Loot) Really good for PVE
+//Tactical Mag, Firing Line
+dimwishlist:item=3743729616&perks=106909392,1771339417#notes:(Throlli’s World Loot) Really good for PVE
+//Extended Mag, Firing Line
+dimwishlist:item=3743729616&perks=2420895100,1771339417#notes:(Throlli’s World Loot) Really good for PVE
 
 //Arc
 
@@ -1477,6 +1530,26 @@ dimwishlist:item=852551895&perks=2420895100,3300816228,1546637391#notes:(Throlli
 //Appended Mag, Auto-Loading Holster, Vorpal Weapon
 dimwishlist:item=852551895&perks=1087426260,3300816228,1546637391#notes:(Throlli’s Iron Banner) Really good for PVE (- Hubble space telescope)
 
+//Solar
+
+//The Long Walk
+//Appended Mag, Clown Cartridge, Frenzy
+dimwishlist:item=3326850591&perks=1087426260,2284787283,4104185692#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Extended Mag, Clown Cartridge, Frenzy
+dimwishlist:item=3326850591&perks=2420895100,2284787283,4104185692#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Appended Mag, Overflow, Frenzy
+dimwishlist:item=3326850591&perks=1087426260,3643424744,4104185692#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Extended Mag, Overflow, Frenzy
+dimwishlist:item=3326850591&perks=2420895100,3643424744,4104185692#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Appended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=3326850591&perks=1087426260,2284787283,1771339417#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Extended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=3326850591&perks=2420895100,2284787283,1771339417#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Appended Mag, Overflow, Firing Line
+dimwishlist:item=3326850591&perks=1087426260,3643424744,1771339417#notes:(Throlli’s Prophecy) Pretty good for PVE
+//Extended Mag, Overflow, Firing Line
+dimwishlist:item=3326850591&perks=2420895100,3643424744,1771339417#notes:(Throlli’s Prophecy) Pretty good for PVE
+
 /*
 Rapid-Fire Frame Fusion Rifle
 */
@@ -1552,6 +1625,10 @@ High-Impact Frame Fusion Rifle
 
 //Exile’s Curse
 //Exile’s Curse (Adept)
+
+//Solar
+
+//Iota Draconis
 
 
 /*
