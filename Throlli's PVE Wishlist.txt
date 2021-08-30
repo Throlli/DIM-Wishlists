@@ -1025,7 +1025,10 @@ dimwishlist:item=4095896073&perks=201365942,3365897133#notes:(Throlli's Garden o
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:(Throlli’s Iron Banner Rituals) Pretty good for PVE
 
 //Wolftone Draw
+//Archer's Tempo, Frenzy
 dimwishlist:item=3472875143&perks=201365942,4104185692#notes:(Throlli’s Astral Alignment) Really good for PVE
+//Shoot to Loot, Frenzy
+dimwishlist:item=3472875143&perks=3700496672,4104185692#notes:(Throlli’s Astral Alignment) Really good for PVE
 
 /*
 Rapid-Fire Frame Shotgun
