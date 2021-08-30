@@ -2305,6 +2305,9 @@ dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#not
 //Xenophage
 dimwishlist:item=1395261499&perks=202670084,1561002382,2846385770,3465198467#notes:(Throlli's Pit of Heresy) Must have
 
+//Lorentz Driver
+dimwishlist:item=3761898871&perks=839105230,2680121939,1690446783,3465198467#notes:(Throlli's Lost) Decent
+
 //Cryosthesia 77k
 dimwishlist:item=603721696&perks=603721696,3868766766,1385518514,862848869#notes:(Throlli's Splicer) Must have for farming Stasis final blows Catalyst: Really good
 
