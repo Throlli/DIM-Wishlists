@@ -275,6 +275,15 @@ dimwishlist:item=2742838701&perks=3643424744,4082225868#notes:(Throlli’s World
 //Demolitionist, Timed Payload
 dimwishlist:item=1476654960&perks=3523296417,1954620775#notes:(Throlli’s Prophecy) Pretty good for PVE (+ Disruption Hand Cannon)
 
+//Stasis
+
+//Eyasluna
+//Rapid Hit, Headstone
+dimwishlist:item=235827225&perks=247725512,124408337#notes:(Throlli’s Grasp of Avarice) Really good for PVE (+ Stasis Synergy)
+//Outlaw, Headstone
+dimwishlist:item=235827225&perks=1168162263,124408337#notes:(Throlli’s Grasp of Avarice) Really good for PVE (+ Stasis Synergy)
+
+
 //Void
 
 //Palindrome
@@ -485,6 +494,20 @@ Aggressive Burst Pulse Rifle
 //Sacred Provenance
 //Rapid Hit, Kill Clip
 dimwishlist:item=2408405461&perks=247725512,1015611457#notes:(Throlli's Garden of Salvation) Pretty good for PVE
+
+/*
+Legacy PR-55 Frame
+*/
+
+//Solar
+
+//BxR-55 Battler
+//Outlaw, Kill Clip
+dimwishlist:item=2708806099&perks=1168162263,1015611457#notes:(Throlli's Dares of Eternity) Pretty good for PVE
+//Demolitionist, Adrenaline Junkie
+dimwishlist:item=2708806099&perks=3523296417,11612903#notes:(Throlli's Dares of Eternity) Pretty good for PVE
+
+
 
 /*
 Adaptive Frame Pulse Rifle
@@ -727,6 +750,8 @@ dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:(Throlli’s Europ
 dimwishlist:item=829330711&perks=1820235745,3523296417#notes:(Throlli’s Iron Banner) Really good for PVE
 //Subsistence, Headstone
 dimwishlist:item=829330711&perks=1820235745,124408337#notes:(Throlli’s Iron Bannner) Really good for PVE (+ Stasis Synergy)
+//Headstone
+dimwishlist:item=829330711&perks=124408337#notes:(Throlli’s Iron Bannner) Pretty good for PVE (+ Stasis Synergy)
 
 /*
 Omolon Adaptive Frame Sidearm
@@ -1075,6 +1100,12 @@ Lightweight Frame Shotgun
 
 //Riiswalker
 
+//Wastelander M5
+//One-Two Punch
+dimwishlist:item=1679868061&perks=2679249093#notes:(Throlli’s Dares of Eternity) Decent for PVE
+//Assault Mag, Dual Loader, Trench Barrel
+dimwishlist:item=1679868061&perks=791862061,25606670,2360754333#notes:(Throlli’s Dares of Eternity) Decent for PVE
+
 //Void
 
 //Retrofuturist
@@ -1189,6 +1220,10 @@ dimwishlist:item=346136302&perks=791862061,25606670,1546637391#notes:(Throlli’
 //Prophet of Doom
 //One-Two Punch
 dimwishlist:item=4020742303&perks=2679249093#notes:(Throlli's Garden of Salvation) Decent for PVE
+
+//Matador 64
+//Assault Mag, Threat Detector, Golden Tricorn
+dimwishlist:item=2563012876&perks=791862061,4071163871,2610012052#notes:(Throlli's Grasp of Avarice) Decent for PVE
 
 //Solar
 
@@ -1403,6 +1438,10 @@ dimwishlist:item=3743729616&perks=1087426260,1771339417#notes:(Throlli’s World
 dimwishlist:item=3743729616&perks=106909392,1771339417#notes:(Throlli’s World Loot) Really good for PVE
 //Extended Mag, Firing Line
 dimwishlist:item=3743729616&perks=2420895100,1771339417#notes:(Throlli’s World Loot) Really good for PVE
+
+//Void
+
+//1000 Yard Stare
 
 //Arc
 
@@ -1635,6 +1674,27 @@ High-Impact Frame Fusion Rifle
 
 
 /*
+Adaptive Frame Trace Rifle
+*/
+
+//Solar
+
+//Retraced Path
+//Shoot to Loot, One for All
+dimwishlist:item=548958835&perks=3700496672,4049631843#notes:(Throlli’s Dares of Eternity) Really good for PVE
+//Shoot to Loot, Golden Tricorn
+dimwishlist:item=548958835&perks=3700496672,2610012052#notes:(Throlli’s Dares of Eternity) Really good for PVE
+//Shoot to Loot, Frenzy
+dimwishlist:item=548958835&perks=3700496672,4104185692#notes:(Throlli’s Dares of Eternity) Really good for PVE
+//Subsistence, One for All
+dimwishlist:item=548958835&perks=1820235745,4049631843#notes:(Throlli’s Dares of Eternity) Really good for PVE
+//Subsistence, Golden Tricorn
+dimwishlist:item=548958835&perks=1820235745,2610012052#notes:(Throlli’s Dares of Eternity) Really good for PVE
+//Subsistence, Frenzy
+dimwishlist:item=548958835&perks=1820235745,4104185692#notes:(Throlli’s Dares of Eternity) Really good for PVE
+
+
+/*
 Lightweight Frame Grenade Launcher
 */
 
@@ -1652,6 +1712,15 @@ dimwishlist:item=304659313&perks=3032599245,3161816588,1546637391#notes:(Throlli
 //Blinding Grenades, Slideshot, Frenzy
 dimwishlist:item=304659313&perks=3032599245,3161816588,4104185692#notes:(Throlli’s Override) Must have for PVE
 
+//Pardon our Dust
+//Spike Grenades, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3849810018&perks=3301904089,3300816228,1546637391#notes:(Throlli’s Dares of Eternity) Really good for PVE
+//Blinding Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417#notes:(Throlli’s Dares of Eternity) Must have for PVE
+//Blinding Grenades, Auto-Loading Holster, Danger Zone
+dimwishlist:item=3849810018&perks=3032599245,3300816228,960810156#notes:(Throlli’s Dares of Eternity) Must have for PVE
+//Blinding Grenades, Auto-Loading Holster, Wellspring
+dimwishlist:item=3849810018&perks=3032599245,3300816228,3592538738#notes:(Throlli’s Dares of Eternity) Must have for PVE
 
 //Void
 
@@ -2199,10 +2268,21 @@ Adaptive Frame Sword
 
 //Void
 
-
 //Steel Sybil Z-14
 //Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
 dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli’s Crucible) Really good for PVE
+
+//The Other Half
+//Eager Edge
+dimwishlist:item=3257091167&perks=2077819806#notes:(Throlli’s Dares of Eternity) Must have for movement
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli’s Dares of Eternity) Really good
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli’s Dares of Eternity) Situationally good for PVE
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Vorpal Weapon
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,1546637391#notes:(Throlli’s Dares of Eternity) Pretty good
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Frenzy
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,4104185692#notes:(Throlli’s Dares of Eternity) Pretty good
 
 //Arc
 
@@ -2224,6 +2304,10 @@ dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3708227201#not
 //Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
 dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli's Cryptoglyph) Pretty good for PVE
 
+//Half-Truths
+//Eager Edge
+dimwishlist:item=3257091166&perks=2077819806#notes:(Throlli’s Dares of Eternity) Must have for movement
+
 //Solar
 
 //Negative Space
@@ -2243,6 +2327,17 @@ Vortex Frame Sword
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli’s Arrivals) Must have for PVE
 //Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli’s Arrivals) Situationally good for PVE
+
+//Arc
+
+//Hero of Ages
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, One for All
+dimwishlist:item=2139640995&perks=3666208348,269888150,1749209109,4049631843#notes:(Throlli’s Grasp of Avarice) Situationally good for PVE
+//Unrelenting, Chain Reaction
+dimwishlist:item=2139640995&perks=3108830275,2396489472#notes:(Throlli’s Grasp of Avarice) Decent for PVE
+//Demolitionist, Chain Reaction
+dimwishlist:item=2139640995&perks=3523296417,2396489472#notes:(Throlli’s Grasp of Avarice) Decent for PVE
+
 
 //Solar
 
@@ -2299,11 +2394,20 @@ dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465
 //Legend of Acrius
 dimwishlist:item=3580904580&perks=372430833,202670084,3142289711,1650852150,4259401308#notes:(Throlli's Leviathan) Must have Catalyst: Must have
 
-//Wish Ender
-dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#notes:(Throlli's Shattered Throne) Mediocre
+//Gjallarhorn
+dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860#notes:(Throlli's Grasp of Avarice) Must have Catalyst: Must have
 
 //Xenophage
 dimwishlist:item=1395261499&perks=202670084,1561002382,2846385770,3465198467#notes:(Throlli's Pit of Heresy) Must have
+
+//Wish Ender
+dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#notes:(Throlli's Shattered Throne) Mediocre
+
+//Forerunner
+dimwishlist:item=2179048386&perks=1482024992,3230963543,2795311559,3326204863#notes:(Throlli's 30th Anniversary) Decent
+
+//Ager's Scepter
+dimwishlist:item=1833195496&perks=839105230,3868766766,1218765758,990298390#notes:(Throlli's Lost) Pretty good
 
 //Lorentz Driver
 dimwishlist:item=3761898871&perks=839105230,2680121939,1690446783,3465198467#notes:(Throlli's Lost) Decent
