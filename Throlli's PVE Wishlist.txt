@@ -2428,7 +2428,7 @@ dimwishlist:item=1833195496&perks=839105230,3868766766,1218765758,990298390#note
 dimwishlist:item=3761898871&perks=839105230,2680121939,1690446783,3465198467#notes:(Throlli's Lost) Decent
 
 //Cryosthesia 77k
-dimwishlist:item=603721696&perks=603721696,3868766766,1385518514,862848869#notes:(Throlli's Splicer) Must have for farming Stasis final blows Catalyst: Really good
+dimwishlist:item=603721696&perks=1392496348,3868766766,1385518514,862848869#notes:(Throlli's Splicer) Must have for farming Stasis final blows Catalyst: Really good
 
 //Ticuu’s Divination
 dimwishlist:item=3260753130&perks=1196733167,3827198035,3298446480#notes:(Throlli’s Chosen) Must have for PVE {Catalyst: Must have}
@@ -2448,7 +2448,7 @@ dimwishlist:item=370712896&perks=1441682018,2985827016,1549056416,862848869#note
 dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390#notes:(Throlli’s Empire Hunts) Pretty good
 
 //The Lament
-dimwishlist:item=3487253372&perks=3487253372,599007201,2590710093,290014589#notes:(Throlli’s Beyond Light) Must have for PVE
+dimwishlist:item=3487253372&perks=3666208348,599007201,2590710093,290014589#notes:(Throlli’s Beyond Light) Must have for PVE
 
 //Duality
 dimwishlist:item=3460576091&perks=4090651448,4090651448,3937312904,1067908860#notes:(Throlli’s Hunt) Really good {Catalyst: Must have}
@@ -2562,6 +2562,9 @@ dimwishlist:item=3413860063&perks=481338655,3661387068,2420895100,299272945,3465
 //Thunderlord
 dimwishlist:item=3325463374&perks=4148158229,1392496348,1968497646,1419069769,2779035018#notes:(Throlli's Cosmodrome) Decent
 
+//Wavesplitter
+dimwishlist:item=1852863732&perks=1392496348,2680121939,2306441428,4259401308#notes:(Throlli's PS4 Exclusives) Mediocre
+
 //Worldline Zero
 dimwishlist:item=1864563948&perks=3642491337,938542991,2363751990,354401740,2590710093#notes:(Throlli's Mars) Must have for movement {Catalyst: Must have}
 
@@ -2587,7 +2590,7 @@ dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,425
 dimwishlist:item=3437746471&perks=1030990989,1482024992,3142289711,2383960413,1012699414#notes:(Throlli's Curse of Osiris) Must have {Catalyst: Must have}
 
 //The Jade Rabbit
-dimwishlist:item=3844694310&perks=3668782036,1392496348,1968497646,2387244414#notes:(Throlli's Curse of Osiris) Mediocre {Catalyst: Decent}
+dimwishlist:item=3844694310&perks=1392496348,1561002382,2387244414#notes:(Throlli's Curse of Osiris) Mediocre {Catalyst: Decent}
 
 //Telesto
 dimwishlist:item=2208405142&perks=1927916065,2969185026,3970637031,862848869#notes:(Throlli's Curse of Osiris) Pretty good {Catalyst: Pretty good}
