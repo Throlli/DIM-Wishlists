@@ -27,8 +27,8 @@ If you want to use my Master Wishlist whilst also using the voltron Wishlist (Wh
 https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%20Wishlist.txt | https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt
 
 
-My Wishlist and choosy_voltron
+My Wishlist, voltron and my Wish list before the introduction of Origin Perks
 
-If you want to use my Master Wishlist whilst also using the choosy_voltron Wishlist (voltron with some Rolls to shard if I remember correctly) copy the following URLs and paste them into your DIM.
+This adds my Wishlist of Weapons that have no origin Perks to the option above
 
-https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%20Wishlist.txt | https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/choosy_voltron.txt
+https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%20Wishlist.txt | https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt | https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%20S11-15%20Wishlist.txt
