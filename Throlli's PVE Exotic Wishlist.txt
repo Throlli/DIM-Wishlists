@@ -1,3 +1,6 @@
+title:{WIP} Throlli's PVE Exotic Wishlist
+description:{WIP} Notes Exotic guns for PVE on Mouse and Keyboard
+
 /*
 Exotic Weapons
 */
