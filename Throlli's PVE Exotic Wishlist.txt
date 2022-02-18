@@ -1,0 +1,271 @@
+/*
+Exotic Weapons
+*/
+
+//Vex Mythoclast
+dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390#notes:(Throlli's Vault of Glass) Mediocre {Catalyst: Must have} (Neither tested as I haven't gotten lucky)
+
+//Eyes of Tomorrow
+dimwishlist:item=2399110176&perks=3798852852,2985827016,1281243303,4259401308#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+
+//One Thousand Voices
+dimwishlist:item=2069224589&perks=1467527085,1687452232,3504197951,4259401308#notes:(Throlli's Last Wish) Must have for PVE
+
+//Divinity
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467#notes:(Throlli's Garden of Salvation) Must have for PVE
+
+//Tarrabah
+dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503,990298390#notes:(Throlli's Crown of Sorrow) Pretty good
+
+//Anarchy
+dimwishlist:item=2376481550&perks=389268985,3525010810,2822142346,588594999,3465198467#notes:(Throlli's Scourge of the Past) Must have
+
+//Legend of Acrius
+dimwishlist:item=3580904580&perks=372430833,202670084,3142289711,1650852150,4259401308#notes:(Throlli's Leviathan) Must have Catalyst: Must have
+
+//Gjallarhorn
+dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860#notes:(Throlli's Grasp of Avarice) Must have Catalyst: Must have
+
+//Xenophage
+dimwishlist:item=1395261499&perks=202670084,1561002382,2846385770,3465198467#notes:(Throlli's Pit of Heresy) Must have
+
+//Wish Ender
+dimwishlist:item=814876684&perks=1470121888,3371775011,1992361643,2287699930#notes:(Throlli's Shattered Throne) Mediocre
+
+//Forerunner
+dimwishlist:item=2179048386&perks=1482024992,3230963543,2795311559,3326204863#notes:(Throlli's 30th Anniversary) Decent
+
+//Ager's Scepter
+dimwishlist:item=1833195496&perks=839105230,3868766766,1218765758,990298390#notes:(Throlli's Lost) Pretty good
+
+//Lorentz Driver
+dimwishlist:item=3761898871&perks=839105230,2680121939,1690446783,3465198467#notes:(Throlli's Lost) Decent
+
+//Cryosthesia 77k
+dimwishlist:item=603721696&perks=1392496348,3868766766,1385518514,862848869#notes:(Throlli's Splicer) Must have for farming Stasis final blows Catalyst: Really good
+
+//Ticuu’s Divination
+dimwishlist:item=3260753130&perks=1196733167,3827198035,3298446480#notes:(Throlli’s Chosen) Must have for PVE {Catalyst: Must have}
+
+//Dead Man’s Tale
+dimwishlist:item=3654674561&perks=1546637391#notes:(Throlli’s Presage) Really good for PVE {Catalyst: Must have}
+dimwishlist:item=3654674561&perks=1354429876#notes:(Throlli’s Presage) Really good for PVE {Catalyst: Must have}
+dimwishlist:item=3654674561&perks=1820235745#notes:(Throlli’s Presage) Really good for PVE {Catalyst: Must have}
+
+//No Time to Explain
+dimwishlist:item=1594120904&perks=1840239774,3142289711,3556949035,4267945040#notes:(Throlli’s Beyond Light) Pretty good for PVE {Catalyst: Must have}
+
+//Salvation’s Grip
+dimwishlist:item=370712896&perks=1441682018,2985827016,1549056416,862848869#notes:(Throlli’s Beyond Light) Very situational
+
+//Cloudstrike
+dimwishlist:item=2603483885&perks=1840239774,1431678320,3117514172,990298390#notes:(Throlli’s Empire Hunts) Pretty good
+
+//The Lament
+dimwishlist:item=3487253372&perks=3666208348,599007201,2590710093,290014589#notes:(Throlli’s Beyond Light) Must have for PVE
+
+//Duality
+dimwishlist:item=3460576091&perks=4090651448,4090651448,3937312904,1067908860#notes:(Throlli’s Hunt) Really good {Catalyst: Must have}
+
+//Hawkmoon
+dimwishlist:item=3856705927&perks=699525795#notes:(Throlli’s Harbinger) Really good {Catalyst: Really good}
+
+//Witherhoard
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467#notes:(Throlli’s Arrivals) Must have for PVE {Catalyst: Must have}
+
+//Traveler’s Chosen
+dimwishlist:item=1853180924&perks=445755707,1968497646,24925370,1067908860#notes:(Throlli’s Exodus Evacuation) Really good for PVE {Catalyst: Must have}
+
+//Ruinous Effigy
+dimwishlist:item=1363238943&perks=3250034553,3868766766,798520364,3465198467#notes:(Throlli’s Interference) Pretty good for PVE {Catalyst: Must have}
+
+//Tommy’s Matchbook
+dimwishlist:item=776191470&perks=3250034553,2420895100,3772485195,990298390#notes:(Throlli’s Worthy) Mediocre {Catalyst: Must have}
+
+//The Fourth Horseman
+dimwishlist:item=1665952087&perks=839105230,791862061,407549716,4259401308#notes:(Throlli’s Worthy) Must have {Catalyst: Must have}
+
+//Heir Apparent
+dimwishlist:item=2084878005&perks=4090651448,1087426260,1185273366,3438534621#notes:(Throlli’s Guardian Games) Must have {Catalyst: Must have}
+
+//Symmetry
+dimwishlist:item=4017959782&perks=4185339856,3250034553,3868766766,127335543,3465198467#notes:(Throlli's Dawn) Pretty good for cheesing Shielded Enemies {Catalyst: Mediocre}
+
+//Devil's Ruin
+dimwishlist:item=3824106094&perks=334466122,1467527085,2969185026,1059301209,3438534621#notes:(Throlli's Dawn) Decent
+
+//Bastion
+dimwishlist:item=2415517654&perks=1186480754,3250034553,1687452232,4190643473,3465198467#notes:(Throlli's Corridor's of Time) Pretty good
+
+//Monte Carlo
+dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467#notes:(Throlli's Undying) Must have
+
+//Eriana's Vow
+dimwishlist:item=3524313097&perks=1467527085,3142289711,1687327062,862848869#notes:(Throlli's Undying) Must have {Catalyst: Must have}
+
+//Leviathan's Breath
+dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028#notes:(Throlli's Undying) Decent {Catalyst: Really good}
+
+//Deathbringer
+dimwishlist:item=2232171099&perks=1478423395,2985827016,3333994164,3465198467#notes:(Throlli's Moon) Must have {Catalyst: Must have}
+
+//Truth
+dimwishlist:item=1201830623&perks=2491817779,1478423395,2822142346,2911329003,3465198467#notes:(Throlli's Menagerie) Really good
+
+//Lumina
+dimwishlist:item=3512014804&perks=2144092201,3661387068,3142289711,743139589,862848869#notes:(Throlli's EDZ) Really good {Catalyst: Must have}
+  //Rose
+dimwishlist:item=2429822976&perks=2189829540,2467967826,2635532173,1528281896,2078097559#notes:{Sunset} (Throlli's EDZ) Mediocre 
+
+//Bad Juju
+dimwishlist:item=2816212794&perks=4004944400,3250034553,3177308360,1866048759,1067908860#notes:(Throlli's Triumph Hall) Decent {Catalyst: Must have}
+
+//Thorn
+dimwishlist:item=3973202132&perks=1863355414,4090651448,3142289711,2921090754,3917450714#notes:(Throlli's EDZ) Must have
+
+//Arbalest
+dimwishlist:item=2130065553&perks=2564164194,1467527085,2969185026,1683379515,3465198467#notes:(Throlli's Revelry) Pretty good
+//Outbreak Perfected
+dimwishlist:item=400096939&perks=4208418110,1467527085,3142289711,1168162263,3242533954#notes:(Throlli's Tower) Must have {Catalyst: Must have}
+
+//Le Monarque
+dimwishlist:item=3588934839&perks=2186532310,1784898267,16392701,957782887#notes:(Throlli's Black Armory) Mediocre
+
+//Izanagi's Burden
+dimwishlist:item=3211806999&perks=1070100196,3661387068,3142289711,2866798147,3465198467#notes:(Throlli's Black Armory) Must have {Catalyst: Must have}
+
+//Jötunn
+dimwishlist:item=417164956&perks=1656957541,332773068,1687452232,3275789089,862848869#notes:(Throlli's Black Armory) Must have
+
+//The Last Word
+dimwishlist:item=1364093401&perks=2770223582,4090651448,3142289711,1866048759,3917450714#notes:(Throlli's Drifter) Pretty good
+
+//Borealis (Red War on PS4)
+dimwishlist:item=3141979347&perks=3081173348,4090651448,2420895100,501717180,990298390#notes:(Throlli's PS4 Exclusives) Really good {Catalyst: Really good}
+
+//Ace of Spades
+dimwishlist:item=347366834&perks=647617635,4090651448,1561002382,1561789734,3326204863#notes:(Throlli's Gunsmith) Pretty good {Catalyst: Mediocre}
+
+//The Chaperone
+dimwishlist:item=3413860062&perks=1394384862,3250034553,3142289711,1658733671,990298390#notes:(Throlli's Shipwright) Must have
+
+//Malfeasance
+dimwishlist:item=204878059&perks=1791592647,4090651448,2420895100,2130042297,1012699414#notes:(Throlli's Drifter) Decent
+
+//Cerberus+1
+dimwishlist:item=1541131350&perks=3208839961,1332244541,1840239774,202670084,1289604610#notes:(Throlli's Forsaken) Pretty good {Catalyst: Must have}
+
+//Trinity Ghoul
+dimwishlist:item=814876685&perks=1573888036,3371775011,16392701,200829441#notes:(Throlli's Forsaken) Must have {Catalyst: MUST HAVE}
+
+//The Queenbreaker
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087975,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,1866048759,4259401308#notes:(Throlli's Forsaken) Decent
+dimwishlist:item=2044500762&perks=1531126198,1408087974,2680121939,706527188,4259401308#notes:(Throlli's Forsaken) Decent
+
+//Two-Tailed Fox
+dimwishlist:item=2694576561&perks=3649430342,1844523823,2822142346,777637181,3465198467#notes:(Throlli's Forsaken) Pretty good
+
+//Black Talon
+dimwishlist:item=3766045777&perks=4072668471,938542991,2349202967,2590710093#notes:(Throlli's Forsaken) Must have {Catalyst: Mediocre}
+
+//Lord of Wolves
+dimwishlist:item=3413860063&perks=481338655,3661387068,2420895100,299272945,3465198467#notes:(Throlli's Forsaken) Pretty good {Catalyst: Must have}
+
+//Thunderlord
+dimwishlist:item=3325463374&perks=4148158229,1392496348,1968497646,1419069769,2779035018#notes:(Throlli's Cosmodrome) Decent
+
+//Wavesplitter
+dimwishlist:item=1852863732&perks=1392496348,2680121939,2306441428,4259401308#notes:(Throlli's PS4 Exclusives) Mediocre
+
+//Worldline Zero
+dimwishlist:item=1864563948&perks=3642491337,938542991,2363751990,354401740,2590710093#notes:(Throlli's Mars) Must have for movement {Catalyst: Must have}
+
+//Sleeper Simulant
+dimwishlist:item=4036115577&perks=3884127242,1392496348,3230963543,588594999,3465198467#notes:(Throlli's Mars) Buff Sleeper {Catalyst: Must have}
+
+//SUROS Regime
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,1378047685,990298390#notes:(Throlli's Warmind) Must have {Catalyst: Must have}
+dimwishlist:item=2856683562&perks=944506345,3250034553,106909392,4012962526,990298390#notes:(Throlli's Warmind) Must have {Catalyst: Must have}
+
+//The Huckleberry
+dimwishlist:item=2286143274&perks=630329983,1840239774,1885400500,3551326236,1067908860#notes:(Throlli's Warmind) Must have {Catalyst: Must have}
+
+//Polaris Lance
+dimwishlist:item=3413074534&perks=1000724343,1482024992,106909392,2387244414,4259401308#notes:(Throlli's Mars) Pretty good {Catalyst: Pretty good}
+  //BrayTech RWP Mk.II
+dimwishlist:item=717150101&perks=1019291327,1482024992,106909392,2387244414,3400784728#notes:{Sunset} (Throlli's Mars) Really good
+
+//Whisper of the Worm
+dimwishlist:item=1891561814&perks=281315705,1392496348,3142289711,3337692349,4259401308#notes:(Throlli's Io) Really good {Catalyst: Must have}
+
+//Crimson
+dimwishlist:item=3437746471&perks=1030990989,1482024992,3142289711,2383960413,1012699414#notes:(Throlli's Curse of Osiris) Must have {Catalyst: Must have}
+
+//The Jade Rabbit
+dimwishlist:item=3844694310&perks=1392496348,1561002382,2387244414#notes:(Throlli's Curse of Osiris) Mediocre {Catalyst: Decent}
+
+//Telesto
+dimwishlist:item=2208405142&perks=1927916065,2969185026,3970637031,862848869#notes:(Throlli's Curse of Osiris) Pretty good {Catalyst: Pretty good}
+
+//Prometheus Lens
+dimwishlist:item=19024058&perks=571267712,3661387068,2969185026,3470828242,3465198467#notes:(Throlli's Curse of Osiris) Must have for Gatekeepers {Catalyst: Mediocre}
+
+//The Colony
+dimwishlist:item=3899270607&perks=3913463509,1441682018,2822142346,2019952880,3465198467#notes:(Throlli's Curse of Osiris) Decent {Catalyst: Mediocre}
+
+//Graviton Lance
+dimwishlist:item=3628991658&perks=3905543891,3250034553,3142289711,320534106,4259401308#notes:(Throlli's Red War) Decent {Catalyst: Must have}
+
+//Riskrunner
+dimwishlist:item=3089417789&perks=2516532331,839105230,2420895100,1530804125,1067908860#notes:(Throlli's Red War) Must have {Catalyst: Really good}
+
+//Sunshot
+dimwishlist:item=2907129557&perks=4045839491,3661387068,3142289711,4115637021,3917450714#notes:(Throlli's Red War) Not great {Catalyst: Decent}
+
+//Coldheart
+dimwishlist:item=1345867571&perks=1036269296,1467527085,2680121939,2482418662,990298390#notes:(Throlli's Red War) Decent {Catalyst: Decent}
+
+//Mida Multi Tool
+dimwishlist:item=1331482397&perks=377257911,4090651448,1561002382,3100590152,990298390#notes:(Throlli's EDZ) Really good {Catalyst: Really good}
+  //MIDA Mini-Tool
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457#notes:(Throlli’s MIDA) Really good for PVE
+
+//Rat King
+dimwishlist:item=2362471601&perks=2121086290,1482024992,106909392,861489047,3326204863#notes:(Throlli's Titan) Must have {Catalyst: Must have}
+
+//Sturm
+dimwishlist:item=2907129556&perks=507151084,1467527085,2420895100,2238035098,3438534621#notes:(Throlli's Nessus) Mediocre {Catalyst: Must have}
+  //Drang
+dimwishlist:item=2362471600&perks=1482024992,3425386926,588594999,3142289711#notes:(Throlli’s Nessus) Decent
+
+//Sweet Business
+dimwishlist:item=1345867570&perks=3755070117,1392496348,1968497646,1853177948,3465198467#notes:(Throll's Red War) Pretty good {Catalyst: Decent}
+
+//Vigilance Wing
+dimwishlist:item=3628991659&perks=2307143135,4090651448,1431678320,4146729347,3465198467#notes:(Throlli's Red War) Decent {Catalyst: Decent}
+
+//Hard Light
+dimwishlist:item=4124984448&perks=3610814281,1392496348,1431678320,2620589274,3465198467#notes:(Throlli's Red War) Must have {Catalyst: Pretty good}
+
+//Merciless
+dimwishlist:item=4190156464&perks=656200654,3661387068,2420895100,2333607307,4259401308#notes:(Throlli's Red War) Decent {Catalyst: Pretty good}
+
+//Fighting Lion
+dimwishlist:item=3549153978&perks=425960662,3809316345,3492396210,2003108620,1067908860#notes:(Throlli's Red War) Must have {Catalyst: Really good}
+
+//Skyburner's Oath
+dimwishlist:item=4255268456&perks=2741975068,1467527085,2420895100,176919422,1067908860#notes:(Throlli's Red War) Decent {Catalyst: Decent}
+
+//The Prospector
+dimwishlist:item=3549153979&perks=2977709078,1478423395,1771897777,4267945040,990298390#notes:(Throlli's Red War) Must have {Catalyst: Must have}
+
+//The Wardcliff Coil
+dimwishlist:item=1508896098&perks=2473404935,1478423395,2420895100,1178686995,3465198467#notes:(Throlli's Red War) Must have {Catalyst: Must have}
+
+//Tractor Cannon
+dimwishlist:item=3580904581&perks=1210807262,1467527085,3868766766,25692695,3465198467#notes:(Throlli's Red War) Must have {Catalyst: Really good}
+
+//D.A.R.C.I.
+dimwishlist:item=3141979346&perks=938999636,1467527085,2420895100,939227542,1067908860#notes:(Throlli's Red War) Must have for HP scanning {Catalyst: Decent}
