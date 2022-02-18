@@ -1,3 +1,150 @@
 title:{WIP} Throlli's PVE Wishlist
 description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
 
+//Auto Rifles
+
+  //Rapid-Fire Frame
+
+  //Adaptive Frame
+  
+  //Precision Frame
+  
+  //High-Impact Frame
+  
+//Hand Cannons
+
+  //Precision Frame
+
+  //Adaptive Frame
+  
+  //Aggressive Frame
+  
+//Pulse Rifles
+
+  //Rapid-Fire Frame
+  
+  //Lightweight Frame
+  
+  //Aggressive Frame
+  
+  //Adaptive Frame
+  
+  //High-Impact Frame
+  
+//Scout Rifles
+
+  //Rapid-Fire Frame
+
+  //Lightweight Frame
+  
+  //Precision Frame
+  
+  //High-Impact Frame
+  
+//Sidearms
+
+  //Adaptive Frame
+  
+  //Rapid-Fire Frame
+  
+  //Aggressive Burst
+  
+  //Lightweight Frame
+  
+  //Adaptive Frame
+  
+  //Precision Frame
+  
+//Submachine Guns
+
+  //Lightweight Frame
+  
+  //High-Impact Frame
+  
+  //Aggressive Frame
+  
+  //Precision Frame
+  
+ //Bow
+ 
+   //Lightweight Frame
+   
+   //Precision Frame
+   
+ //Shotguns
+ 
+  //Repid-Fire Frame
+  
+  //Lightweight Frame
+  
+  //Precision Frame (Slug)
+  
+  //Precision Frame
+  
+  //Aggressive Frame
+  
+//Sniper Rifles
+
+  //Rapid-Fire Frame
+  
+  //Adaptive Frame
+  
+  //Aggressive Frame
+  
+//Fusion Rifles
+
+  /Rapid-Fire Frame
+  
+  //Adaptive Frame
+  
+  //Aggressive Frame
+  
+  //Precision Frame
+  
+  //High-Impact Frame
+  
+//Trace Rifles
+ 
+  //Adaptive Frame
+  
+//Grenade Launchers
+
+  //Lightweight Frame
+  
+  //Wave Frame
+  
+  //Rapid-Fire Frame
+  
+  //Adaptive Frame
+  
+//Rocket Launchers
+
+  //Aggressive Frame
+  
+  //Adaptive Frame
+  
+  //Precision Frame
+  
+  //High-Impact Frame
+  
+//Linear Fusion Rifles
+ 
+  //Precision Frame
+  
+//Machine Guns
+
+  //Rapid-Fire Frame
+  
+  //Adaptive Frame
+  
+  //High-Impact Frame
+  
+//Swords
+
+  //Aggressive Frame
+  
+  //Adaptive Frame
+  
+  //Vortex Frame
+  
+  //Caster Frame
