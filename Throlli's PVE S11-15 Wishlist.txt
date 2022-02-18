@@ -1,8 +1,8 @@
-title:{WIP} Throlli's PVE Wishlist
-description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
+title:{Retired} Throlli's PVE S11-15 Wishlist
+description:{Retired} Notes on specific roles on guns from Season 11 to 15 for PVE on Mouse and Keyboard
 
 /*
-Contains non Sunset Legendary Weapons as well as Exotic Weapons
+Contains non Sunset Legendary Weapons from Seasons 11 to 15
 */
 
 
