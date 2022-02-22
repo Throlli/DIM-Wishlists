@@ -124,6 +124,17 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
   //Adaptive Frame
   
   //Precision Frame
+    
+    //Stasis
+        //Palmyra-B
+//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Lasting Impressions
+dimwishlist:item=3489657138&perks=3796465595,3300816228,1167468626
+//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Frenzy
+dimwishlist:item=3489657138&perks=3796465595,3528046508,3007133316
+//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Explosive Light
+dimwishlist:item=3489657138&perks=3796465595,3528046508,2275087323
+//Impact Casing, Enhanced Auto-Loading Holster, Explosive Light
+dimwishlist:item=3489657138&perks=3796465595,3528046508,3194351027
   
   //High-Impact Frame
   
