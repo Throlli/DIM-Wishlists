@@ -4,6 +4,50 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
 //Auto Rifles
 
   //Rapid-Fire Frame
+  
+    //Stasis
+      
+      //Krait
+//High-Caliber Rounds, Overflow, Headstone
+dimwishlist:item=2852052802&perks=1561002382,3643424744,124408337#notes:(Throlli's World Loot) Must have for PVE
+//Overflow, Headstone
+dimwishlist:item=2852052802&perks=3643424744,124408337#notes:(Throlli's World Loot) Must have for PVE
+//High-Caliber Rounds, Subsistence, Headstone
+dimwishlist:item=2852052802&perks=1561002382,1820235745,124408337#notes:(Throlli's World Loot) Must have for PVE
+//Subsistence, Headstone
+dimwishlist:item=2852052802&perks=1820235745,124408337#notes:(Throlli's World Loot) Must have for PVE
+//High-Caliber Rounds, Overflow, Vorpal Weapon
+dimwishlist:item=2852052802&perks=1561002382,3643424744,1546637391#notes:(Throlli's World Loot) Really good for PVE
+//Overflow, Vorpal Weapon
+dimwishlist:item=2852052802&perks=3643424744,1546637391#notes:(Throlli's World Loot) Really good for PVE
+//High-Caliber Rounds, Subsistence, Vorpal Weapon
+dimwishlist:item=2852052802&perks=1561002382,1820235745,1546637391#notes:(Throlli's World Loot) Good for PVE
+//Subsistence, Vorpal Weapon
+dimwishlist:item=2852052802&perks=1820235745,1546637391#notes:(Throlli's World Loot) Good for PVE
+//High-Caliber Rounds, Overflow, One for All
+dimwishlist:item=2852052802&perks=1561002382,3643424744,4049631843#notes:(Throlli's World Loot) Must have for PVE
+//Overflow, One for All
+dimwishlist:item=2852052802&perks=3643424744,4049631843#notes:(Throlli's World Loot) Must have for PVE
+//High-Caliber Rounds, Subsistence, One for All
+dimwishlist:item=2852052802&perks=1561002382,1820235745,4049631843#notes:(Throlli's World Loot) Must have for PVE
+//Subsistence, One for All
+dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:(Throlli's World Loot) Must have for PVE
+//High-Caliber Rounds, Overflow, Focused Fury
+dimwishlist:item=2852052802&perks=1561002382,3643424744,2896038713#notes:(Throlli's World Loot) Good for PVE
+//Overflow, Focused Fury
+dimwishlist:item=2852052802&perks=3643424744,2896038713#notes:(Throlli's World Loot) Good for PVE
+//High-Caliber Rounds, Subsistence, Focused Fury
+dimwishlist:item=2852052802&perks=1561002382,1820235745,2896038713#notes:(Throlli's World Loot) Good for PVE
+//Subsistence, Focused Fury
+dimwishlist:item=2852052802&perks=1820235745,2896038713#notes:(Throlli's World Loot) Good for PVE
+
+    //Arc
+    
+      //Sweet Sorrow
+//Triple Tap, Enhanced Vorpal Weapon
+dimwishlist:item=2587734818&perks=3400784728,3418165135
+//Enhanced Triple Tap, Enhanced Vorpal Weapon
+dimwishlist:item=2587734818&perks=573122728,3418165135
 
   //Adaptive Frame
   
@@ -127,14 +171,8 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
     
     //Stasis
         //Palmyra-B
-//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Lasting Impressions
-dimwishlist:item=3489657138&perks=3796465595,3300816228,1167468626
-//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Frenzy
-dimwishlist:item=3489657138&perks=3796465595,3528046508,3007133316
-//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Explosive Light
-dimwishlist:item=3489657138&perks=3796465595,3528046508,2275087323
-//Impact Casing, Enhanced Auto-Loading Holster, Explosive Light
-dimwishlist:item=3489657138&perks=3796465595,3528046508,3194351027
+dimwishlist:item=3489657138&perks=3796465595#notes:Dropped
+dimwishlist:item=3363791743&perks=3796465595#notes:Crafted
   
   //High-Impact Frame
   
