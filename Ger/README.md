@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Ger/Throlli's%20P
 
 Die englische Liste
 
-https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Throlli's%20PVE%20Wishlist.txt
+https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/Throlli's%20PVE%20Wishlist.txt | https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/Throlli's%20PVE%20Exotic%20Wishlist.txt | https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/Throlli's%20PVE%20S11-15%20Wishlist.txt | https://raw.githubusercontent.com/48klocs/dim-wish-list-sources/master/voltron.txt
 
 
 Meine Wunschliste und voltron über GitHub (empfohlen)
