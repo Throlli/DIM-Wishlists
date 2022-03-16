@@ -20,7 +20,7 @@ If you just want to use my Master Wishlist copy the following URL and paste it i
 https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/Throlli's%20PVE%20Wishlist.txt | https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/Throlli's%20PVE%20S11-15%20Wishlist.txt
 
 
-My Wishlist and voltron updated via GitHub (*recommended*)
+My Wishlist and voltron updated via GitHub (**recommended**)
 
 If you want to use my Master Wishlist whilst also using the voltron Wishlist (Which includes @AyyItsChevy's Super Pog PvE Loot List, Wishlists by u/Mercules904 and more) copy the following URLs and paste them into your DIM.
 
