@@ -163,29 +163,56 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard.
 //Rocket Launchers
 
   //Aggressive Frame
-  
-  //Adaptive Frame
-  
-    //Void
-    
-        //Red Herring
 
+    //Stasis
+
+      //Bump in the Night
+//Impact Casing, Auto-Loading Holster, Chill Clip
+dimwishlist:item=1959650777&perks=3796465595,3300816228,2978966579#notes:(Throlli's Nightmare Containment) Must have for PVE when used with Gjallarhorn and noone else is using a Chill Clip Rocket Launcher
+
+  //Adaptive Frame
 
     //Arc
-    
+ 
+      //Shining Sphere
+//Impact Casing, Auto-Loading Holster, Tracking Module
+dimwishlist:item=136525518&perks=3796465595,3300816228,3977735242#notes:(Throlli's Iron Banner) Must have for PVE
+
       //The Hothead
+dimwishlist:item=4255171531
 
       //The Hothead (Adept)
+//Impact Casing, Tracking Module, Clown Cartridge
+dimwishlist:item=1866778462&perks=3796465595,3977735242,2284787283#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=1866778462&perks=3796465595,2869569095,2284787283#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Explosive Light
+dimwishlist:item=1866778462&perks=3796465595,3300816228,3194351027#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
 
-  
+    //Solar
+ 
+      //Apex Predator
+ //Impact Casing, Tracking Module, Auto-Loading Holster
+ dimwishlist:item=2545083870&perks=3796465595,3977735242,3300816228#notes:(Throlli's Last Wish) Must have for PVE
+ 
+ 
   //Precision Frame
     
     //Stasis
     
         //Palmyra-B
-
+//Impact Casing, Auto-Loading Holster, Chill Clip
+dimwishlist:item=3489657138&perks=3796465595,3300816228,2978966579#notes:(Throlli's HÄKKE Loot) Must have for PVE when used with Gjallarhorn and noone else is using a Chill Clip Rocket Launcher
+//Impact Casing, Auto-Loading Holster, Explosive Light
+dimwishlist:item=3489657138&perks=3796465595,3300816228,3194351027#notes:(Throlli's HÄKKE Loot) Must have for PVE
   
   //High-Impact Frame
+
+    //Solar
+
+      //Roar of the Bear
+//Impact Casing, Tracking Module, Auto-Loading Holster
+dimwishlist:item=4009352833&perks=3796465595,3977735242,3300816228#notes:(Throlli's Iron Banner) Must have for PVE
   
 //Linear Fusion Rifles
 
