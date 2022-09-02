@@ -1,5 +1,5 @@
 title:{WIP} Throlli's PVE Wishlist
-description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
+description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard. Currently does not support Enhanced Traits
 
 //Auto Rifles
 
@@ -8,94 +8,28 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard
     //Stasis
       
       //Krait
-//High-Caliber Rounds, Overflow, Headstone
-dimwishlist:item=2852052802&perks=1561002382,3643424744,124408337#notes:(Throlli's World Loot) Must have for PVE
-//Overflow, Headstone
-dimwishlist:item=2852052802&perks=3643424744,124408337#notes:(Throlli's World Loot) Must have for PVE
-//High-Caliber Rounds, Subsistence, Headstone
-dimwishlist:item=2852052802&perks=1561002382,1820235745,124408337#notes:(Throlli's World Loot) Must have for PVE
-//Subsistence, Headstone
-dimwishlist:item=2852052802&perks=1820235745,124408337#notes:(Throlli's World Loot) Must have for PVE
-//High-Caliber Rounds, Overflow, Vorpal Weapon
-dimwishlist:item=2852052802&perks=1561002382,3643424744,1546637391#notes:(Throlli's World Loot) Really good for PVE
-//Overflow, Vorpal Weapon
-dimwishlist:item=2852052802&perks=3643424744,1546637391#notes:(Throlli's World Loot) Really good for PVE
-//High-Caliber Rounds, Subsistence, Vorpal Weapon
-dimwishlist:item=2852052802&perks=1561002382,1820235745,1546637391#notes:(Throlli's World Loot) Good for PVE
-//Subsistence, Vorpal Weapon
-dimwishlist:item=2852052802&perks=1820235745,1546637391#notes:(Throlli's World Loot) Good for PVE
-//High-Caliber Rounds, Overflow, One for All
-dimwishlist:item=2852052802&perks=1561002382,3643424744,4049631843#notes:(Throlli's World Loot) Must have for PVE
-//Overflow, One for All
-dimwishlist:item=2852052802&perks=3643424744,4049631843#notes:(Throlli's World Loot) Must have for PVE
-//High-Caliber Rounds, Subsistence, One for All
-dimwishlist:item=2852052802&perks=1561002382,1820235745,4049631843#notes:(Throlli's World Loot) Must have for PVE
-//Subsistence, One for All
-dimwishlist:item=2852052802&perks=1820235745,4049631843#notes:(Throlli's World Loot) Must have for PVE
-//High-Caliber Rounds, Overflow, Focused Fury
-dimwishlist:item=2852052802&perks=1561002382,3643424744,2896038713#notes:(Throlli's World Loot) Good for PVE
-//Overflow, Focused Fury
-dimwishlist:item=2852052802&perks=3643424744,2896038713#notes:(Throlli's World Loot) Good for PVE
-//High-Caliber Rounds, Subsistence, Focused Fury
-dimwishlist:item=2852052802&perks=1561002382,1820235745,2896038713#notes:(Throlli's World Loot) Good for PVE
-//Subsistence, Focused Fury
-dimwishlist:item=2852052802&perks=1820235745,2896038713#notes:(Throlli's World Loot) Good for PVE
+
 
     //Arc
     
       //Sweet Sorrow
-//Triple Tap, Enhanced Vorpal Weapon
-dimwishlist:item=1248372789&perks=3400784728,3418165135#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Triple Tap, Enhanced Vorpal Weapon
-dimwishlist:item=1248372789&perks=573122728,3418165135#notes:(Throlli's PsiOps) Must have for PVE
+
 
   //Adaptive Frame
   
     //Kinetic
     
       //Duty Bound
-//Triple Tap, Vorpal Weapon
-dimwishlist:item=435216110&perks=3400784728,1546637391#notes:(Throlli's Nightfall) Must have for PVE
-//Triple Tap, Fourth Time's the Charm
-dimwishlist:item=435216110&perks=3400784728,1354429876#notes:(Throlli's Nightfall) Must have for PVE
-//Triple Tap, Frenzy
-dimwishlist:item=435216110&perks=3400784728,4104185692#notes:(Throlli's Nightfall) Must have for PVE
+
       //Duty Bound (Adept)
-//Triple Tap, Vorpal Weapon
-dimwishlist:item=1135050595&perks=3400784728,1546637391#notes:(Throlli's Grandmaster) Must have for PVE
-//Triple Tap, Fourth Time's the Charm
-dimwishlist:item=1135050595&perks=3400784728,1354429876#notes:(Throlli's Grandmaster) Must have for PVE
-//Triple Tap, Frenzy
-dimwishlist:item=1135050595&perks=3400784728,4104185692#notes:(Throlli's Grandmaster) Must have for PVE
+
 
     //Solar
 
       //The Summoner
-//High-Caliber Rounds, Overflow, Golden Tricorn
-dimwishlist:item=1907698332&perks=1561002382,3643424744,2610012052#notes:(Throlli's Trials) Situationally good for PVE
-//Overflow, Golden Tricorn
-dimwishlist:item=1907698332&perks=3643424744,2610012052#notes:(Throlli's Trials) Situationally good for PVE
-//High-Caliber Rounds, Overflow, Rampage
-dimwishlist:item=1907698332&perks=1561002382,3643424744,3425386926#notes:(Throlli's Trials) Pretty good for PVE
-//Overflow, Rampage
-dimwishlist:item=1907698332&perks=3643424744,3425386926#notes:(Throlli's Trials) Pretty good for PVE
-//High-Caliber Rounds, Overflow, Focused Fury
-dimwishlist:item=1907698332&perks=1561002382,3643424744,2896038713#notes:(Throlli's Trials) Situationally good for PVE
-//Overflow, Focused Fury
-dimwishlist:item=1907698332&perks=3643424744,2896038713#notes:(Throlli's Trials) Situationally good for PVE
+
       //The Summoner (Adept)
-//High-Caliber Rounds, Overflow, Golden Tricorn
-dimwishlist:item=3514144928&perks=1561002382,3643424744,2610012052#notes:(Throlli's Flawless) Situationally good for PVE
-//Overflow, Golden Tricorn
-dimwishlist:item=3514144928&perks=3643424744,2610012052#notes:(Throlli's Flawless) Situationally good for PVE
-//High-Caliber Rounds, Overflow, Rampage
-dimwishlist:item=3514144928&perks=1561002382,3643424744,3425386926#notes:(Throlli's Flawless) Pretty good for PVE
-//Overflow, Rampage
-dimwishlist:item=3514144928&perks=3643424744,3425386926#notes:(Throlli's Flawless) Pretty good for PVE
-//High-Caliber Rounds, Overflow, Focused Fury
-dimwishlist:item=3514144928&perks=1561002382,3643424744,2896038713#notes:(Throlli's Flawless) Situationally good for PVE
-//Overflow, Focused Fury
-dimwishlist:item=3514144928&perks=3643424744,2896038713#notes:(Throlli's Flawless) Situationally good for PVE
+
 
   //Precision Frame
   
@@ -210,34 +144,21 @@ dimwishlist:item=3514144928&perks=3643424744,2896038713#notes:(Throlli's Flawles
     //Solar
       
       //Explosive Personality
-//Enhanced Auto-Loading Holster, Enhanced Unrelenting
-dimwishlist:item=4096943616&perks=3528046508,855168139#notes:(Throlli's PsiOps) Really good for PVE
-//Enhanced Auto-Loading Holster, Enhanced Frenzy
-dimwishlist:item=4096943616&perks=3528046508,3007133316#notes:(Throlli's PsiOps) Really good for PVE
-//Enhanced AUto-Loading Holster, Enhanced Turnabout
-dimwishlist:item=4096943616&perks=3528046508,2000295559#notes:(Throlli's PsiOps) Really good for PVE
+
   
   //Rapid-Fire Frame
   
     //Arc
     
       //Tarnation
- //Spike Grenades, Enhanced Field Prep
- dimwishlist:item=2721157927&perks=3301904089,2308090567#notes:(Throlli's Wellspring) Decent for PVE
+
   
   //Adaptive Frame
    
     //Stasis
     
       //Typhon GL5
-//Spike Grenades, Impulse Amplifier, Explosive Light
-dimwishlist:item=3568377122&perks=3301904089,951095735,3194351027#notes:(Throlli's World Loot) Must have for PVE
-//Spike Grenades, Demolitionist, Explosive Light
-dimwishlist:item=3568377122&perks=3301904089,3523296417,3194351027#notes:(Throlli's World Loot) Must have for PVE
-//Spike Grenades, Impulse Amplifier, Frenzy
-dimwishlist:item=3568377122&perks=3301904089,951095735,4104185692#notes:(Throlli's World Loot) Must have for PVE
-//Spike Grenades, Demolitionist, Frenzy
-dimwishlist:item=3568377122&perks=3301904089,3523296417,4104185692#notes:(Throlli's World Loot) Must have for PVE
+
   
 //Rocket Launchers
 
@@ -248,53 +169,35 @@ dimwishlist:item=3568377122&perks=3301904089,3523296417,4104185692#notes:(Throll
     //Void
     
         //Red Herring
-//Impact Casing, Enhanced Field Prep, Enhanced Frenzy
-dimewishlist:item=3175851496&perks=3796465595,2308090567,3007133316#notes:(Throlli's Throneworld) Really good for PVE
-//Impact Casing, Enhanced Tracking Module, Enhanced Frenzy
-dimewishlist:item=3175851496&perks=3796465595,406461158,3007133316#notes:(Throlli's Throneworld) Really good for PVE
-//Impact Casing, Enhanced Field Prep, Enhanced Lasting Impressions
-dimewishlist:item=3175851496&perks=3796465595,2308090567,1167468626#notes:(Throlli's Throneworld) Really good for PVE
-//Impact Casing, Enhanced Tracking Module, Enhanced Lasting Impressions
-dimewishlist:item=3175851496&perks=3796465595,406461158,1167468626#notes:(Throlli's Throneworld) Really good for PVE
-//Impact Casing, Enhanced Field Prep, Lasting Impressions
-dimewishlist:item=3175851496&perks=3796465595,2308090567,3927722942#notes:(Throlli's Throneworld) Really good for PVE
-//Impact Casing, Enhanced Tracking Module, Lasting Impressions
-dimewishlist:item=3175851496&perks=3796465595,406461158,3927722942#notes:(Throlli's Throneworld) Really good for PVE
+
 
     //Arc
     
       //The Hothead
-//Impact Casing, Field Prep, Clown Cartridge
-dimwishlist:item=4255171531&perks=3796465595,2869569095,2284787283#notes:(Throlli's Nightfalls) Must have for PVE
-//Impact Casing, Auto-Loading Holster, Explosive Light
-dimwishlist:item=4255171531&perks=3796465595,3300816228,3194351027#notes:(Throlli's Nightfalls) Really good for PVE
+
       //The Hothead (Adept)
-//Impact Casing, Field Prep, Clown Cartridge
-dimwishlist:item=1866778462&perks=3796465595,2869569095,2284787283#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
-//Impact Casing, Auto-Loading Holster, Explosive Light
-dimwishlist:item=1866778462&perks=3796465595,3300816228,3194351027#notes:(Throlli's Grandmaster Nightfalls) Really good for PVE
+
   
   //Precision Frame
     
     //Stasis
     
         //Palmyra-B
-//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Explosive Light
-dimwishlist:item=3489657138&perks=3796465595,3528046508,2275087323#notes:(Throlli's World Loot) Must have for PVE
-//Impact Casing, Enhanced Auto-Loading Holster, Explosive Light
-dimwishlist:item=3489657138&perks=3796465595,3528046508,3194351027#notes:(Throlli's World Loot) Must have for PVE
-//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Lasting Impressions
-dimwishlist:item=3489657138&perks=3796465595,3528046508,1167468626#notes:(Throlli's World Loot) Must have for PVE
-//Impact Casing, Enhanced Auto-Loading Holster, Lasting Impressions
-dimwishlist:item=3489657138&perks=3796465595,3528046508,3927722942#notes:(Throlli's World Loot) Must have for PVE
-//Impact Casing, Enhanced Auto-Loading Holster, Enhanced Frenzy
-dimwishlist:item=3489657138&perks=3796465595,3528046508,3007133316#notes:(Throlli's World Loot) Really good for PVE
-//Impact Casing, Enhanced Auto-Loading Holster, Frenzy
-dimwishlist:item=3489657138&perks=3796465595,3528046508,4104185692#notes:(Throlli's World Loot) Really good for PVE
+
   
   //High-Impact Frame
   
 //Linear Fusion Rifles
+
+  //Aggressive Frame
+
+    //Arc
+ 
+      //Stormchaser
+  //Auto-Loading Holster, Firing Line
+  dimwishlist:item=3652506829&perks=3300816228,1771339417#notes:(Throlli's Duality) Must have for PVE
+  //Auto-Loading Holster, Frenzy
+  dimwishlist:item=3652506829&perks=3300816228,4104185692#notes:(Throlli's Duality) Must have for Solo PVE
  
   //Precision Frame
 
@@ -303,66 +206,31 @@ dimwishlist:item=3489657138&perks=3796465595,3528046508,4104185692#notes:(Throll
       //Reed's Regret
 //Triple Tap, Firing Line
 dimwishlist:item=1399243961&perks=3400784728,1771339417#notes:(Throlli's Trials) Must have for PVE
-//Auto-Loading Holster, Firing Line
-dimwishlist:item=1399243961&perks=3300816228,1771339417#notes:(Throlli's Trials) Must have for PVE
       //Reed's Regret (Adept)
 //Triple Tap, Firing Line
 dimwishlist:item=2475355656&perks=3400784728,1771339417#notes:(Throlli's Flawless) Must have for PVE
-//Auto-Loading Holster, Firing Line
-dimwishlist:item=2475355656&perks=3300816228,1771339417#notes:(Throlli's Flawless) Must have for PVE
+
+
+    //Void
+
+      //Taipan-4FR
+//Enhanced Battery, Triple Tap, Firing Line
+dimwishlist:item=1911060537&perks=2680121939,3400784728,1771339417#notes:(Throlli's Enclave) Must have for PVE
 
     //Solar
      
       //Cataclysmic
-//Fourth Time's the Charm, Focused Fury
-dimwishlist:item=999767358&perks=1354429876,2896038713#notes:(Throlli's Vow of the Disciple) Really good for PVE
-//Enhanced Fourth Time's the Charm, Focused Fury
-dimwishlist:item=999767358&perks=848860060,2896038713#notes:(Throlli's Vow of the Disciple) Really good for PVE
-//Fourth Time's the Charm, Enhanced Focused Fury
-dimwishlist:item=999767358&perks=1354429876,2402480669#notes:(Throlli's Vow of the Disciple) Really good for PVE
-//Enhanced Fourth Time's the Charm, Enhanced Focused Fury
-dimwishlist:item=999767358&perks=848860060,2402480669#notes:(Throlli's Vow of the Disciple) Really good for PVE
-      //Cataclysmic (Adept)
-//Fourth Time's the Charm, Focused Fury
-dimwishlist:item=2886339027&perks=1354429876,2896038713#notes:(Throlli's Master Vow of the Disciple) Really good for PVE
-//Enhanced Fourth Time's the Charm, Focused Fury
-dimwishlist:item=2886339027&perks=848860060,2896038713#notes:(Throlli's Master Vow of the Disciple) Really good for PVE
-//Fourth Time's the Charm, Enhanced Focused Fury
-dimwishlist:item=2886339027&perks=1354429876,2402480669#notes:(Throlli's Master Vow of the Disciple) Really good for PVE
-//Enhanced Fourth Time's the Charm, Enhanced Focused Fury
-dimwishlist:item=2886339027&perks=848860060,2402480669#notes:(Throlli's Master Vow of the Disciple) Really good for PVE
-  
+//Enhanced Battery, Fourth Time's the Charm, Bait and Switch
+dimwishlist:item=999767358&perks=2680121939,1354429876,3078487919#notes:(Throlli's Vow of the Disciple) Must have for PVE
+
+
 //Machine Guns
 
   //Rapid-Fire Frame
   
     //Stasis
     
-      //Recurrent Impact
-//Enhanced Field Prep, Enhanced Headstone
-dimwishlist:item=1572896086&perks=2308090567,1171887445#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Subsistence, Enhanced Headstone
-dimwishlist:item=1572896086&perks=4245865861,1171887445#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Field Prep, Enhanced Frenzy
-dimwishlist:item=1572896086&perks=2308090567,3007133316#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Subsistence, Enhanced Frenzy
-dimwishlist:item=1572896086&perks=4245865861,3007133316#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Field Prep, Enhanced Firing Line
-dimwishlist:item=1572896086&perks=2308090567,395388285#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Subsistence, Enhanced Firing Line
-dimwishlist:item=1572896086&perks=4245865861,395388285#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Field Prep, Headstone
-dimwishlist:item=1572896086&perks=2308090567,124408337#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Subsistence, Headstone
-dimwishlist:item=1572896086&perks=4245865861,124408337#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Field Prep, Frenzy
-dimwishlist:item=1572896086&perks=2308090567,4104185692#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Subsistence, Frenzy
-dimwishlist:item=1572896086&perks=4245865861,4104185692#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Field Prep, Firing Line
-dimwishlist:item=1572896086&perks=2308090567,1771339417#notes:(Throlli's PsiOps) Must have for PVE
-//Enhanced Subsistence, Firing Line
-dimwishlist:item=1572896086&perks=4245865861,1771339417#notes:(Throlli's PsiOps) Must have for PVE
+
   
   //Adaptive Frame
   
@@ -379,7 +247,6 @@ dimwishlist:item=1572896086&perks=4245865861,1771339417#notes:(Throlli's PsiOps)
     //Void
     
       //Razor's Edge
-//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Frenzy
-dimwishlist:1796949035&perks=3666208348,269888150,1749209109,4104185692#notes:(Throlli's Iron Banner) Must have for DPS
+
   
   //Caster Frame
