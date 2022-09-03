@@ -262,15 +262,115 @@ dimwishlist:item=1046651176&perks=1354429876,3038247973#notes:(Throlli's Gambit)
 //Pulse Rifles
 
   //Rapid-Fire Frame
-  
+
+    //Kinetic
+
+      //Piece of Mind
+//Overflow, Vorpal Weapon
+dimwishlist:item=2097055732&perks=3643424744,1546637391#notes:(Throlli's PsiOps) Really good for PVE
+
+    //Void
+
+      //Gridskipper
+//Frenzy
+dimwishlist:item=1621558458&perks=4104185692#notes:(Throlli's Splicer) Pretty good for PVE
+
+    //Arc
+
+      //Horror's Least
+//Frenzy
+dimwishlist:item=216983039&perks=4104185692#notes:(Throlli's Nightfalls) Pretty good for PVE
+
+      //Horror's Least (Adept)
+//Frenzy
+dimwishlist:item=1924276978&perks=4104185692#notes:(Throlli's Grandmaster Nightfalls) Really good for PVE
+
+      //Darkest Before
+//One for All
+dimwishlist:item=2481758391&perks=4049631843#notes:(Throlli's Prophecy) Decent for PVE
+
+    //Solar
+
+      //Jurassic Green
+//Frenzy
+dimwishlist:item=2261046232&perks=4104185692#notes:(Throlli's Lost) Pretty good for PVE
+
   //Lightweight Frame
-  
+
+    //Kinetic
+
+      //Chattering Bone
+//Corkscrew Rifling, Light Mag, Kill Clip, High-Impact Reserves
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989#notes:(Throlli's Last Wish) Decent for PVE
+
+    //Solar
+
+      //Ogma PR6
+//Demolitionist, Wellspring
+dimwishlist:item=2342054803&perks=3523296417,3592538738#notes:(Throlli's OMOLON Loot) Must have for PVE
+//Adaptive Munitions, Turnabout
+dimwishlist:item=2342054803&perks=1048183818,2209918983#notes:(Throlli's OMOLON Loot) Must have for PVE
+
   //Aggressive Frame
-  
+
+    //Kinetic
+
+      //Sacred Provenance
+//Rapid Hit, Kill Clip
+dimwishlist:item=2408405461&perks=247725512,1015611457#notes:(Throlli's Garden of Salvation) Really good for PVE
+
+    //Arc
+
+      //Insidious
+//Dragonfly, Vorpal Weapon
+dimwishlist:item=3428521585&perks=2848615171,1546637391#notes:(Throlli's Vow of the Disciple) Really good for PVE
+
   //Adaptive Frame
-  
+
+    //Kinetic
+
+      //Smite of Merain
+//Demolitionist, Firefly
+dimwishlist:item=2221264583&perks=3523296417,3824105627#notes:(Throlli's King's Fall) Must have for PVE
+
+    //Stasis
+
+      //Syncopation-53
+//Outlaw, Headstone
+dimwishlist:item=2856514843&perks=1168162263,124408337#notes:(Throlli's SUROS Loot) Must have for PVE
+
+    //Void
+
+      //Yesteryear
+//Outlaw, Desperado
+dimwishlist:item=1141927949&perks=1168162263,3047969693#notes:(Throlli's Gambit) Really good for PVE
+
   //High-Impact Frame
-  
+
+    //Kinetic
+
+      //Cold Denial
+//Feeding Frenzy, Multikill Clip
+dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:(Throlli's Arrivals) Decent for PVE
+
+      //Legal Action II
+//Frenzy
+dimwishlist:item=3409645497&perks=4104185692#notes:(Throlli's New Monarchy) Really good for PVE
+
+      //The Messenger
+//Rapid Hit, Desperado
+dimwishlist:item=3658188704&perks=247725512,3047969693#notes:(Throlli's Trials) Must have for PVE
+//Rapid Hit, Frenzy
+dimwishlist:item=3658188704&perks=247725512,4104185692#notes:(Throlli's Trials) Must have for PVE
+
+    //Stasis
+
+      //New Purpose
+//Feeding Frenzy, Headstone
+dimwishlist:item=1780464822&perks=2779035018,124408337#notes:(Throlli's Duality) Must have for PVE
+//Feeding Frenzy, Desperado
+dimwishlist:item=1780464822&perks=2779035018,3047969693#notes:(Throlli's Duality) Must have for PVE
+
 //Scout Rifles
 
   //Rapid-Fire Frame
