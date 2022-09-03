@@ -59,12 +59,118 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard.
 
   //Rapid-Fire Frame
 
+    //Kinetic
+
+      //Servant Leader
+//Fourth Time's the Charm, Frenzy
+dimwishlist:item=1107446438&perks=1354429876,4104185692#notes:(Throlli's Gambit) Really good for PVE
+//Shoot to Loot, Frenzy
+dimwishlist:item=1107446438&perks=3700496672,4104185692#notes:(Throlli's Gambit) Really good for PVE
+
+    //Arc
+
+      //Contingency Plan
+//Frenzy
+dimwishlist:item=577528837&perks=4104185692#notes:(Throlli's Dead Orbit) Pretty good for PVE
+
+    //Solar
+
+      //Trustee
+//Surplus, Wellspring
+dimwishlist:item=1392919471&perks=3436462433,3592538738#notes:(Throlli's Deep Stone Crypt) Decent for PVE
+
   //Lightweight Frame
-  
+
+    //Kinetic
+
+      //Night Watch
+//Rapid Hit, Explosive Payload
+dimwishlist:item=3504336176&perks=247725512,3038247973#notes:(Throlli's Reckoning) Really good for PVE
+//Corkscrew Rifling, Extended Mag, Overflow, Explosive Payload
+dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:(Throlli's New Light) Pretty good for PVE
+
+    //Void
+
+      //Vouchsafe
+//Rapid Hit, Explosive Payload
+dimwishlist:item=3242168339&perks=247725512,3038247973#notes:(Throlli's Dreaming City) Must have for PVE
+//Fourth Time's the Charm, Explosive Payload
+dimwishlist:item=3242168339&perks=1354429876,3038247973#notes:(Throlli's Dreaming City) Must have for PVE
+
+    //Arc
+
+      //Tarnished Mettle
+//Shoot to Loot, Explosive Payload
+dimwishlist:item=2218569744&perks=3700496672,3038247973#notes:(Throlli's Plunder) Must have for PVE
+//Fourth Time's the Charm, Explosive Payload
+dimwishlist:item=2218569744&perks=1354429876,3038247973#notes:(Throlli's Plunder) Must have for PVE
+//Rapid Hit, Explosive Payload
+dimwishlist:item=2218569744&perks=247725512,3038247973#notes:(Throlli's Plunder) Must have for PVE
+//Shoot to Loot, Voltshot
+dimwishlist:item=2218569744&perks=3700496672,2173046394#notes:(Throlli's Plunder) Must have for PVE
+//Fourth Time's the Charm, Voltshot
+dimwishlist:item=2218569744&perks=1354429876,2173046394#notes:(Throlli's Plunder) Must have for PVE
+//Rapid Hit, Voltshot
+dimwishlist:item=2218569744&perks=247725512,2173046394#notes:(Throlli's Plunder) Must have for PVE
+
   //Precision Frame
-  
+
+    //Kinetic
+
+      //Hung Jury SR4
+//Rapid Hit, Explosive Payload
+dimwishlist:item=4281371574&perks=247725512,3038247973#notes:(Throlli's Nightfalls) Must have for PVE
+
+      //Hung Jury SR4 (Adept)
+//Rapid Hit, Explosive Payload
+dimwishlist:item=681067419&perks=247725512,3038247973#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+
+      //Tears of Contrition
+//Triple Tap, Explosive Payload
+dimwishlist:item=1366394399&perks=3400784728,3038247973#notes:(Throlli's Nightmare Containment) Really good for PVE
+
+    //Void
+
+      //Doom of Chelchis
+//Explosive Payload, Frenzy
+dimwishlist:item=1937552980&perks=3038247973,4104185692#notes:(Throlli's King's Fall) Must have for PVE
+
+    //Solar
+
+      //Staccato-46
+//Shoot to Loot, Explosive Payload
+dimwishlist:item=4019668921&perks=3700496672,3038247973#notes:(Throlli's SUROS Loot) Must have for PVE
+//Shoot to Loot, Incandescent
+dimwishlist:item=4019668921&perks=3700496672,4293542123#notes:(Throlli's SUROS Loot) Really good for PVE
+
   //High-Impact Frame
-  
+
+    //Kinetic
+
+      //Transfiguration
+//Rampage, Kill Clip
+dimwishlist:item=3799980700&perks=3425386926,1015611457#notes:(Throlli's Last Wish) Must have for PVE
+
+    //Stasis
+
+      //Perses-D
+//Shoot to Loot, Explosive Payload
+dimwishlist:item=1019000888&perks=3700496672,3038247973#notes:(Throlli's HÄKKE Loot) Really good for PVE
+//Rapid Hit, Explosive Payload
+dimwishlist:item=1019000888&perks=247725512,3038247973#notes:(Throlli's HÄKKE Loot) Really good for PVE
+//Shoot to Loot, Headstone
+dimwishlist:item=1019000888&perks=3700496672,124408337#notes:(Throlli's HÄKKE Loot) Really good for PVE
+//Rapid Hit, Headstone
+dimwishlist:item=1019000888&perks=247725512,124408337#notes:(Throlli's HÄKKE Loot) Really good for PVE
+
+    //Void
+
+      //Pointed Inquiry
+//Fourth Time's the Charm, Focused Fury
+dimwishlist:item=297296830&perks=1354429876,2896038713#notes:(Throlli's Throne World) Pretty good for PVE
+//Shoot to Loot, Focused Fury
+dimwishlist:item=297296830&perks=3700496672,2896038713#notes:(Throlli's Throne World) Pretty good for PVE
+
 //Sidearms
 
   //Adaptive Frame
@@ -110,7 +216,15 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard.
 //Sniper Rifles
 
   //Rapid-Fire Frame
-  
+
+    //Kinetic
+
+      //The Supremacy
+//Appended Mag, Triple Tap
+dimwishlist:item=686951703&perks=1087426260,3400784728#notes:(Throlli's Last Wish) Pretty good for PVE
+//Extended Mag, Triple Tap
+dimwishlist:item=686951703&perks=2420895100,3400784728#notes:(Throlli's Last Wish) Pretty good for PVE
+ 
   //Adaptive Frame
   
   //Aggressive Frame
@@ -179,7 +293,12 @@ dimwishlist:item=1959650777&perks=3796465595,3300816228,2978966579#notes:(Throll
 dimwishlist:item=136525518&perks=3796465595,3300816228,3977735242#notes:(Throlli's Iron Banner) Must have for PVE
 
       //The Hothead
-dimwishlist:item=4255171531
+//Impact Casing, Tracking Module, Clown Cartridge
+dimwishlist:item=4255171531&perks=3796465595,3977735242,2284787283#notes:(Throlli's Nightfalls) Must have for PVE
+//Impact Casing, Field Prep, Clown Cartridge
+dimwishlist:item=4255171531&perks=3796465595,2869569095,2284787283#notes:(Throlli's Nightfalls) Must have for PVE
+//Impact Casing, Auto-Loading Holster, Explosive Light
+dimwishlist:item=4255171531&perks=3796465595,3300816228,3194351027#notes:(Throlli's Nightfalls) Must have for PVE
 
       //The Hothead (Adept)
 //Impact Casing, Tracking Module, Clown Cartridge
@@ -236,7 +355,6 @@ dimwishlist:item=1399243961&perks=3400784728,1771339417#notes:(Throlli's Trials)
       //Reed's Regret (Adept)
 //Triple Tap, Firing Line
 dimwishlist:item=2475355656&perks=3400784728,1771339417#notes:(Throlli's Flawless) Must have for PVE
-
 
     //Void
 
