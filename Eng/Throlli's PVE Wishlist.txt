@@ -735,9 +735,42 @@ dimwishlist:item=2591241074&perks=201365942,4293542123#notes:(Throlli's Strikes)
 dimwishlist:item=686951703&perks=1087426260,3400784728#notes:(Throlli's Last Wish) Pretty good for PVE
 //Extended Mag, Triple Tap
 dimwishlist:item=686951703&perks=2420895100,3400784728#notes:(Throlli's Last Wish) Pretty good for PVE
- 
+
+    //Void
+
+      //Father's Sins
+//Tactical Mag, Triple Tap, Focused Fury
+dimwishlist:item=3865728990&perks=106909392,3400784728,2896038713#notes:(Throlli's Wellspring) Must have for PVE
+
+    //Arc
+
+      //Apostate
+//Tactical Mag, Lead from Gold, Explosive Payload
+dimwishlist:item=2164448701&perks=106909392,1556840489,3038247973#notes:(Throlli's Altars of Sorrow) Decent for PVE
+//Appended Mag, Lead from Gold, Explosive Payload
+dimwishlist:item=2164448701&perks=1087426260,1556840489,3038247973#notes:(Throlli's Altars of Sorrow) Decent for PVE
+//Extended Mag, Lead from Gold, Explosive Payload
+dimwishlist:item=2164448701&perks=2420895100,1556840489,3038247973#notes:(Throlli's Altars of Sorrow) Decent for PVE
+
+    //Solar
+
+      //Distant Tumulus
+//Tactical Mag, Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=106909392,2284787283,1771339417#notes:(Throlli's Dares) Must have for PVE
+//Appended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=1087426260,2284787283,1771339417#notes:(Throlli's Dares) Must have for PVE
+//Extended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417#notes:(Throlli's Dares) Must have for PVE
+
   //Adaptive Frame
-  
+
+    //Kinetic
+
+      //Tranquility
+//
+
+
+
   //Aggressive Frame
   
 //Fusion Rifles
