@@ -643,9 +643,75 @@ dimwishlist:item=766323545&perks=1354429876,1546637391#notes:(Throlli's Dares) R
  //Bow
  
    //Lightweight Frame
-   
-   //Precision Frame
-   
+ 
+    //Kinetic
+ 
+      //Fel Taradiddle
+ //Shoot to Loot, Explosive Head
+ dimwishlist:item=1399109800&perks=3700496672,3365897133#notes:(Throlli's Throne World) Really good for PVE
+ 
+      //Whispering Slab
+ //Archer's Tempo, Vorpal Weapon
+ dimwishlist:item=211938782&perks=201365942,1546637391#notes:(Throlli's Dares) Really good for PVE
+ 
+    //Stasis
+ 
+      //Lunata-4B
+ //Shoot to Loot, Headstone
+ dimwishlist:item=2513965917&perks=3700496672,124408337#notes:(Throlli's VEIST Loot) Really good for PVE
+ 
+    //Void
+ 
+      //Imperial Needle
+ //Archer's Tempo, Frenzy
+ dimwishlist:item=3460122497&perks=201365942,4104185692#notes:(Throlli's Chosen) Really good for PVE
+ 
+    //Solar
+ 
+      //Tyranny of Heaven
+ //Archer's Tempo, Explosive Head
+ dimwishlist:item=2721249463&perks=201365942,3365897133#notes:(Throlli's Last Wish) Really good for PVE
+ 
+  //Precision Frame
+
+    //Kinetic
+
+      //Biting Winds
+//Rapid Hit, Explosive Head
+dimwishlist:item=1621657423&perks=247725512,3365897133#notes:(Throlli's Europa) Really good for PVE
+
+      //Accrued Redemption
+//Archer's Tempo, Explosive Head
+dimwishlist:item=4095896073&perks=201365942,3365897133#notes:(Throlli's Garden of Salvation) Really good for PVE
+//Archer's Tempo, Rapid Hit
+dimwishlist:item=4095896073&perks=201365942,247725512#notes:(Throlli's Garden of Salvation) Really good for PVE
+
+    //Void
+
+      //Under your Skin
+//Archer's Tempo, Explosive Head
+dimwishlist:item=232928045&perks=201365942,3365897133#notes:(Throlli's PsiOps) Really good for PVE
+
+    //Arc
+
+      //Point of the Stag
+//Elastic String, Natural Fletching, Archer's Tempo, Vorpal Weapon
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:(Throlli's Exotic Kiosk) Really good for PVE
+
+      //Wolftone Draw
+//Shoot to Loot, Frenzy
+dimwishlist:item=3472875143&perks=3700496672,4104185692#notes:(Throlli's Lost) Really good for PVE
+//Archer's Tempo, Frenzy
+dimwishlist:item=3472875143&perks=201365942,4104185692#notes:(Throlli's Lost) Really good for PVE
+
+    //Solar
+
+      //Strident Whistle
+//Shoot to Loot, Incandescent
+dimwishlist:item=2591241074&perks=3700496672,4293542123#notes:(Throlli's Strikes) Really good for PVE
+//Archer's Tempo, Incandescent
+dimwishlist:item=2591241074&perks=201365942,4293542123#notes:(Throlli's Strikes) Really good for PVE
+
  //Shotguns
  
   //Repid-Fire Frame
