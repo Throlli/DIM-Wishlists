@@ -8,33 +8,125 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard.
     //Stasis
       
       //Krait
-
+//Subsistence, Headstone
+dimwishlist:item=2852052802&perks=1820235745,124408337#notes:(Throlli's VEIST Loot) Really good for PVE
+//Stats for All, Headstone
+dimwishlist:item=2852052802&perks=1583705720,124408337#notes:(Throlli's VEIST Loot) Really good for PVE
+//Overflow, Headstone
+dimwishlist:item=2852052802&perks=3643424744,124408337#notes:(Throlli's VEIST Loot) Really good for PVE
 
     //Arc
     
       //Sweet Sorrow
+//Triple Tap, Vorpal Weapon
+dimwishlist:item=1248372789&perks=3400784728,1546637391#notes:(Throlli's PsiOps) Really good for PVE
 
+    //Solar
+
+      //Arctic Haze
+//Triple Tap, Vorpal Weapon
+dimwishlist:item=20935540&perks=3400784728,1546637391#notes:(Throlli's Europa) Really good for PVE
 
   //Adaptive Frame
   
     //Kinetic
     
       //Duty Bound
+//Triple Tap, Frenzy
+dimwishlist:item=435216110&perks=3400784728,4104185692#notes:(Throlli's Nightfalls) Must have for PVE
+//Triple Tap, Fourth Time's the Charm
+dimwishlist:item=435216110&perks=3400784728,1354429876#notes:(Throlli's Nightfalls) Must have for PVE
 
       //Duty Bound (Adept)
+//Triple Tap, Frenzy
+dimwishlist:item=1135050595&perks=3400784728,4104185692#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Triple Tap, Fourth Time's the Charm
+dimwishlist:item=1135050595&perks=3400784728,1354429876#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
 
+      //The Last Breath
+//Demolitionist, Frenzy
+dimwishlist:item=507038823&perks=3523296417,4104185692#notes:(Throlli's Prophecy) Must have for PVE
+
+    //Void
+
+      //Gnawing Hunger
+//Arrowhead Brake, Appended Mag, Overflow, Rampage
+dimwishlist:item=821154603&perks=839105230,1087426260,3643424744,3425386926#notes:(Throlli's Reckoning) Pretty good for PVE
+
+    //Arc
+
+      //Arc Logic
+//Overflow, Frenzy
+dimwishlist:item=2723909519&perks=3643424744,4104185692#notes:(Throlli's Moon) Must have for PVE
+
+  //Precision Frame
+
+    //Kinetic
+
+      //BrayTech Werewolf
+//Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=528834068&perks=1354429876,1546637391#notes:(Throlli's Lost) Really good for PVE
+
+      //Seventh Seraph Carbine
+//Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=1561006927&perks=1354429876,1546637391#notes:(Throlli's Dares) Really good for PVE
+
+      //Firefright
+//Fourth Time's the Charm, Focused Fury
+dimwishlist:item=2778013407&perks=1354429876,2896038713#notes:(Throlli's Nightmare Containment) Really good for PVE
+
+      //Tigerspite
+//Overflow, Frenzy
+dimwishlist:item=640114618&perks=3643424744,4104185692#notes:(Throlli's Dreaming City) Really good for PVE
+
+    //Arc
+
+      //Shadow Price
+//Overflow, Dragonfly
+dimwishlist:item=2633186522&perks=3643424744,2848615171#notes:(Throlli's Nightfalls) Pretty good for PVE
+
+      //Shadow Price (Adept)
+//Overflow, Dragonfly
+dimwishlist:item=2147010335&perks=3643424744,2848615171#notes:(Throlli's Grandmaster Nightfalls) Pretty good for PVE
 
     //Solar
 
-      //The Summoner
+      //Ammit AR2
+//Turnabout, Adaptive Munitions
+dimwishlist:item=2119346509&perks=2209918983,1048183818#notes:(Throlli's Enclave) Really good for PVE
+//Stats for All, Incandescent
+dimwishlist:item=2119346509&perks=1583705720,4293542123#notes:(Throlli's Enclave) Really good for PVE
 
-      //The Summoner (Adept)
-
-
-  //Precision Frame
-  
   //High-Impact Frame
-  
+
+    //Stasis
+
+      //Herod-C
+//Fourth Time's the Charm, Frenzy
+dimwishlist:item=1788603939&perks=1354429876,4104185692#notes:(Throlli's Gambit) Really good for PVE
+//Shoot to Loot, Frenzy
+dimwishlist:item=1788603939&perks=3700496672,4104185692#notes:(Throlli's Gambit) Really good for PVE
+//Shoot to Loot, Headstone
+dimwishlist:item=1788603939&perks=3700496672,124408337#notes:(Throlli's Gambit) Really good for PVE
+
+    //Void
+
+      //Age Old Bond
+//Extended Barrel, Light Mag, Fourth Time's the Charm, Rampage
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:(Throlli's Last Wish) Pretty good for PVE
+
+    //Arc
+
+      //Come to Pass
+//Shoot to Loot, Adaptive Munitions
+dimwishlist:item=927567426&perks=3700496672,1048183818#notes:(Throlli's Throne World) Pretty good for PVE
+
+    //Solar
+
+      //Chrysura Melo
+//Fourth Time's the Charm, Frenzy
+dimwishlist:item=1337707096&perks=1354429876,4104185692#notes:(Throlli's Lost) Pretty good for PVE
+
 //Hand Cannons
 
   //Precision Frame
