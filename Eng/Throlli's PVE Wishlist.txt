@@ -174,15 +174,44 @@ dimwishlist:item=297296830&perks=3700496672,2896038713#notes:(Throlli's Throne W
 //Sidearms
 
   //Adaptive Frame
-  
+
+    //Kinetic
+
+      //High Albedo
+//Ambitious Assassin, Wellspring
+dimwishlist:item=1197486957&perks=2010801679,3592538738#notes:(Throlli's Europa) Pretty good for PVE
+
+    //Stasis
+
+      //Peacebond
+//Perpetual Motion, Headstone
+dimwishlist:item=829330711&perks=1428297954,124408337#notes:(Throlli's Iron Banner) Must have for PVE
+
   //Rapid-Fire Frame
   
   //Aggressive Burst
-  
+
+    //Kinetic
+
+      //Empirical Evidence
+//Perpetual Motion, Wellspring
+dimwishlist:item=2607304614&perks=1428297954,3592538738#notes:(Throlli's Throne World) Pretty good for PVE
+
+    //Void
+
+      //Brass Attacks
+//Frenzy
+dimwishlist:item=2121785039&perks=4104185692#notes:(Throlli's Chosen) Must have for PVE
+
   //Lightweight Frame
   
   //Adaptive Frame
-  
+
+    //Kinetic
+
+      //Allied Demand
+//Frenzy
+dimwishlist:item=1532276803&perks=4104185692#notes:(Throlli's Iron Banner) Pretty good for PVE
   //Precision Frame
   
 //Submachine Guns
