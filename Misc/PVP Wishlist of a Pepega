@@ -9,13 +9,54 @@ dimwishlist:item=2990047042&perks=588594999,957782887
 //Snapshot, Explosive Payload
 dimwishlist:item=3169616514&perks=957782887,3038247973
 
+//Silicon Neuroma
+//Snapshot, Opening Shot
+dimwishlist:item=3355385170&perks=957782887,47981717
+dimwishlist:item=1387987271&perks=957782887,47981717
+
+//Defiance of Yasmin
+//Snapshot, Opening Shot
+dimwishlist:item=3228096719&perks=957782887,47981717
+
+//The Supremacy
+//Snapshot
+dimwishlist:item=686951703&perks=957782887
+
 
 //Wastelander M5
 //Full Choke, Assault Mag, Perpetual Motion, Opening Shot
 dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717
 
+//Fractethyst
+//Full Choke, Assault Mag, Slideshot, Opening Shot
+dimwishlist:item=3184681056&perks=1047830412,791862061,3161816588,47981717
+
+//Astral Horizon
+//Full Choke, Assault Mag, Surplus, Opening Shot
+dimwishlist:item=1697682876&perks=1047830412,791862061,3436462433,47981717
+//Full Choke, Assault Mag, Threat Detector, Opening Shot
+dimwishlist:item=1697682876&perks=1047830412,791862061,4071163871,47981717
 
 
 //Blasphemer
-//Fluted Barrel, Assault Mag, Quickdraw, Opening Shot
-dimwishlist:item=2782847179&perks=1840239774,791862061,706527188,47981717
+//Fluted Barrel, Assault Mag, Threat Detector, Opening Shot
+dimwishlist:item=2782847179&perks=1840239774,791862061,4071163871,47981717
+
+//Fortissimo-11
+//Fluted Barrel, Assault Mag, Perpetual Motion, Opening Shot
+dimwishlist:item=2821430069&perks=1840239774,791862061,1428297954,47981717
+//Fluted Barrel, Assault Mag, Threat Detector, Opening Shot
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,47981717
+
+//Heritage
+//Fluted Barrel, Assault Mag, Slideshot, Snapshot Sights
+dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,957782887
+
+
+//Deliverance
+//Smallbore, Particle Repeater, Perpetual Motion, Tap the Trigger
+dimwishlist:item=768621510&perks=1482024992,3868766766,1428297954,1890422124
+
+//Burden of Guilt
+//Polygonal Rifling, Projection Fuse, Elemental Capacitor, Successful Warmup
+dimwishlist:item=933455006&perks=1392496348,2969185026,3511092054,2652708987
