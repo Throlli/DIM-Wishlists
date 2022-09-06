@@ -962,7 +962,35 @@ dimwishlist:item=3326850591&perks=1087426260,3643424744,4104185692#notes:(Throll
 //Trace Rifles
  
   //Adaptive Frame
-  
+
+    //Void
+
+      //Hollow Denial
+//Lead from Gold, Killing Tally
+dimwishlist:item=2323544076&perks=1556840489,557221067#notes:(Throlli's Nightmare Containment) Really good for PVE
+
+    //Solar
+
+      //Retraced Path
+//Subsistence, Incandescent
+dimwishlist:item=548958835&perks=1820235745,4293542123#notes:(Throlli's Dares) Really good for PVE
+
+//Glaives
+
+  //Adaptive Frame
+
+    //Void
+
+      //The Enigma
+//Impulse Amplifier, Frenzy
+dimwishlist:item=2595497736&perks=951095735,4104185692#notes:(Throlli's Witch Queen) Must have for PVE
+
+    //Arc
+
+      //Nezarec's Whisper
+//Demolitionist, Frenzy
+dimwishlist:item=254636484&perks=3523296417,4104185692#notes:(Throlli's Nightmare Containment) Must have for PVE
+
 //Grenade Launchers
 
   //Lightweight Frame
