@@ -767,12 +767,186 @@ dimwishlist:item=2807687156&perks=2420895100,2284787283,1771339417#notes:(Throll
     //Kinetic
 
       //Tranquility
-//
+//Appended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=1087426260,3300816228,1771339417#notes:(Throlli's Moon) Must have for PVE
+//Tactical Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=106909392,3300816228,1771339417#notes:(Throlli's Moon) Must have for PVE
+//Extended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=1645386487&perks=2420895100,3300816228,1771339417#notes:(Throlli's Moon) Must have for PVE
+//Appended Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=1645386487&perks=1087426260,3300816228,4104185692#notes:(Throlli's Moon) Must have for PVE
+//Tactical Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=1645386487&perks=106909392,3300816228,4104185692#notes:(Throlli's Moon) Must have for PVE
+//Extended Mag, Auto-Loading Holster, Frenzy
+dimwishlist:item=1645386487&perks=2420895100,3300816228,4104185692#notes:(Throlli's Moon) Must have for PVE
 
+      //Defiance of Yasmin
+//Tactical Mag, Lead from Gold, Firing Line
+dimwishlist:item=3228096719&perks=106909392,1556840489,1771339417#notes:(Throlli's King's Fall) Pretty good for PVE
+//Extended Mag, Lead from Gold, Firing Line
+dimwishlist:item=3228096719&perks=2420895100,1556840489,1771339417#notes:(Throlli's King's Fall) Pretty good for PVE
+//Tactical Mag, Shoot to Loot, Firing Line
+dimwishlist:item=3228096719&perks=106909392,3700496672,1771339417#notes:(Throlli's King's Fall) Pretty good for PVE
+//Extended Mag, Shoot to Loot, Firing Line
+dimwishlist:item=3228096719&perks=2420895100,3700496672,1771339417#notes:(Throlli's King's Fall) Pretty good for PVE
 
+      //Long Shadow
+//Appended Mag, Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=1087426260,2869569095,3400784728#notes:(Throlli's World Loot) Must have for PVE
+//Tactical Mag, Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=106909392,2869569095,3400784728#notes:(Throlli's World Loot) Must have for PVE
+//Extended Mag, Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=2420895100,2869569095,3400784728#notes:(Throlli's World Loot) Must have for PVE
+
+    //Stasis
+
+      //Thoughtless
+//Extended Mag, Overflow, Firing Line
+dimwishlist:item=4067556514&perks=2420895100,3643424744,1771339417#notes:(Throlli's PsiOps) Must have for PVE
+
+    //Void
+
+      //Fugue-55
+//Appended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=2233545123&perks=1087426260,3300816228,1771339417#notes:(Throlli's SUROS Loot) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=2233545123&perks=106909392,3300816228,1771339417#notes:(Throlli's SUROS Loot) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=2233545123&perks=2420895100,3300816228,1771339417#notes:(Throlli's SUROS Loot) Really good for PVE
+//Appended Mag, Fourth Time's the Charm, Firing Line
+dimwishlist:item=2233545123&perks=1087426260,1354429876,1771339417#notes:(Throlli's SUROS Loot) Really good for PVE
+//Tactical Mag, Fourth Time's the Charm, Firing Line
+dimwishlist:item=2233545123&perks=106909392,1354429876,1771339417#notes:(Throlli's SUROS Loot) Really good for PVE
+//Extended Mag, Fourth Time's the Charm, Firing Line
+dimwishlist:item=2233545123&perks=2420895100,1354429876,1771339417#notes:(Throlli's SUROS Loot) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=2233545123&perks=1087426260,3300816228,1546637391#notes:(Throlli's SUROS Loot) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=2233545123&perks=106909392,3300816228,1546637391#notes:(Throlli's SUROS Loot) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=2233545123&perks=2420895100,3300816228,1546637391#notes:(Throlli's SUROS Loot) Really good for PVE
+//Appended Mag, Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=2233545123&perks=1087426260,1354429876,1546637391#notes:(Throlli's SUROS Loot) Really good for PVE
+//Tactical Mag, Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=2233545123&perks=106909392,1354429876,1546637391#notes:(Throlli's SUROS Loot) Really good for PVE
+//Extended Mag, Fourth Time's the Charm, Vorpal Weapon
+dimwishlist:item=2233545123&perks=2420895100,1354429876,1546637391#notes:(Throlli's SUROS Loot) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Focused Fury
+dimwishlist:item=2233545123&perks=1087426260,3300816228,2896038713#notes:(Throlli's SUROS Loot) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, Focused Fury
+dimwishlist:item=2233545123&perks=106909392,3300816228,2896038713#notes:(Throlli's SUROS Loot) Really good for PVE
+//Extended Mag, Auto-Loading Holster, Focused Fury
+dimwishlist:item=2233545123&perks=2420895100,3300816228,2896038713#notes:(Throlli's SUROS Loot) Really good for PVE
+//Appended Mag, Fourth Time's the Charm, Focused Fury
+dimwishlist:item=2233545123&perks=1087426260,1354429876,2896038713#notes:(Throlli's SUROS Loot) Really good for PVE
+//Tactical Mag, Fourth Time's the Charm, Focused Fury
+dimwishlist:item=2233545123&perks=106909392,1354429876,2896038713#notes:(Throlli's SUROS Loot) Really good for PVE
+//Extended Mag, Fourth Time's the Charm, Focused Fury
+dimwishlist:item=2233545123&perks=2420895100,1354429876,2896038713#notes:(Throlli's SUROS Loot) Really good for PVE
+
+    //Solar
+
+      //Uzume RR4
+//Appended Mag, Triple Tap, Explosive Payload
+//Tactical Mag, Triple Tap, Explosive Payload
+//Extended Mag, Triple Tap, Explosive Payload
 
   //Aggressive Frame
-  
+
+    //Kinetic
+
+      //Succession
+//Tactical Mag, Reconstruction, Vorpal Weapon
+dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+//Extended Mag, Reconstruction, Vorpal Weapon
+dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391#notes:(Throlli's Deep Stone Crypt) Must have for PVE
+
+      //Silicon Neuroma
+//Appended Mag, Triple Tap, Firing Line
+dimwishlist:item=3355385170&perks=1087426260,3400784728,1771339417#notes:(Throlli's Nightfalls) Must have for PVE
+//Extended Mag, Triple Tap, Firing Line
+dimwishlist:item=3355385170&perks=2420895100,3400784728,1771339417#notes:(Throlli's Nightfalls) Must have for PVE
+//Appended Mag, Triple Tap, Frenzy
+dimwishlist:item=3355385170&perks=1087426260,3400784728,4104185692#notes:(Throlli's Nightfalls) Must have for PVE
+//Extended Mag, Triple Tap, Frenzy
+dimwishlist:item=3355385170&perks=2420895100,3400784728,4104185692#notes:(Throlli's Nightfalls) Must have for PVE
+
+      //Silicon Neuroma (Adept)
+//Appended Mag, Triple Tap, Firing Line
+dimwishlist:item=1387987271&perks=1087426260,3400784728,1771339417#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Extended Mag, Triple Tap, Firing Line
+dimwishlist:item=1387987271&perks=2420895100,3400784728,1771339417#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Appended Mag, Triple Tap, Frenzy
+dimwishlist:item=1387987271&perks=1087426260,3400784728,4104185692#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Extended Mag, Triple Tap, Frenzy
+dimwishlist:item=1387987271&perks=2420895100,3400784728,4104185692#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+
+    //Void
+
+      //Frozen Orbit
+//Appended Mag, Clown Cartridge, Vorpal Weapon
+dimwishlist:item=3473290087&perks=1087426260,2284787283,1546637391#notes:(Throlli's Crucible) Really good for PVE
+//Tactical Mag, Clown Cartridge, Vorpal Weapon
+dimwishlist:item=3473290087&perks=106909392,2284787283,1546637391#notes:(Throlli's Crucible) Really good for PVE
+//Extended Mag, Clown Cartridge, Vorpal Weapon
+dimwishlist:item=3473290087&perks=2420895100,2284787283,1546637391#notes:(Throlli's Crucible) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3473290087&perks=1087426260,3300816228,1546637391#notes:(Throlli's Crucible) Must have for PVE
+//Tactical Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3473290087&perks=106909392,3300816228,1546637391#notes:(Throlli's Crucible) Must have for PVE
+//Extended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=3473290087&perks=2420895100,3300816228,1546637391#notes:(Throlli's Crucible) Must have for PVE
+//Appended Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=3473290087&perks=1087426260,3400784728,1546637391#notes:(Throlli's Crucible) Really good for PVE
+//Tactical Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=3473290087&perks=106909392,3400784728,1546637391#notes:(Throlli's Crucible) Really good for PVE
+//Extended Mag, Triple Tap, Vorpal Weapon
+dimwishlist:item=3473290087&perks=2420895100,3400784728,1546637391#notes:(Throlli's Crucible) Really good for PVE
+//Appended Mag, Auto-Loading Holster, High-Impact Reserves
+dimwishlist:item=3473290087&perks=1087426260,3300816228,2213355989#notes:(Throlli's Crucible) Really good for PVE
+//Tactical Mag, Auto-Loading Holster, High-Impact Reserves
+dimwishlist:item=3473290087&perks=106909392,3300816228,2213355989#notes:(Throlli's Crucible) Really good for PVE
+//Extended Mag, Auto-Loading Holster, High-Impact Reserves
+dimwishlist:item=3473290087&perks=2420895100,3300816228,2213355989#notes:(Throlli's Crucible) Really good for PVE
+//Appended Mag, Triple Tap, High-Impact Reserves
+dimwishlist:item=3473290087&perks=1087426260,3400784728,2213355989#notes:(Throlli's Crucible) Really good for PVE
+//Tactical Mag, Triple Tap, High-Impact Reserves
+dimwishlist:item=3473290087&perks=106909392,3400784728,2213355989#notes:(Throlli's Crucible) Really good for PVE
+//Extended Mag, Triple Tap, High-Impact Reserves
+dimwishlist:item=3473290087&perks=2420895100,3400784728,2213355989#notes:(Throlli's Crucible) Really good for PVE
+
+    //Arc
+
+      //Occluded Finality
+//Extended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=852551895&perks=2420895100,3300816228,1771339417#notes:(Throlli's Iron Banner) Must have for PVE
+//Appended Mag, Auto-Loading Holster, Firing Line
+dimwishlist:item=852551895&perks=1087426260,3300816228,1771339417#notes:(Throlli's Iron Banner) Must have for PVE
+//Extended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=852551895&perks=2420895100,3300816228,1546637391#notes:(Throlli's Iron Banner) Really good for PVE
+//Appended Mag, Auto-Loading Holster, Vorpal Weapon
+dimwishlist:item=852551895&perks=1087426260,3300816228,1546637391#notes:(Throlli's Iron Banner) Really good for PVE
+
+    //Solar
+
+      //The Long Walk
+//Extended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=3326850591&perks=2420895100,2284787283,1771339417#notes:(Throlli's Prophecy) Really good for PVE
+//Appended Mag, Clown Cartridge, Firing Line
+dimwishlist:item=3326850591&perks=1087426260,2284787283,1771339417#notes:(Throlli's Prophecy) Really good for PVE
+//Extended Mag, Overflow, Firing Line
+dimwishlist:item=3326850591&perks=2420895100,3643424744,1771339417#notes:(Throlli's Prophecy) Really good for PVE
+//Appended Mag, Overflow, Firing Line
+dimwishlist:item=3326850591&perks=1087426260,3643424744,1771339417#notes:(Throlli's Prophecy) Really good for PVE
+//Extended Mag, Clown Cartridge, Frenzy
+dimwishlist:item=3326850591&perks=2420895100,2284787283,4104185692#notes:(Throlli's Prophecy) Really good for PVE
+//Appended Mag, Clown Cartridge, Frenzy
+dimwishlist:item=3326850591&perks=1087426260,2284787283,4104185692#notes:(Throlli's Prophecy) Really good for PVE
+//Extended Mag, Overflow, Frenzy
+dimwishlist:item=3326850591&perks=2420895100,3643424744,4104185692#notes:(Throlli's Prophecy) Really good for PVE
+//Appended Mag, Overflow, Frenzy
+dimwishlist:item=3326850591&perks=1087426260,3643424744,4104185692#notes:(Throlli's Prophecy) Really good for PVE
+
 //Fusion Rifles
 
   /Rapid-Fire Frame
