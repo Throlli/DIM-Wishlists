@@ -1100,13 +1100,23 @@ dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#no
 
   //Wave Frame
 
+    //Void
+
+      //Deafening Whisper
+//Ambitious Assassin, Wellspring
+dimwishlist:item=981718087&perks=,2010801679,3592538738#notes:(Throlli's Wrathborn Hunts) Really good for PVE
+
     //Arc
     
       //Forbearance
-    
+//Ambitious Assassin, Chain Reaction
+dimwishlist:item=613334176&perks=,2010801679,2396489472#notes:(Throlli's Vow of the Disciple) Must have for PVE
+
     //Solar
       
       //Explosive Personality
+//Auto-Loading Holster, Unrelenting
+dimwishlist:item=4096943616&perks=,3300816228,3108830275#notes:(Throlli's PsiOps) Really good for PVE
 
   
   //Rapid-Fire Frame
