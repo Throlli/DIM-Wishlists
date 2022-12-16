@@ -536,6 +536,12 @@ dimwishlist:item=829330711&perks=1428297954,124408337#notes:(Throlli's Iron Bann
 //Perpetual Motion, Wellspring
 dimwishlist:item=2607304614&perks=1428297954,3592538738#notes:(Throlli's Throne World) Pretty good for PVE
 
+    //Stasis
+
+      //Liminal Vigil
+//HighCaliber Rounds, Headstone, Desperado
+dimwishlist:item=3138208275&perks=,1561002382,124408337,3047969693#notes:(Throlli's Spire of the Watcher) Pretty good for PVE
+
     //Void
 
       //Brass Attacks
@@ -1043,8 +1049,55 @@ dimwishlist:item=254636484&perks=3523296417,4104185692#notes:(Throlli's Nightmar
 
 //Grenade Launchers
 
+  //Double Fire
+
+    //Void
+
+      //Wilderflight
+//Spike Grenades, Demolitionist, Vorpal Weapon
+dimwishlist:item=2306182339&perks=,3301904089,3523296417,1546637391#notes:(Throlli's Spire of the Watcher) Must have for PVE
+
   //Lightweight Frame
-  
+
+    //Kinetic
+
+      //Militia's Birthright
+//Blinding Grenades, Lead from Gold, Auto-Loading Holster
+dimwishlist:item=40394833&perks=,3032599245,1556840489,3300816228#notes:(Throlli's Nightfalls) Must have for PVE
+//Blinding Grenades, Slideways, Auto-Loading Holster
+dimwishlist:item=40394833&perks=,3032599245,2039302152,3300816228#notes:(Throlli's Nightfalls) Must have for PVE
+      //Militia's Birthright
+//Blinding Grenades, Lead from Gold, Auto-Loading Holster
+dimwishlist:item=2378101424&perks=,3032599245,1556840489,3300816228#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+//Blinding Grenades, Slideways, Auto-Loading Holster
+dimwishlist:item=2378101424&perks=,3032599245,2039302152,3300816228#notes:(Throlli's Grandmaster Nightfalls) Must have for PVE
+
+      //Pardon our Dust
+//Blinding Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=3849810018&perks=,3032599245,3300816228,3523296417#notes:(Throlli's Dares of Eternity) Pretty good for PVE
+
+    //Stasis
+
+      //Lingering Dread
+//Blinding Grenades, Auto-Loading Holster, Chill Clip
+dimwishlist:item=2026087437&perks=,3032599245,3300816228,2978966579#notes:(Throlli's Duality) Must have for PVE
+
+    //Void
+
+      //Truthteller
+//Blinding Grenades, Auto-Loading Holster, Demolitionist
+dimwishlist:item=1946491241&perks=,3032599245,3300816228,3523296417#notes:(Throlli's World Loot) Pretty good for PVE
+
+      //Orewing's Maul
+//Blinding Grenades, Field Prep, Auto-Loading Holster
+dimwishlist:item=2108920981&perks=,3032599245,2869569095,3300816228#notes:(Throlli's Iron Banner) Pretty good for PVE
+
+    //Arc
+
+      //Salvager's Salvo
+//Quick Launch, Spike Grenades, Demolitionist, Vorpal Weapon
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:(Throlli's Rituals) Must have for PVE
+
   //Wave Frame
 
     //Arc
