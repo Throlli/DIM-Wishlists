@@ -9,4 +9,4 @@ Alternatively you can do what I would recommend and let DIM pull your Wishlists 
 Once you have loaded the Wishlists you want simply typing is:wishlist into the searchbar should mark everything on the applied Wishlists.
 
 If you want to add my Wishlist via GitHub copy the following URL into your DIM:
-https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/PVE%20Wishlist.txt
+https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/PVE%20Wishlist
