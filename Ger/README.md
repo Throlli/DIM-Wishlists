@@ -8,7 +8,7 @@ Zuerst musst du in deine DIM Einstellungen und bis zu "Wunschliste" herunterscro
 Sobald du die gewünschten Wunschlisten geladen hast musst du nur noch is:wishlist in die Suchzeile eingeben und es sollten alle Waffen, die auf den Wunschlisten sind, hervorgehoben werden.
 
 Wenn du meine deutsche Wunschliste via GitHub hinzufügen möchtest, kopiere die folgende URL in dein DIM:
-https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Ger/PVE%20Wishlist.txt
+https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Ger/PVE%20Wunschliste
 
 Für die englische Wunschliste kopiere folgende URL in dein DIM:
-https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/PVE%20Wishlist.txt
+https://raw.githubusercontent.com/Throlli/DIM-Wishlists/master/Eng/PVE%20Wishlist
