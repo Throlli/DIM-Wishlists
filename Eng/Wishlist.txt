@@ -1,0 +1,43 @@
+title:{WIP} Throlli's PVE Wishlist
+description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard. Currently does not support Enhanced Traits
+
+//  Heavy
+
+//    Grenade Launchers
+
+//      Edge Transit
+//Spike Grenades, Cascade Point, Bait and Switch
+dimwishlist:item=568611923&perks=3301904089,3751912585,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+//Cascade Point, Bait and Switch
+dimwishlist:item=568611923&perks=3751912585,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+//Spike Grenades, Envious Assassin, Bait and Switch
+dimwishlist:item=568611923&perks=3301904089,968510818,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+//Envious Assassin, Bait and Switch
+dimwishlist:item=568611923&perks=968510818,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+
+//      Cataphract GL3
+//Spike Grenades, Envious Assassin, Cascade Point
+dimwishlist:item=2738601016&perks=968510818,3751912585#notes:(Throlli's Wishlist) Must have for DPS
+//Spike Grenades, Envious Assassin, Bait and Switch
+dimwishlist:item=2738601016&perks=968510818,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+
+//    Swords
+
+//      Falling Guillotine
+//Eager Edge
+dimwishlist:item=1815105249&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
+
+//      The Slammer
+//Eager Edge
+dimwishlist:item=2889501828&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
+dimwishlist:item=1354727549&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
+
+//      Half-Truths
+//Eager Edge
+dimwishlist:item=3257091166&perks=2077819806#notes:(Throlli's Wishlist) Adaptive Eager Edge
+
+//      The other Half
+//Eager Edge
+dimwishlist:item=3257091167&perks=2077819806#notes:(Throlli's Wishlist) Adaptive Eager Edge
+
+//dimwishlist:item=  &perks=  ,  #notes:(Throlli's Wishlist)
