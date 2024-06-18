@@ -7,25 +7,46 @@ description:{WIP} Notes on specific roles on guns for PVE on Mouse and Keyboard.
 
 //      Edge Transit
 //Spike Grenades, Cascade Point, Bait and Switch
-dimwishlist:item=568611923&perks=3301904089,3751912585,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+dimwishlist:item=568611923&perks=3301904089,3751912585,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
 //Cascade Point, Bait and Switch
-dimwishlist:item=568611923&perks=3751912585,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+dimwishlist:item=568611923&perks=3751912585,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
 //Spike Grenades, Envious Assassin, Bait and Switch
-dimwishlist:item=568611923&perks=3301904089,968510818,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+dimwishlist:item=568611923&perks=3301904089,968510818,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
 //Envious Assassin, Bait and Switch
-dimwishlist:item=568611923&perks=968510818,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+dimwishlist:item=568611923&perks=968510818,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
 
 //      Cataphract GL3
 //Spike Grenades, Envious Assassin, Cascade Point
-dimwishlist:item=2738601016&perks=968510818,3751912585#notes:(Throlli's Wishlist) Must have for DPS
+dimwishlist:item=2738601016&perks=968510818,3751912585#notes:(Throlli's Wishlist) S-Tier for DPS
 //Spike Grenades, Envious Assassin, Bait and Switch
-dimwishlist:item=2738601016&perks=968510818,3078487919#notes:(Throlli's Wishlist) Must have for DPS
+dimwishlist:item=2738601016&perks=968510818,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
 
 //    Swords
+
+//      Ergo Sum
+//Wolfpack Rounds
+dimwishlist:item=1681583613&perks=1959135343,1726251414#notes:(Throlli's Wishlist) S-Tier Sword DPS Buff
+dimwishlist:item=1681583613&perks=1959135343,289811733#notes:(Throlli's Wishlist) S-Tier Sword DPS Buff
+dimwishlist:item=1681583613&perks=1959135343,519046634#notes:(Throlli's Wishlist) S-Tier Sword DPS Buff
+dimwishlist:item=1681583613&perks=1959135343,2557881346#notes:(Throlli's Wishlist) S-Tier Sword DPS Buff
 
 //      Falling Guillotine
 //Eager Edge
 dimwishlist:item=1815105249&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
+dimwishlist:item=243425374&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
+//Frenzy, Bait and Switch
+dimwishlist:item=1815105249&perks=4104185692,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
+dimwishlist:item=243425374&perks=4104185692,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
+//Frenzy, Whirlwind Blade
+dimwishlist:item=1815105249&perks=4104185692,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS
+dimwishlist:item=243425374&perks=4104185692,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS
+//Frenzy, Surrounded
+dimwishlist:item=1815105249&perks=4104185692,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
+dimwishlist:item=243425374&perks=4104185692,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
+
+//      Bequest
+//Whirlwind Blade, Surrounded
+dimwishlist:item=3366545721&perks=1749209109,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
 
 //      The Slammer
 //Eager Edge
@@ -39,5 +60,3 @@ dimwishlist:item=3257091166&perks=2077819806#notes:(Throlli's Wishlist) Adaptive
 //      The other Half
 //Eager Edge
 dimwishlist:item=3257091167&perks=2077819806#notes:(Throlli's Wishlist) Adaptive Eager Edge
-
-//dimwishlist:item=  &perks=  ,  #notes:(Throlli's Wishlist)
