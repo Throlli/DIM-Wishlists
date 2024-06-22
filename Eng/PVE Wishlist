@@ -35,11 +35,11 @@ dimwishlist:item=1681583613&perks=1959135343,2557881346#notes:(Throlli's Wishlis
 dimwishlist:item=1815105249&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
 dimwishlist:item=243425374&perks=2077819806#notes:(Throlli's Wishlist) Vortex Eager Edge
 //Frenzy, Bait and Switch
-dimwishlist:item=1815105249&perks=4104185692,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
-dimwishlist:item=243425374&perks=4104185692,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS
+dimwishlist:item=1815105249&perks=4104185692,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS without Wolfpack Rounds
+dimwishlist:item=243425374&perks=4104185692,3078487919#notes:(Throlli's Wishlist) S-Tier for DPS without Wolfpack Rounds
 //Frenzy, Whirlwind Blade
-dimwishlist:item=1815105249&perks=4104185692,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS
-dimwishlist:item=243425374&perks=4104185692,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS
+dimwishlist:item=1815105249&perks=4104185692,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS with Wolfpack Rounds
+dimwishlist:item=243425374&perks=4104185692,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS with Wolfpack Rounds
 //Frenzy, Surrounded
 dimwishlist:item=1815105249&perks=4104185692,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
 dimwishlist:item=243425374&perks=4104185692,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
@@ -47,6 +47,14 @@ dimwishlist:item=243425374&perks=4104185692,3708227201#notes:(Throlli's Wishlist
 //      Bequest
 //Whirlwind Blade, Surrounded
 dimwishlist:item=3366545721&perks=1749209109,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
+
+//      Summum Bonum
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Whirlwind Blade
+dimwishlist:item=3569407878&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS with Wolfpack Rounds
+dimwishlist:item=2001697739&perks=3666208348,269888150,1749209109,3913600130#notes:(Throlli's Wishlist) S-Tier for DPS with Wolfpack Rounds
+//Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+dimwishlist:item=3569407878&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
+dimwishlist:item=2001697739&perks=3666208348,269888150,1749209109,3708227201#notes:(Throlli's Wishlist) S-Tier for DPS
 
 //      The Slammer
 //Eager Edge
