@@ -149,6 +149,31 @@ dimwishlist:item=304659313&perks=3301904089,3161816588,4104185692#notes:(Throlli
 //Blinding Grenades, Auto-Loading Holster, Chill Clip
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579#notes:(Throlli's Wishlist) S-Tier for Blinding, Stun through Slow and Shatter
 
+//    Sniper Rifles
+
+//      The Supremacy
+//Appended Mag, Rewind Rounds, Kinetic Tremors
+dimwishlist:item=2884596447&perks=1087426260,3418782618,3891536761#notes:(Throlli's Wishlist) S-Tier for Burst DPS
+//Appended Mag, Lead from Gold, Kinetic Tremors
+dimwishlist:item=2884596447&perks=1087426260,1556840489,3891536761#notes:(Throlli's Wishlist) S-Tier for Burst DPS
+//Appended Mag, Rewind Rounds, Fourth Time's the Charm
+dimwishlist:item=2884596447&perks=1087426260,3418782618,1354429876#notes:(Throlli's Wishlist) A-Tier for DPS
+
+//      Irukandji
+//Appended Mag, Fourth Time's the Charm, Firing Line
+dimwishlist:item=2673925403&perks=1087426260,1354429876,1771339417#notes:(Throlli's Wishlist) A-Tier for DPS near two other Players
+//Appended Mag, Fourth Time's the Charm, Focused Fury
+dimwishlist:item=2673925403&perks=1087426260,1354429876,2896038713#notes:(Throlli's Wishlist) A-Tier for DPS
+
+//      Critical Anomaly
+//Extended Mag, Chill Clip, Chaos Reshaped
+dimwishlist:item=445197843&perks=2420895100,2978966579,3640170453#notes:(Throlli's Wishlist) S-Tier for Burst DPS, Stun through Slow and Shatter
+dimwishlist:item=172461430&perks=2420895100,2978966579,3640170453#notes:(Throlli's Wishlist) S-Tier for Burst DPS, Stun through Slow and Shatter
+
+//      Succession
+//Tactical Mag, Reconstruction, Vorpal Weapon
+dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391#notes:(Throlli's Wishlist) S-Tier for Allrounder
+
 //  Primary
 
 //    Hand Cannons
